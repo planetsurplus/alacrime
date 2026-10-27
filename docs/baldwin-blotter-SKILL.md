@@ -192,6 +192,12 @@ Mugshot-aggregator and "jail view" SEO sites that scrape the roster. They are st
 
 Almost everything here needs Claude in Chrome — the roster above all. If the extension is not connected, **do not publish a quiet edition.** Sweep what the cloud can reach (individual USAO releases surfaced through search, newsroom items), mark the roster and every browser source *Not reached* in Sources checked with the reason, and say at the top that the jail roster could not be read.
 
+## Suicide — hold and ask, never publish
+
+Standing instruction from the owner (set for the Fairbanks record Oct. 3, 2026; applies here too). An item is caught when a source **explicitly states** that a death or an attempt was a **suicide** or **self-inflicted** ("suicide", "self-inflicted", "took his/her own life", or a manner of death recorded as suicide). A death with no manner stated, or "no foul play suspected", is not caught.
+
+When caught: do not publish it anywhere — not the artifact, not the Drive JSON, not a table row, not a correction — and do not paraphrase around it. Leave no identifying placeholder; where a count would otherwise be wrong, say only that one item is withheld pending review. Write it in full with its source and date to a local file `held-suicide-YYYY-MM-DD.md`, say in the run summary that an item is held, and send one PushNotification saying a suicide-related item is held pending permission (date and source only). Permission is per item, from the owner, in conversation; until then it stays held on every run.
+
 ## Handling rules
 
 - Everyone is **arrested or charged, not convicted**, unless an official source says convicted or sentenced.
