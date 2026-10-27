@@ -471,10 +471,10 @@ EDITIONS_ALL = []
 
 
 def render_charges(ed):
-    """Charge-O-Meter: last complete Mon-Sun week of jail bookings before this edition."""
+    """Charge-O-Meter: the current Mon-Sun week of jail bookings, counted so far (restarted Mon. Oct. 26, 2026)."""
     day = pdate(ed["date"])
-    ws = day - dt.timedelta(days=day.weekday()) - dt.timedelta(days=7)
-    we = ws + dt.timedelta(days=6)
+    ws = day - dt.timedelta(days=day.weekday())
+    we = day
     cases = week_cases(EDITIONS_ALL, ws.isoformat(), we.isoformat())
     if not cases:
         return ""
@@ -487,7 +487,7 @@ def render_charges(ed):
     dv = sum(1 for c in cases if re.search(r"family|domestic|\bdv\b|strangulation", c.get("charges") or "", re.I))
     top_k = max((k for k, *_ in CHARGE_GROUPS if k != "other"), key=lambda k: counts[k])
     top = next(lab for k, lab, *_ in CHARGE_GROUPS if k == top_k) if counts[top_k] else ""
-    span = f"Mon. {short_date(ws.isoformat())} – Sun. {short_date(we.isoformat())}"
+    span = f"Mon. {short_date(ws.isoformat())}" + (f" – {we.strftime('%a')}. {short_date(we.isoformat())}" if we != ws else "")
     bar = "".join(f'<span class="cg-{k if k != "holds" else "pending"}" style="flex:{counts[k]}" title="{lab}: {counts[k]}"></span>'
                   for k, lab, *_ in CHARGE_GROUPS if counts[k])
     tiles = "".join(
@@ -496,13 +496,13 @@ def render_charges(ed):
     lead = f"Top of the chart: <b>{top}</b>" if top else ""
     split = f"{sheriff} by the sheriff · {city} by city police · {n - sheriff - city} by troopers &amp; others" + (f" · {dv} flagged family / domestic" if dv else "")
     return f"""<section class="charge" id="charge-o-meter" aria-label="Charge-O-Meter">
-<div class="charge-head"><span class="charge-kicker">Last week&rsquo;s count, {e(span)}</span>
+<div class="charge-head"><span class="charge-kicker">This week so far, {e(span)}</span>
 <span class="charge-title">Charge-O-Meter</span></div>
 <div class="charge-total" data-total="{n}"><span class="charge-num">{n}</span><span class="charge-unit">new jail booking{'s' if n != 1 else ''}</span></div>
 <p class="charge-split">{split}</p>
 <div class="charge-bar" role="img" aria-label="Charge mix of the {n} bookings">{bar}</div>
 <ul class="charge-tiles">{tiles}</ul>
-<p class="charge-note">{lead + '. ' if lead else ''}Every booking at the Baldwin County jail that week, sorted by its most serious-sounding booked charge; a booking with several charges counts once. Immigration detainers are not crimes and are left out. City police in Daphne, Fairhope and other towns run their own jails, so many city arrests never reach this count. Booked charges are what officers listed at arrest, not what prosecutors file.</p>
+<p class="charge-note">{lead + '. ' if lead else ''}Every booking at the Baldwin County jail this week so far, sorted by its most serious-sounding booked charge; a booking with several charges counts once. Immigration detainers are not crimes and are left out. City police in Daphne, Fairhope and other towns run their own jails, so many city arrests never reach this count. Booked charges are what officers listed at arrest, not what prosecutors file.</p>
 </section>"""
 
 
