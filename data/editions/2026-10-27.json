@@ -1,0 +1,2211 @@
+{
+  "date": "2026-10-27",
+  "compiled": "2026-10-27T08:35:00-05:00",
+  "window": "Oct. 25–27, 2026",
+  "summary": "A sex offender registration arrest and a child endangerment arrest by sheriff's deputies Monday evening, and a judge kept the second man in the Spanish Fort bowling alley shooting jailed. Gulf Shores police warned of scams after a resident lost $4,000.",
+  "commentary": null,
+  "entries": [
+    {
+      "id": "mcduffie",
+      "date": "2026-10-26",
+      "time": "20:20",
+      "place": "Baldwin County",
+      "agency": "Baldwin County Sheriff",
+      "category": "other",
+      "severity": "other",
+      "cases": [
+        "Bkg #255006"
+      ],
+      "title": "Sex offender registration arrest: Robert Gordon McDuffie",
+      "body": [
+        "Robert Gordon McDuffie, 62, was arrested by sheriff's deputies at 8:20 p.m. Monday, Oct. 26, and booked into the county jail on charges of failing to register as a sex offender, which covers an adult offender not registering with local police or not following residence restrictions, and first-offense drug paraphernalia.",
+        "He was in custody when the roster was read Tuesday morning."
+      ],
+      "sources": [
+        {
+          "label": "BCSO jail roster",
+          "url": "https://cc.southernsoftware.com/bookingsearch/index.php?AgencyID=BaldwinCoSOAL"
+        }
+      ]
+    },
+    {
+      "id": "gibbs",
+      "date": "2026-10-26",
+      "time": "19:21",
+      "place": "Baldwin County",
+      "agency": "Baldwin County Sheriff",
+      "category": "other",
+      "severity": "other",
+      "cases": [
+        "Bkg #255009"
+      ],
+      "title": "Child endangerment and marijuana arrest: Antonio Leverne Gibbs",
+      "body": [
+        "Antonio Leverne Gibbs, 29, was arrested by sheriff's deputies at 7:21 p.m. Monday, Oct. 26, and booked on charges of endangering the welfare of a child, which covers putting a child's health or safety at risk, marijuana possession and first-offense drug paraphernalia.",
+        "He was in custody when the roster was read Tuesday morning."
+      ],
+      "sources": [
+        {
+          "label": "BCSO jail roster",
+          "url": "https://cc.southernsoftware.com/bookingsearch/index.php?AgencyID=BaldwinCoSOAL"
+        }
+      ]
+    },
+    {
+      "id": "grayson-bond",
+      "date": "2026-10-26",
+      "place": "Spanish Fort",
+      "agency": "Mobile County Circuit Court",
+      "category": "court",
+      "severity": "other",
+      "title": "Bond revoked, Spanish Fort bowling alley shooting: Jamarcus Lawarren Grayson",
+      "body": [
+        "Mobile County Circuit Judge Ben Brooks on Monday revoked the bond of Jamarcus Lawarren Grayson, 24, of Prichard, FOX10 reported. Grayson is one of the two men police say exchanged gunfire at Eastern Shore Lanes in Spanish Fort on Oct. 3.",
+        "Prosecutors say Grayson was under indictment in a 2024 shooting at a Mobile barbershop that wounded five people and was not allowed to have a gun. His lawyer conceded that point Monday and says Grayson acted in self-defense in both cases. He stays jailed until his trial in the 2024 case, set for April. The other man in the Spanish Fort case, Gregory McDonald, was booked Oct. 21 and released."
+      ],
+      "sources": [
+        {
+          "label": "FOX10, Oct. 26",
+          "url": "https://www.fox10tv.com/2026/10/26/judge-revokes-bond-prichard-man-who-faces-charges-related-2-shootings/"
+        }
+      ]
+    },
+    {
+      "id": "williams-dui",
+      "date": "2026-10-26",
+      "time": "18:58",
+      "place": "Baldwin County",
+      "agency": "State Troopers",
+      "category": "dui",
+      "severity": "other",
+      "cases": [
+        "Bkg #255016"
+      ],
+      "title": "DUI arrest by troopers: Darrell Joseph Williams",
+      "body": [
+        "Darrell Joseph Williams, 39, was arrested by state troopers at 6:58 p.m. Monday, Oct. 26, and booked early Tuesday on a charge of driving under the influence of alcohol. He was the only admit in the jail's 24-hour list when it was read Tuesday morning, and was in custody."
+      ],
+      "sources": [
+        {
+          "label": "BCSO jail roster",
+          "url": "https://cc.southernsoftware.com/bookingsearch/index.php?AgencyID=BaldwinCoSOAL"
+        }
+      ]
+    },
+    {
+      "id": "gs-scams",
+      "date": "2026-10-26",
+      "place": "Gulf Shores",
+      "agency": "Gulf Shores Police",
+      "category": "property",
+      "severity": "other",
+      "title": "Scam warning, Gulf Shores: resident loses $4,000 to fake permit invoice",
+      "body": [
+        "Gulf Shores police and the city warned residents and businesses on Monday about several active scams, FOX10 reported. The city says people who applied to its Planning Commission this year have received convincing emails and invoices demanding an \"approval fee,\" and at least one resident lost $4,000.",
+        "The city says it never asks for payment by email wire transfer and asks anyone who receives such a request to contact the city directly. No arrest has been announced."
+      ],
+      "sources": [
+        {
+          "label": "FOX10, Oct. 26",
+          "url": "https://www.fox10tv.com/2026/10/26/city-gulf-shores-warns-residents-multiple-fraud-attempts/"
+        }
+      ]
+    }
+  ],
+  "filings": {
+    "window": "Oct. 19–25",
+    "courts": [
+      {
+        "court": "Baldwin County Sheriff",
+        "count": 94
+      },
+      {
+        "court": "Bay Minette PD",
+        "count": 15
+      },
+      {
+        "court": "Foley PD",
+        "count": 4
+      },
+      {
+        "court": "Daphne PD",
+        "count": 3
+      },
+      {
+        "court": "State Troopers",
+        "count": 3
+      },
+      {
+        "court": "Fairhope PD",
+        "count": 2
+      },
+      {
+        "court": "Gulf Shores PD",
+        "count": 2
+      },
+      {
+        "court": "Pardons & Paroles",
+        "count": 2
+      },
+      {
+        "court": "Robertsdale PD",
+        "count": 2
+      },
+      {
+        "court": "Spanish Fort PD",
+        "count": 2
+      },
+      {
+        "court": "U.S. Marshals",
+        "count": 2
+      },
+      {
+        "court": "Not listed",
+        "count": 1
+      },
+      {
+        "court": "Orange Beach PD",
+        "count": 1
+      }
+    ],
+    "new": [
+      {
+        "case": "Bkg #254957",
+        "defendant": "Aiden Christian Duck, 20",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-24",
+        "arrest": "10/24/2026 01:29",
+        "charges": "Possession of Marijuana 2nd",
+        "released": true
+      },
+      {
+        "case": "Bkg #254948",
+        "defendant": "Alexander Thomas Prokop, 22",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-24",
+        "arrest": "10/24/2026 14:45",
+        "charges": "DV 3RD- CRIMINAL MISCHEIF",
+        "released": false
+      },
+      {
+        "case": "Bkg #254916",
+        "defendant": "Amanda Marie Kirchharr, 55",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-22",
+        "arrest": "10/22/2026 12:50",
+        "charges": "Failure to Appear Felony",
+        "released": false
+      },
+      {
+        "case": "Bkg #254991",
+        "defendant": "Amanda Ruth Burnsworth, 39",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-25",
+        "arrest": "10/26/2026 03:03",
+        "charges": "Harassment (Simple Assault); Failure to Appear (2 counts)",
+        "released": false
+      },
+      {
+        "case": "Bkg #254896",
+        "defendant": "Angel Mauricio Coronilla, 21",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-22",
+        "arrest": "10/22/2026",
+        "charges": "Failure to Appear Felony",
+        "released": true
+      },
+      {
+        "case": "Bkg #254893",
+        "defendant": "Antoine Maurice Chaney, 26",
+        "agency": "Daphne PD",
+        "date": "2026-10-22",
+        "arrest": "10/21/2026 21:12",
+        "charges": "Synthetic Narcotic-Possess",
+        "released": true
+      },
+      {
+        "case": "Bkg #255009",
+        "defendant": "Antonio Leverne Gibbs, 29",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-26",
+        "arrest": "10/26/2026 19:21",
+        "charges": "Marijuana-Possess; Drug Paraphernalia-1st Offense; Endangering Welfare of Child",
+        "released": false
+      },
+      {
+        "case": "Bkg #254985",
+        "defendant": "Austun Rae Woerner, 29",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-25",
+        "arrest": "10/24/2026 13:50",
+        "charges": "Bench Warrant (2 counts)",
+        "released": false
+      },
+      {
+        "case": "Bkg #254999",
+        "defendant": "Bayley Nathaniel Conkin, 26",
+        "agency": "U.S. Marshals",
+        "date": "2026-10-26",
+        "arrest": "10/26/2026 15:47",
+        "charges": "Federal Inmate",
+        "released": false
+      },
+      {
+        "case": "Bkg #254961",
+        "defendant": "Brandon Neal Sparks, 38",
+        "agency": "Bay Minette PD",
+        "date": "2026-10-24",
+        "arrest": "10/24/2026 20:25",
+        "charges": "Appears in Public Place Under Influence; Resisting Arrest",
+        "released": true
+      },
+      {
+        "case": "Bkg #255010",
+        "defendant": "Brandy Nicole Philphot, 43",
+        "agency": "Bay Minette PD",
+        "date": "2026-10-26",
+        "arrest": "10/26/2026 16:55",
+        "charges": "Failure to Appear/Comply/Pay (4 counts)",
+        "released": false
+      },
+      {
+        "case": "Bkg #254919",
+        "defendant": "Breanna Sue Grover, 27",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-23",
+        "arrest": "10/22/2026 20:00",
+        "charges": "Burglary-Non-Residence-No Force",
+        "released": true
+      },
+      {
+        "case": "Bkg #255012",
+        "defendant": "Brian Daniel Boyington, 49",
+        "agency": "Bay Minette PD",
+        "date": "2026-10-26",
+        "arrest": "10/26/2026 18:02",
+        "charges": "Failure to Appear/Comply/Pay (2 counts)",
+        "released": false
+      },
+      {
+        "case": "Bkg #254958",
+        "defendant": "Brian Jeffrey Chase, 53",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-24",
+        "arrest": "10/23/2026 20:30",
+        "charges": "Fugitive From Justice",
+        "released": false
+      },
+      {
+        "case": "Bkg #254935",
+        "defendant": "Brian Ray Billings, 58",
+        "agency": "Bay Minette PD",
+        "date": "2026-10-23",
+        "arrest": "10/23/2026 21:20",
+        "charges": "Driving Under the Influence (Alcohol)",
+        "released": false
+      },
+      {
+        "case": "Bkg #254914",
+        "defendant": "Briana Nicole Dearmon, 33",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-22",
+        "arrest": "10/22/2026",
+        "charges": "Failure to Appear Felony",
+        "released": false
+      },
+      {
+        "case": "Bkg #254866",
+        "defendant": "Bryan Oswaldo Balcarcel Veliz, 25",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-20",
+        "arrest": "10/20/2026 15:52",
+        "charges": "Driving Under the Influence (Alcohol)",
+        "released": false
+      },
+      {
+        "case": "Bkg #254901",
+        "defendant": "Caeli Marie Basinger, 33",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-22",
+        "arrest": "10/22/2026",
+        "charges": "DRUG COURT SANCTION (2 counts)",
+        "released": true
+      },
+      {
+        "case": "Bkg #254846",
+        "defendant": "Cale Bernard Starr, 46",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-20",
+        "arrest": "10/19/2026 16:44",
+        "charges": "Harassment-Family",
+        "released": true
+      },
+      {
+        "case": "Bkg #254915",
+        "defendant": "Caleb Z Lolley, 20",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-23",
+        "arrest": "10/23/2026 02:34",
+        "charges": "HOUSTON CO HOLD",
+        "released": true
+      },
+      {
+        "case": "Bkg #254989",
+        "defendant": "Casey Danielle Smith, 33",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-25",
+        "arrest": "10/25/2026 11:21",
+        "charges": "ALIAS DRIVING W SUSPENDED",
+        "released": true
+      },
+      {
+        "case": "Bkg #254992",
+        "defendant": "Casie Avera McAdams, 56",
+        "agency": "Silverhill PD",
+        "date": "2026-10-26",
+        "arrest": "10/25/2026 22:30",
+        "charges": "Possession Of Dangerous Drugs; Possession of Marijuana 2nd; Drug Paraphernalia-1st Offense",
+        "released": true
+      },
+      {
+        "case": "Bkg #254898",
+        "defendant": "Chardeny Ruth Cox, 36",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-22",
+        "arrest": "10/22/2026 22:25",
+        "charges": "DRUG COURT SANCTION",
+        "released": true
+      },
+      {
+        "case": "Bkg #254907",
+        "defendant": "Charles Lamar Leland, 28",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-22",
+        "arrest": "10/22/2026",
+        "charges": "DRUG COURT SANCTION",
+        "released": true
+      },
+      {
+        "case": "Bkg #254841",
+        "defendant": "Christain Nathaniel Havard, 28",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-19",
+        "arrest": "10/19/2026 16:00",
+        "charges": "VIOLATION OF RELEASE ORDER",
+        "released": false
+      },
+      {
+        "case": "Bkg #254886",
+        "defendant": "Cindy Acosta-Medina, 33",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-22",
+        "arrest": "10/22/2026 10:59",
+        "charges": "Endangering Welfare of Child",
+        "released": false
+      },
+      {
+        "case": "Bkg #254887",
+        "defendant": "Collin James Nelson, 29",
+        "agency": "Foley PD",
+        "date": "2026-10-22",
+        "arrest": "10/21/2026 07:03",
+        "charges": "Sex Offense-Sexual abuse of a child less than 12 years old",
+        "released": false
+      },
+      {
+        "case": "Bkg #254847",
+        "defendant": "Coralee Sankey, 54",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-20",
+        "arrest": "10/19/2026 13:23",
+        "charges": "Traffic-Leaving the Scene of an Accident",
+        "released": true
+      },
+      {
+        "case": "Bkg #254849",
+        "defendant": "Cori Lynn Humbarger, 39",
+        "agency": "Gulf Shores PD",
+        "date": "2026-10-20",
+        "arrest": "10/19/2026 18:40",
+        "charges": "Retail Theft 1st; Drug Paraphernalia-1st Offense",
+        "released": false
+      },
+      {
+        "case": "Bkg #254851",
+        "defendant": "Craig Artrell McCorvey, 33",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-20",
+        "arrest": "10/20/2026 11:18",
+        "charges": "PROBATION REVOCATION",
+        "released": false
+      },
+      {
+        "case": "Bkg #254884",
+        "defendant": "Crystal Alexia Stallworth, 43",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-22",
+        "arrest": "10/22/2026 07:35",
+        "charges": "Theft of Lost Property",
+        "released": true
+      },
+      {
+        "case": "Bkg #254980",
+        "defendant": "Daniel Daxon Owens, 43",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-25",
+        "arrest": "10/24/2026 19:13",
+        "charges": "Appears in Public Place Under Influence",
+        "released": true
+      },
+      {
+        "case": "Bkg #254996",
+        "defendant": "Daniel Lavern Coon, 55",
+        "agency": "U.S. Marshals",
+        "date": "2026-10-26",
+        "arrest": "10/26/2026 13:30",
+        "charges": "Federal Inmate",
+        "released": false
+      },
+      {
+        "case": "Bkg #254826",
+        "defendant": "Daniel Servin-Morales, 37",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-19",
+        "arrest": "10/19/2026 11:23",
+        "charges": "Driving Under the Influence (Alcohol); Reckless Endangerment",
+        "released": true
+      },
+      {
+        "case": "Bkg #254920",
+        "defendant": "Danny Rubio, 34",
+        "agency": "Robertsdale PD",
+        "date": "2026-10-23",
+        "arrest": "10/22/2026 23:47",
+        "charges": "Fugitive From Justice",
+        "released": false
+      },
+      {
+        "case": "Bkg #255014",
+        "defendant": "Darling Maurico Vega-Quintilla, 29",
+        "agency": "U.S. Marshals",
+        "date": "2026-10-26",
+        "arrest": "10/26/2026 16:55",
+        "charges": "Federal Inmate",
+        "released": false
+      },
+      {
+        "case": "Bkg #255016",
+        "defendant": "Darrell Joseph Williams, 39",
+        "agency": "State Troopers",
+        "date": "2026-10-27",
+        "arrest": "10/26/2026 18:58",
+        "charges": "Driving Under the Influence (Alcohol)",
+        "released": false
+      },
+      {
+        "case": "Bkg #254823",
+        "defendant": "David John Miller, 49",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-19",
+        "arrest": "10/18/2026 16:16",
+        "charges": "Failure to Appear Felony; Failure to Appear",
+        "released": true
+      },
+      {
+        "case": "Bkg #254842",
+        "defendant": "David Lei Ard, 31",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-20",
+        "arrest": "10/20/2026",
+        "charges": "Probation Violation",
+        "released": false
+      },
+      {
+        "case": "Bkg #254839",
+        "defendant": "Deante Lamar Palmer, 27",
+        "agency": "Bay Minette PD",
+        "date": "2026-10-19",
+        "arrest": "10/19/2026 16:00",
+        "charges": "Contempt of Court-Failing to Appear",
+        "released": true
+      },
+      {
+        "case": "Bkg #254881",
+        "defendant": "Debroah H Nalley, 72",
+        "agency": "State Troopers",
+        "date": "2026-10-21",
+        "arrest": "10/21/2026 20:35",
+        "charges": "Driving Under the Influence (Alcohol)",
+        "released": true
+      },
+      {
+        "case": "Bkg #254857",
+        "defendant": "Demerius Kevon Dailey, 26",
+        "agency": "Bay Minette PD",
+        "date": "2026-10-20",
+        "arrest": "10/20/2026 16:45",
+        "charges": "PROBATION REVOCATION; ASSAULT IN THE THIRD DEGREE",
+        "released": false
+      },
+      {
+        "case": "Bkg #254933",
+        "defendant": "Demetrius James Lutin, 46",
+        "agency": "U.S. Marshals",
+        "date": "2026-10-23",
+        "arrest": "10/23/2026 15:00",
+        "charges": "Federal Inmate",
+        "released": true
+      },
+      {
+        "case": "Bkg #254959",
+        "defendant": "Desiree Nicole Lambert Walter, 35",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-24",
+        "arrest": "10/23/2026 21:50",
+        "charges": "Appears in Public Place Under Influence",
+        "released": true
+      },
+      {
+        "case": "Bkg #254934",
+        "defendant": "Dwight Wilton Johnson, 45",
+        "agency": "Bay Minette PD",
+        "date": "2026-10-23",
+        "arrest": "10/23/2026 16:30",
+        "charges": "FAILURE TO APPEAR TRAFFIC (5 counts)",
+        "released": true
+      },
+      {
+        "case": "Bkg #254924",
+        "defendant": "Elaine Gail Armstrong, 46",
+        "agency": "Foley PD",
+        "date": "2026-10-23",
+        "arrest": "10/22/2026 22:50",
+        "charges": "Methamphetamine-Possess",
+        "released": true
+      },
+      {
+        "case": "Bkg #254865",
+        "defendant": "Emily Anne McKinnis, 29",
+        "agency": "Bay Minette PD",
+        "date": "2026-10-20",
+        "arrest": "10/20/2026 14:25",
+        "charges": "Failure to Appear/Comply/Pay (5 counts)",
+        "released": false
+      },
+      {
+        "case": "Bkg #254889",
+        "defendant": "Enderson Abraham, 22",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-22",
+        "arrest": "10/22/2026 07:30",
+        "charges": "Fleeing or attempting to elude law enforcement officer",
+        "released": true
+      },
+      {
+        "case": "Bkg #254945",
+        "defendant": "Fouad Magdy Marcos, 46",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-24",
+        "arrest": "10/26/2026 09:05",
+        "charges": "Buying/Receiving Stolen Property; Possession Of Dangerous Drugs (3 counts); Promote Prison Contraband (Drugs)",
+        "released": false
+      },
+      {
+        "case": "Bkg #254878",
+        "defendant": "Germaine Charles Williams, 50",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-21",
+        "arrest": "10/21/2026 10:20",
+        "charges": "Sexual Abuse First Degree; ASSAULT IN THE THIRD DEGREE",
+        "released": false
+      },
+      {
+        "case": "Bkg #254868",
+        "defendant": "Giuseppe John Ciccarelli, 45",
+        "agency": "State Troopers",
+        "date": "2026-10-20",
+        "arrest": "10/20/2026 08:41",
+        "charges": "Fugitive From Justice",
+        "released": true
+      },
+      {
+        "case": "Bkg #254870",
+        "defendant": "Grant Demarkus Harris, 32",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-21",
+        "arrest": "10/21/2026 07:50",
+        "charges": "Failure to Appear",
+        "released": true
+      },
+      {
+        "case": "Bkg #254979",
+        "defendant": "Greenly Marie Culbreth, 23",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-25",
+        "arrest": "10/25/2026 00:55",
+        "charges": "Drug Paraphernalia-1st Offense; Dangerous Drugs-IPOPD Illegal Possession of Prescription Drugs; Tampering with Physical Evidence; Driving Under the Influence (Alcohol)",
+        "released": true
+      },
+      {
+        "case": "Bkg #254852",
+        "defendant": "Gregory Debbs Malone, 49",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-20",
+        "arrest": "10/20/2026 14:32",
+        "charges": "Failure to Appear Felony",
+        "released": true
+      },
+      {
+        "case": "Bkg #254874",
+        "defendant": "Gregory Debosh McDonald, 22",
+        "agency": "Spanish Fort PD",
+        "date": "2026-10-21",
+        "arrest": "10/21/2026 11:25",
+        "charges": "Shooting Into Unoccupied Building (2 counts); Reckless Endangerment",
+        "released": true
+      },
+      {
+        "case": "Bkg #254987",
+        "defendant": "Hannah Lee Lammon, 26",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-25",
+        "arrest": "10/24/2026 13:13",
+        "charges": "THEFT OF PROPERTY 2ND",
+        "released": true
+      },
+      {
+        "case": "Bkg #254963",
+        "defendant": "Hartwood Oliver McMillan, 36",
+        "agency": "Spanish Fort PD",
+        "date": "2026-10-25",
+        "arrest": "10/25/2026 00:28",
+        "charges": "Domestic Violence 2ND",
+        "released": true
+      },
+      {
+        "case": "Bkg #254938",
+        "defendant": "Herman Morrison, 64",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-24",
+        "arrest": "10/24/2026 03:25",
+        "charges": "Failure to Appear/Comply/Pay; Possession of Marijuana 2nd; Cocaine-Possess; Drug Paraphernalia-1st Offense; ALIAS DRIVING W SUSPENDED",
+        "released": false
+      },
+      {
+        "case": "Bkg #254937",
+        "defendant": "Hybert Cordarious Bradley, 38",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-24",
+        "arrest": "10/23/2026 22:26",
+        "charges": "Failure to Appear Felony (4 counts)",
+        "released": false
+      },
+      {
+        "case": "Bkg #254895",
+        "defendant": "Jackie Ray Salter II, 50",
+        "agency": "Bay Minette PD",
+        "date": "2026-10-22",
+        "arrest": "10/22/2026",
+        "charges": "PROBATION SANCTION; Failure to Appear/Comply/Pay",
+        "released": false
+      },
+      {
+        "case": "Bkg #255015",
+        "defendant": "Jacorian Malik King, 23",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-26",
+        "arrest": "10/26/2026 22:11",
+        "charges": "Probation Violation",
+        "released": false
+      },
+      {
+        "case": "Bkg #254978",
+        "defendant": "Jake Heath Taylor, 29",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-25",
+        "arrest": "10/25/2026 15:33",
+        "charges": "Simple Assault-Family",
+        "released": false
+      },
+      {
+        "case": "Bkg #254983",
+        "defendant": "James Kevin Curry, 42",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-25",
+        "arrest": "10/25/2026 11:45",
+        "charges": "FAILURE TO APPEAR TRAFFIC (2 counts)",
+        "released": true
+      },
+      {
+        "case": "Bkg #254906",
+        "defendant": "Jamie Lee Cundiff, 31",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-22",
+        "arrest": "10/22/2026 23:57",
+        "charges": "DRUG COURT SANCTION",
+        "released": true
+      },
+      {
+        "case": "Bkg #254994",
+        "defendant": "Jason Patrick Wilson, 43",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-26",
+        "arrest": "10/25/2026 20:30",
+        "charges": "Failure to Appear",
+        "released": false
+      },
+      {
+        "case": "Bkg #254864",
+        "defendant": "Jason Stephen Nelson, 52",
+        "agency": "Fairhope PD",
+        "date": "2026-10-20",
+        "arrest": "10/20/2026 09:27",
+        "charges": "Methamphetamine-Possess; Drug Paraphernalia-1st Offense",
+        "released": true
+      },
+      {
+        "case": "Bkg #254891",
+        "defendant": "Jayden Zakevius Tillman, 20",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-22",
+        "arrest": "10/21/2026 18:01",
+        "charges": "Criminal Mischief 1st-Other",
+        "released": true
+      },
+      {
+        "case": "Bkg #254997",
+        "defendant": "Jeffrey Ryan Clark, 30",
+        "agency": "U.S. Marshals",
+        "date": "2026-10-26",
+        "arrest": "10/26/2026 13:30",
+        "charges": "Federal Inmate",
+        "released": false
+      },
+      {
+        "case": "Bkg #254955",
+        "defendant": "Jerry Louis Brown Jr., 43",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-24",
+        "arrest": "10/23/2026 23:04",
+        "charges": "Domestic Violence Strangulation; Domestic Violence 2ND; Harassment-Family (2 counts)",
+        "released": false
+      },
+      {
+        "case": "Bkg #254946",
+        "defendant": "Jessica Lee Miller, 38",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-24",
+        "arrest": "10/24/2026 13:43",
+        "charges": "Harassment-Family",
+        "released": true
+      },
+      {
+        "case": "Bkg #255007",
+        "defendant": "Jessy Lee Erickson, 36",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-26",
+        "arrest": "10/26/2026 10:48",
+        "charges": "Failure to Appear/Comply/Pay",
+        "released": false
+      },
+      {
+        "case": "Bkg #254892",
+        "defendant": "Johnny Ray Austin Cooper, 46",
+        "agency": "Pardons & Paroles",
+        "date": "2026-10-22",
+        "arrest": "10/22/2026 11:01",
+        "charges": "Probation Violation",
+        "released": false
+      },
+      {
+        "case": "Bkg #254995",
+        "defendant": "Jonathan Wade Hadley, 41",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-26",
+        "arrest": "10/26/2026 13:33",
+        "charges": "Failure to Appear; FAILURE TO APPEAR TRAFFIC",
+        "released": false
+      },
+      {
+        "case": "Bkg #254930",
+        "defendant": "Jonovan Earl Thigpen, 28",
+        "agency": "Daphne PD",
+        "date": "2026-10-23",
+        "arrest": "10/23/2026 08:39",
+        "charges": "Possession Of Dangerous Drugs",
+        "released": false
+      },
+      {
+        "case": "Bkg #255013",
+        "defendant": "Jose Oliva-Moya, 38",
+        "agency": "U.S. Marshals",
+        "date": "2026-10-26",
+        "arrest": "10/26/2026 21:33",
+        "charges": "Federal Inmate",
+        "released": false
+      },
+      {
+        "case": "Bkg #254998",
+        "defendant": "Jose Ramos Chabarria, 50",
+        "agency": "U.S. Marshals",
+        "date": "2026-10-26",
+        "arrest": "10/26/2026 18:26",
+        "charges": "Federal Inmate",
+        "released": false
+      },
+      {
+        "case": "Bkg #254863",
+        "defendant": "Joseph Chase Gatlin, 42",
+        "agency": "Fairhope PD",
+        "date": "2026-10-20",
+        "arrest": "10/20/2026 09:27",
+        "charges": "Tampering with Physical Evidence; Methamphetamine-Sell/Distribute",
+        "released": false
+      },
+      {
+        "case": "Bkg #254940",
+        "defendant": "Joseph David Kreitzmann, 40",
+        "agency": "Not listed",
+        "date": "2026-10-24",
+        "arrest": null,
+        "charges": "Not listed on roster",
+        "released": true
+      },
+      {
+        "case": "Bkg #254894",
+        "defendant": "Josue Jude Taite, 32",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-22",
+        "arrest": "10/22/2026 11:33",
+        "charges": "PROBATION SANCTION",
+        "released": false
+      },
+      {
+        "case": "Bkg #254821",
+        "defendant": "Julian Morales, 22",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-19",
+        "arrest": "10/18/2026 18:00",
+        "charges": "FAILURE TO APPEAR-VIOLATION",
+        "released": true
+      },
+      {
+        "case": "Bkg #254829",
+        "defendant": "Juliana Rayne Saunders, 31",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-19",
+        "arrest": "10/19/2026 10:52",
+        "charges": "FAILURE TO APPEAR TRAFFIC; ALIAS DRIVING W SUSPENDED",
+        "released": true
+      },
+      {
+        "case": "Bkg #254927",
+        "defendant": "Julie T Finley, 60",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-23",
+        "arrest": "10/23/2026 10:51",
+        "charges": "Traffic-Leaving the Scene of an Accident",
+        "released": true
+      },
+      {
+        "case": "Bkg #254853",
+        "defendant": "Kaidon James Lambeth, 19",
+        "agency": "Pardons & Paroles",
+        "date": "2026-10-20",
+        "arrest": "10/20/2026",
+        "charges": "Probation Violation",
+        "released": false
+      },
+      {
+        "case": "Bkg #254921",
+        "defendant": "Kelan Xzavier Braggs, 19",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-23",
+        "arrest": "10/22/2026 16:00",
+        "charges": "Failure to Appear Felony",
+        "released": true
+      },
+      {
+        "case": "Bkg #254856",
+        "defendant": "Kelly Lee Perkins, 37",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-20",
+        "arrest": "10/20/2026 12:30",
+        "charges": "ALIAS DRIVING W SUSPENDED",
+        "released": true
+      },
+      {
+        "case": "Bkg #254897",
+        "defendant": "Kenneth Byron Welch, 73",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-22",
+        "arrest": "10/22/2026 21:00",
+        "charges": "DRUG COURT SANCTION",
+        "released": false
+      },
+      {
+        "case": "Bkg #254900",
+        "defendant": "Kenneth Martin Green, 65",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-22",
+        "arrest": "10/22/2026",
+        "charges": "DRUG COURT SANCTION",
+        "released": true
+      },
+      {
+        "case": "Bkg #254913",
+        "defendant": "Kerry Khiev, 40",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-22",
+        "arrest": "10/22/2026 00:12",
+        "charges": "Theft of Services",
+        "released": true
+      },
+      {
+        "case": "Bkg #254822",
+        "defendant": "Kevin Eugene Willis, 34",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-19",
+        "arrest": "10/18/2026 18:32",
+        "charges": "Simple Assault-Family",
+        "released": true
+      },
+      {
+        "case": "Bkg #254936",
+        "defendant": "Kiarim Allen Henry, 29",
+        "agency": "Bay Minette PD",
+        "date": "2026-10-23",
+        "arrest": "10/23/2026 23:10",
+        "charges": "Possession of Marijuana 2nd",
+        "released": true
+      },
+      {
+        "case": "Bkg #255011",
+        "defendant": "Kody Dewayne Davis, 29",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-26",
+        "arrest": "10/26/2026",
+        "charges": "Theft-Miscellaneous",
+        "released": false
+      },
+      {
+        "case": "Bkg #254942",
+        "defendant": "Latunga R Childers, 54",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-24",
+        "arrest": "10/24/2026 09:30",
+        "charges": "Disorderly Conduct/Disturbing Peace",
+        "released": true
+      },
+      {
+        "case": "Bkg #254885",
+        "defendant": "Laura Lorena Lopez, 32",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-22",
+        "arrest": "10/22/2026 12:42",
+        "charges": "Using False Identity to Avoid Arrest/Hinder Prosecute.",
+        "released": false
+      },
+      {
+        "case": "Bkg #254926",
+        "defendant": "Lauren Estelle Holtzclaw, 43",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-23",
+        "arrest": "10/23/2026 11:03",
+        "charges": "Possession with Intent to Distribute; Possession Of Dangerous Drugs",
+        "released": false
+      },
+      {
+        "case": "Bkg #254827",
+        "defendant": "Lawrence Andrew Greer, 47",
+        "agency": "Bay Minette PD",
+        "date": "2026-10-19",
+        "arrest": "10/19/2026 10:15",
+        "charges": "Failure to Appear/Comply/Pay (4 counts)",
+        "released": true
+      },
+      {
+        "case": "Bkg #254854",
+        "defendant": "Ledarrius Tyrone Allen, 19",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-20",
+        "arrest": "10/20/2026",
+        "charges": "SAFEKEEPING",
+        "released": false
+      },
+      {
+        "case": "Bkg #254844",
+        "defendant": "Lee Artis Presley, 25",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-20",
+        "arrest": "10/19/2026 14:49",
+        "charges": "Harassment (Simple Assault)",
+        "released": true
+      },
+      {
+        "case": "Bkg #254932",
+        "defendant": "Leonard William Lambeth, 60",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-23",
+        "arrest": "10/23/2026 13:51",
+        "charges": "Disorderly Conduct/Disturbing Peace; Resisting Arrest; Appears in Public Place Under Influence",
+        "released": false
+      },
+      {
+        "case": "Bkg #254947",
+        "defendant": "Linda Laureen Patrick, 69",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-24",
+        "arrest": "10/24/2026 13:45",
+        "charges": "Harassment-Family",
+        "released": true
+      },
+      {
+        "case": "Bkg #254993",
+        "defendant": "Lito Aquiriano Romero, 44",
+        "agency": "Fairhope PD",
+        "date": "2026-10-26",
+        "arrest": "10/26/2026 02:04",
+        "charges": "Domestic Violence Strangulation; Coercion (Simple Assault)",
+        "released": false
+      },
+      {
+        "case": "Bkg #254967",
+        "defendant": "Liza Jane Esquerre, 37",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-25",
+        "arrest": "10/25/2026 12:33",
+        "charges": "Unlawful Breaking and Entering of a Vehicle; Theft-Miscellaneous; Enter/Remain in Building/Fenced Property",
+        "released": true
+      },
+      {
+        "case": "Bkg #254867",
+        "defendant": "Marcie Desirae Reed, 41",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-20",
+        "arrest": "10/20/2026 19:41",
+        "charges": "Harassment-Family",
+        "released": true
+      },
+      {
+        "case": "Bkg #254929",
+        "defendant": "Mark Jacob Hay, 35",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-23",
+        "arrest": "10/23/2026 14:21",
+        "charges": "Auto Theft",
+        "released": true
+      },
+      {
+        "case": "Bkg #254923",
+        "defendant": "Mark Labaron Jones, 54",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-23",
+        "arrest": "10/22/2026 17:20",
+        "charges": "ALIAS DRIVING W SUSPENDED",
+        "released": true
+      },
+      {
+        "case": "Bkg #254875",
+        "defendant": "Marvin Wayne Hicks, 26",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-21",
+        "arrest": "10/21/2026 11:22",
+        "charges": "Harassment-Family",
+        "released": true
+      },
+      {
+        "case": "Bkg #254882",
+        "defendant": "Mia Shari Riley, 29",
+        "agency": "Bay Minette PD",
+        "date": "2026-10-21",
+        "arrest": "10/21/2026 22:55",
+        "charges": "Failure to Appear/Comply/Pay (2 counts)",
+        "released": true
+      },
+      {
+        "case": "Bkg #254890",
+        "defendant": "Michael Ace Salter, 22",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-22",
+        "arrest": "10/22/2026 13:23",
+        "charges": "Synthetic Narcotic-Possess; Drunk/Addict in Possession of a Firearm",
+        "released": true
+      },
+      {
+        "case": "Bkg #255008",
+        "defendant": "Michael Demetrus Jones, 40",
+        "agency": "U.S. Marshals",
+        "date": "2026-10-26",
+        "arrest": "10/26/2026 13:30",
+        "charges": "Federal Inmate",
+        "released": false
+      },
+      {
+        "case": "Bkg #254968",
+        "defendant": "Michael Victor Wells, 40",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-25",
+        "arrest": "10/25/2026 11:54",
+        "charges": "Alias Writ of Arrest",
+        "released": false
+      },
+      {
+        "case": "Bkg #254971",
+        "defendant": "Mikel Kalob Sutton, 32",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-25",
+        "arrest": "10/25/2026 13:35",
+        "charges": "Harassment-Family; Obstructing Governmental Operations",
+        "released": true
+      },
+      {
+        "case": "Bkg #254836",
+        "defendant": "Morales Gabriel R Cedeno, 23",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-19",
+        "arrest": "10/19/2026 10:40",
+        "charges": "FAILURE TO APPEAR TRAFFIC (2 counts)",
+        "released": true
+      },
+      {
+        "case": "Bkg #255003",
+        "defendant": "Otis Lee Horace, 75",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-26",
+        "arrest": "10/26/2026 14:17",
+        "charges": "Harassment (Simple Assault)",
+        "released": false
+      },
+      {
+        "case": "Bkg #254873",
+        "defendant": "Pamela Elaine Garrett, 40",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-21",
+        "arrest": "10/21/2026 11:49",
+        "charges": "DRUG SANCTION",
+        "released": true
+      },
+      {
+        "case": "Bkg #254917",
+        "defendant": "Quinyon Marquise Mims, 30",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-22",
+        "arrest": "10/22/2026 10:40",
+        "charges": "Fraudulent Use Credit/Debit Card (5 counts)",
+        "released": true
+      },
+      {
+        "case": "Bkg #254988",
+        "defendant": "Ralph Evans Agee, 31",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-25",
+        "arrest": "10/24/2026 13:20",
+        "charges": "Bench Warrant",
+        "released": true
+      },
+      {
+        "case": "Bkg #254922",
+        "defendant": "Randy Robert Rose, 39",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-23",
+        "arrest": "10/23/2026",
+        "charges": "Failure to Appear Felony",
+        "released": true
+      },
+      {
+        "case": "Bkg #254903",
+        "defendant": "Reginald Labaron Seltzer, 39",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-22",
+        "arrest": "10/22/2026",
+        "charges": "DRUG COURT SANCTION",
+        "released": true
+      },
+      {
+        "case": "Bkg #254877",
+        "defendant": "Richard Thomas Walker, 54",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-21",
+        "arrest": "10/21/2026 13:38",
+        "charges": "Failure to Appear; Failure to Appear Felony",
+        "released": false
+      },
+      {
+        "case": "Bkg #254981",
+        "defendant": "Robert Edward Kennell, 36",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-25",
+        "arrest": "10/25/2026 10:30",
+        "charges": "Failure to Appear Felony",
+        "released": false
+      },
+      {
+        "case": "Bkg #255006",
+        "defendant": "Robert Gordon McDuffie, 62",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-26",
+        "arrest": "10/26/2026 20:20",
+        "charges": "Failure to register as Sex Offender; Sex Offense-Failure of Adult Sex Offender to Register with Local Law Enforcement and/ or comply with Residence Restrictions; Drug Paraphernalia-1st Offense",
+        "released": false
+      },
+      {
+        "case": "Bkg #254962",
+        "defendant": "Robert Samuel Vaughn Jr., 38",
+        "agency": "State Troopers",
+        "date": "2026-10-24",
+        "arrest": "10/24/2026 21:35",
+        "charges": "Driving Under the Influence (Alcohol)",
+        "released": true
+      },
+      {
+        "case": "Bkg #254966",
+        "defendant": "Ronald Lynn Larew, 57",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-25",
+        "arrest": "10/25/2026",
+        "charges": "Failure to Appear Felony",
+        "released": false
+      },
+      {
+        "case": "Bkg #254848",
+        "defendant": "Ryan Seth Downey, 34",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-20",
+        "arrest": "10/20/2026 03:52",
+        "charges": "Failure to Appear Felony",
+        "released": false
+      },
+      {
+        "case": "Bkg #254943",
+        "defendant": "Samantha Amber Potzner Ayers, 45",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-24",
+        "arrest": "10/24/2026 10:56",
+        "charges": "Failure to Appear",
+        "released": true
+      },
+      {
+        "case": "Bkg #254969",
+        "defendant": "Scott Curry Graham, 42",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-23",
+        "arrest": "10/23/2026 23:24",
+        "charges": "Burglary-Residence-Force",
+        "released": false
+      },
+      {
+        "case": "Bkg #254970",
+        "defendant": "Sedrick Kevon Mason, 25",
+        "agency": "Bay Minette PD",
+        "date": "2026-10-25",
+        "arrest": "10/25/2026 13:30",
+        "charges": "Possession of Marijuana 2nd; Failure to Appear/Comply/Pay (4 counts)",
+        "released": false
+      },
+      {
+        "case": "Bkg #254880",
+        "defendant": "Shakimea Lyeatta Sneed, 29",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-21",
+        "arrest": "10/21/2026 17:52",
+        "charges": "ALIAS DRIVING W SUSPENDED",
+        "released": true
+      },
+      {
+        "case": "Bkg #254869",
+        "defendant": "Shaniqua Andra Woodyard, 41",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-21",
+        "arrest": "10/20/2026 14:50",
+        "charges": "Failure to Appear Felony; Failure to Appear",
+        "released": true
+      },
+      {
+        "case": "Bkg #254911",
+        "defendant": "Shannon Neal, 46",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-22",
+        "arrest": "10/22/2026 07:36",
+        "charges": "Failure to Appear Felony",
+        "released": false
+      },
+      {
+        "case": "Bkg #254838",
+        "defendant": "Shanteria Renee Grimes, 34",
+        "agency": "Bay Minette PD",
+        "date": "2026-10-19",
+        "arrest": "10/19/2026 15:00",
+        "charges": "Failure to Appear/Comply/Pay",
+        "released": true
+      },
+      {
+        "case": "Bkg #254986",
+        "defendant": "Skylar Paige Kemper, 27",
+        "agency": "Robertsdale PD",
+        "date": "2026-10-25",
+        "arrest": "10/25/2026 08:09",
+        "charges": "Fugitive From Justice",
+        "released": false
+      },
+      {
+        "case": "Bkg #254990",
+        "defendant": "Stanley Emile Nassar, 72",
+        "agency": "Bay Minette PD",
+        "date": "2026-10-25",
+        "arrest": "10/25/2026 19:45",
+        "charges": "Failure to Appear/Comply/Pay (5 counts)",
+        "released": false
+      },
+      {
+        "case": "Bkg #254850",
+        "defendant": "Stephen Allen White, 48",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-20",
+        "arrest": "10/20/2026 10:00",
+        "charges": "Rape-Strong Arm; Harassment (Simple Assault)",
+        "released": true
+      },
+      {
+        "case": "Bkg #254845",
+        "defendant": "Tara Christin O'Rourke, 46",
+        "agency": "Daphne PD",
+        "date": "2026-10-20",
+        "arrest": "10/20/2026 00:41",
+        "charges": "Harassment-Family; Aggravated Assault Non-Family-Other Weapon",
+        "released": true
+      },
+      {
+        "case": "Bkg #254925",
+        "defendant": "Telsa Nicole Delatorre, 34",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-23",
+        "arrest": "10/22/2026",
+        "charges": "PROBATION REVOCATION; Drug Trafficking",
+        "released": false
+      },
+      {
+        "case": "Bkg #254840",
+        "defendant": "Tequilla Lynnette Harris, 27",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-19",
+        "arrest": "10/19/2026 20:01",
+        "charges": "Failure to Appear Felony",
+        "released": true
+      },
+      {
+        "case": "Bkg #254883",
+        "defendant": "Terry Lamar Parnell, 37",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-22",
+        "arrest": "10/22/2026 03:10",
+        "charges": "Possession of Marijuana 2nd; Tampering with Physical Evidence",
+        "released": true
+      },
+      {
+        "case": "Bkg #254824",
+        "defendant": "Timothy Charles Eyres, 66",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-19",
+        "arrest": "10/19/2026 06:00",
+        "charges": "Possession of Child Pornography (4 counts)",
+        "released": false
+      },
+      {
+        "case": "Bkg #254964",
+        "defendant": "Timothy Scott Ray, 51",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-25",
+        "arrest": "10/25/2026",
+        "charges": "Failure to Appear Felony",
+        "released": false
+      },
+      {
+        "case": "Bkg #254828",
+        "defendant": "Todd Gabriel Knowles, 37",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-19",
+        "arrest": "10/19/2026",
+        "charges": "Failure to Appear/Comply/Pay (5 counts)",
+        "released": false
+      },
+      {
+        "case": "Bkg #254928",
+        "defendant": "Travis Chatman, 32",
+        "agency": "U.S. Marshals",
+        "date": "2026-10-23",
+        "arrest": "10/23/2026 10:00",
+        "charges": "Federal Inmate",
+        "released": true
+      },
+      {
+        "case": "Bkg #254899",
+        "defendant": "Tykira Sharnese Jenkins, 27",
+        "agency": "Bay Minette PD",
+        "date": "2026-10-22",
+        "arrest": "10/22/2026 10:25",
+        "charges": "Simple Assault",
+        "released": true
+      },
+      {
+        "case": "Bkg #254888",
+        "defendant": "Tyler James Edwards, 33",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-22",
+        "arrest": "10/22/2026 13:08",
+        "charges": "FAILURE TO APPEAR TRAFFIC (3 counts)",
+        "released": true
+      },
+      {
+        "case": "Bkg #254941",
+        "defendant": "Tyler James Kreitzmann, 37",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-24",
+        "arrest": "10/24/2026 04:10",
+        "charges": "Appears in Public Place Under Influence; Enters/Remains In/On Premises/Criminal Trespass 3rd Degree; Assault with bodily fluids",
+        "released": false
+      },
+      {
+        "case": "Bkg #254871",
+        "defendant": "Tyler N Richmond, 41",
+        "agency": "Foley PD",
+        "date": "2026-10-21",
+        "arrest": "10/21/2026 21:00",
+        "charges": "Drug Paraphernalia-1st Offense; Methamphetamine-Possess",
+        "released": true
+      },
+      {
+        "case": "Bkg #254956",
+        "defendant": "Tyrone Scott Pruitt, 54",
+        "agency": "Foley PD",
+        "date": "2026-10-24",
+        "arrest": "10/23/2026 18:22",
+        "charges": "Possession Of Dangerous Drugs",
+        "released": true
+      },
+      {
+        "case": "Bkg #254965",
+        "defendant": "Vincent Donaldson Gandy, 60",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-25",
+        "arrest": "10/25/2026",
+        "charges": "Theft-Miscellaneous; YOUTHFUL OFFENDER",
+        "released": false
+      },
+      {
+        "case": "Bkg #254879",
+        "defendant": "Wendy Renee Andrews, 46",
+        "agency": "Bay Minette PD",
+        "date": "2026-10-21",
+        "arrest": "10/21/2026 16:01",
+        "charges": "Failure to Appear/Comply/Pay",
+        "released": true
+      },
+      {
+        "case": "Bkg #254984",
+        "defendant": "William Charles Bateman, 34",
+        "agency": "Gulf Shores PD",
+        "date": "2026-10-25",
+        "arrest": "10/25/2026 17:16",
+        "charges": "Synthetic Narcotic-Possess; Traffic-Driving Under the Influence (Combined Substance); Drug Paraphernalia-2nd Offense; Possession of Marijuana 2nd; Marijuana-Sell/Distribute",
+        "released": true
+      },
+      {
+        "case": "Bkg #254982",
+        "defendant": "William Eric Brown, 46",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-25",
+        "arrest": "10/24/2026 23:00",
+        "charges": "Harassment-Family; Intimidation (Voice); Reckless Endangerment",
+        "released": true
+      },
+      {
+        "case": "Bkg #254944",
+        "defendant": "Zachary Maurice Chapman, 65",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-24",
+        "arrest": "10/24/2026 14:09",
+        "charges": "Probation Violation",
+        "released": false
+      },
+      {
+        "case": "Bkg #254960",
+        "defendant": "Zachary Michael Cartolano, 30",
+        "agency": "Orange Beach PD",
+        "date": "2026-10-24",
+        "arrest": "10/20/2026 12:50",
+        "charges": "Fugitive From Justice",
+        "released": false
+      },
+      {
+        "case": "Bkg #254904",
+        "defendant": "Zechariah Troy Dale Scott, 30",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-22",
+        "arrest": "10/22/2026 23:03",
+        "charges": "DRUG COURT SANCTION",
+        "released": false
+      }
+    ],
+    "new_list": [
+      {
+        "case": "Bkg #255016",
+        "defendant": "Darrell Joseph Williams, 39",
+        "agency": "State Troopers",
+        "date": "2026-10-27",
+        "arrest": "10/26/2026 18:58",
+        "charges": "Driving Under the Influence (Alcohol)",
+        "released": false
+      },
+      {
+        "case": "Bkg #255015",
+        "defendant": "Jacorian Malik King, 23",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-26",
+        "arrest": "10/26/2026 22:11",
+        "charges": "Probation Violation",
+        "released": false
+      },
+      {
+        "case": "Bkg #255013",
+        "defendant": "Jose Oliva-Moya, 38",
+        "agency": "U.S. Marshals",
+        "date": "2026-10-26",
+        "arrest": "10/26/2026 21:33",
+        "charges": "Federal Inmate",
+        "released": false
+      },
+      {
+        "case": "Bkg #255006",
+        "defendant": "Robert Gordon McDuffie, 62",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-26",
+        "arrest": "10/26/2026 20:20",
+        "charges": "Failure to register as Sex Offender; Sex Offense-Failure of Adult Sex Offender to Register with Local Law Enforcement and/ or comply with Residence Restrictions; Drug Paraphernalia-1st Offense",
+        "released": false
+      },
+      {
+        "case": "Bkg #255009",
+        "defendant": "Antonio Leverne Gibbs, 29",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-26",
+        "arrest": "10/26/2026 19:21",
+        "charges": "Marijuana-Possess; Drug Paraphernalia-1st Offense; Endangering Welfare of Child",
+        "released": false
+      },
+      {
+        "case": "Bkg #254998",
+        "defendant": "Jose Ramos Chabarria, 50",
+        "agency": "U.S. Marshals",
+        "date": "2026-10-26",
+        "arrest": "10/26/2026 18:26",
+        "charges": "Federal Inmate",
+        "released": false
+      },
+      {
+        "case": "Bkg #255012",
+        "defendant": "Brian Daniel Boyington, 49",
+        "agency": "Bay Minette PD",
+        "date": "2026-10-26",
+        "arrest": "10/26/2026 18:02",
+        "charges": "Failure to Appear/Comply/Pay (2 counts)",
+        "released": false
+      },
+      {
+        "case": "Bkg #255010",
+        "defendant": "Brandy Nicole Philphot, 43",
+        "agency": "Bay Minette PD",
+        "date": "2026-10-26",
+        "arrest": "10/26/2026 16:55",
+        "charges": "Failure to Appear/Comply/Pay (4 counts)",
+        "released": false
+      },
+      {
+        "case": "Bkg #255014",
+        "defendant": "Darling Maurico Vega-Quintilla, 29",
+        "agency": "U.S. Marshals",
+        "date": "2026-10-26",
+        "arrest": "10/26/2026 16:55",
+        "charges": "Federal Inmate",
+        "released": false
+      },
+      {
+        "case": "Bkg #254999",
+        "defendant": "Bayley Nathaniel Conkin, 26",
+        "agency": "U.S. Marshals",
+        "date": "2026-10-26",
+        "arrest": "10/26/2026 15:47",
+        "charges": "Federal Inmate",
+        "released": false
+      },
+      {
+        "case": "Bkg #255003",
+        "defendant": "Otis Lee Horace, 75",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-26",
+        "arrest": "10/26/2026 14:17",
+        "charges": "Harassment (Simple Assault)",
+        "released": false
+      },
+      {
+        "case": "Bkg #254995",
+        "defendant": "Jonathan Wade Hadley, 41",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-26",
+        "arrest": "10/26/2026 13:33",
+        "charges": "Failure to Appear; FAILURE TO APPEAR TRAFFIC",
+        "released": false
+      },
+      {
+        "case": "Bkg #254996",
+        "defendant": "Daniel Lavern Coon, 55",
+        "agency": "U.S. Marshals",
+        "date": "2026-10-26",
+        "arrest": "10/26/2026 13:30",
+        "charges": "Federal Inmate",
+        "released": false
+      },
+      {
+        "case": "Bkg #254997",
+        "defendant": "Jeffrey Ryan Clark, 30",
+        "agency": "U.S. Marshals",
+        "date": "2026-10-26",
+        "arrest": "10/26/2026 13:30",
+        "charges": "Federal Inmate",
+        "released": false
+      },
+      {
+        "case": "Bkg #255008",
+        "defendant": "Michael Demetrus Jones, 40",
+        "agency": "U.S. Marshals",
+        "date": "2026-10-26",
+        "arrest": "10/26/2026 13:30",
+        "charges": "Federal Inmate",
+        "released": false
+      },
+      {
+        "case": "Bkg #255007",
+        "defendant": "Jessy Lee Erickson, 36",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-26",
+        "arrest": "10/26/2026 10:48",
+        "charges": "Failure to Appear/Comply/Pay",
+        "released": false
+      },
+      {
+        "case": "Bkg #254993",
+        "defendant": "Lito Aquiriano Romero, 44",
+        "agency": "Fairhope PD",
+        "date": "2026-10-26",
+        "arrest": "10/26/2026 02:04",
+        "charges": "Domestic Violence Strangulation; Coercion (Simple Assault)",
+        "released": false
+      },
+      {
+        "case": "Bkg #255011",
+        "defendant": "Kody Dewayne Davis, 29",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-26",
+        "arrest": "10/26/2026",
+        "charges": "Theft-Miscellaneous",
+        "released": false
+      },
+      {
+        "case": "Bkg #254992",
+        "defendant": "Casie Avera McAdams, 56",
+        "agency": "Silverhill PD",
+        "date": "2026-10-26",
+        "arrest": "10/25/2026 22:30",
+        "charges": "Possession Of Dangerous Drugs; Possession of Marijuana 2nd; Drug Paraphernalia-1st Offense",
+        "released": true
+      },
+      {
+        "case": "Bkg #254994",
+        "defendant": "Jason Patrick Wilson, 43",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-26",
+        "arrest": "10/25/2026 20:30",
+        "charges": "Failure to Appear",
+        "released": false
+      },
+      {
+        "case": "Bkg #254991",
+        "defendant": "Amanda Ruth Burnsworth, 39",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-25",
+        "arrest": "10/26/2026 03:03",
+        "charges": "Harassment (Simple Assault); Failure to Appear (2 counts)",
+        "released": false
+      },
+      {
+        "case": "Bkg #254990",
+        "defendant": "Stanley Emile Nassar, 72",
+        "agency": "Bay Minette PD",
+        "date": "2026-10-25",
+        "arrest": "10/25/2026 19:45",
+        "charges": "Failure to Appear/Comply/Pay (5 counts)",
+        "released": false
+      },
+      {
+        "case": "Bkg #254984",
+        "defendant": "William Charles Bateman, 34",
+        "agency": "Gulf Shores PD",
+        "date": "2026-10-25",
+        "arrest": "10/25/2026 17:16",
+        "charges": "Synthetic Narcotic-Possess; Traffic-Driving Under the Influence (Combined Substance); Drug Paraphernalia-2nd Offense; Possession of Marijuana 2nd; Marijuana-Sell/Distribute",
+        "released": true
+      },
+      {
+        "case": "Bkg #254978",
+        "defendant": "Jake Heath Taylor, 29",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-25",
+        "arrest": "10/25/2026 15:33",
+        "charges": "Simple Assault-Family",
+        "released": false
+      },
+      {
+        "case": "Bkg #254971",
+        "defendant": "Mikel Kalob Sutton, 32",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-25",
+        "arrest": "10/25/2026 13:35",
+        "charges": "Harassment-Family; Obstructing Governmental Operations",
+        "released": true
+      },
+      {
+        "case": "Bkg #254970",
+        "defendant": "Sedrick Kevon Mason, 25",
+        "agency": "Bay Minette PD",
+        "date": "2026-10-25",
+        "arrest": "10/25/2026 13:30",
+        "charges": "Possession of Marijuana 2nd; Failure to Appear/Comply/Pay (4 counts)",
+        "released": false
+      },
+      {
+        "case": "Bkg #254967",
+        "defendant": "Liza Jane Esquerre, 37",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-25",
+        "arrest": "10/25/2026 12:33",
+        "charges": "Unlawful Breaking and Entering of a Vehicle; Theft-Miscellaneous; Enter/Remain in Building/Fenced Property",
+        "released": true
+      },
+      {
+        "case": "Bkg #254968",
+        "defendant": "Michael Victor Wells, 40",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-25",
+        "arrest": "10/25/2026 11:54",
+        "charges": "Alias Writ of Arrest",
+        "released": false
+      },
+      {
+        "case": "Bkg #254983",
+        "defendant": "James Kevin Curry, 42",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-25",
+        "arrest": "10/25/2026 11:45",
+        "charges": "FAILURE TO APPEAR TRAFFIC (2 counts)",
+        "released": true
+      },
+      {
+        "case": "Bkg #254989",
+        "defendant": "Casey Danielle Smith, 33",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-25",
+        "arrest": "10/25/2026 11:21",
+        "charges": "ALIAS DRIVING W SUSPENDED",
+        "released": true
+      },
+      {
+        "case": "Bkg #254981",
+        "defendant": "Robert Edward Kennell, 36",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-25",
+        "arrest": "10/25/2026 10:30",
+        "charges": "Failure to Appear Felony",
+        "released": false
+      },
+      {
+        "case": "Bkg #254986",
+        "defendant": "Skylar Paige Kemper, 27",
+        "agency": "Robertsdale PD",
+        "date": "2026-10-25",
+        "arrest": "10/25/2026 08:09",
+        "charges": "Fugitive From Justice",
+        "released": false
+      },
+      {
+        "case": "Bkg #254979",
+        "defendant": "Greenly Marie Culbreth, 23",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-25",
+        "arrest": "10/25/2026 00:55",
+        "charges": "Drug Paraphernalia-1st Offense; Dangerous Drugs-IPOPD Illegal Possession of Prescription Drugs; Tampering with Physical Evidence; Driving Under the Influence (Alcohol)",
+        "released": true
+      },
+      {
+        "case": "Bkg #254963",
+        "defendant": "Hartwood Oliver McMillan, 36",
+        "agency": "Spanish Fort PD",
+        "date": "2026-10-25",
+        "arrest": "10/25/2026 00:28",
+        "charges": "Domestic Violence 2ND",
+        "released": true
+      },
+      {
+        "case": "Bkg #254966",
+        "defendant": "Ronald Lynn Larew, 57",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-25",
+        "arrest": "10/25/2026",
+        "charges": "Failure to Appear Felony",
+        "released": false
+      },
+      {
+        "case": "Bkg #254964",
+        "defendant": "Timothy Scott Ray, 51",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-25",
+        "arrest": "10/25/2026",
+        "charges": "Failure to Appear Felony",
+        "released": false
+      },
+      {
+        "case": "Bkg #254965",
+        "defendant": "Vincent Donaldson Gandy, 60",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-25",
+        "arrest": "10/25/2026",
+        "charges": "Theft-Miscellaneous; YOUTHFUL OFFENDER",
+        "released": false
+      },
+      {
+        "case": "Bkg #254982",
+        "defendant": "William Eric Brown, 46",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-25",
+        "arrest": "10/24/2026 23:00",
+        "charges": "Harassment-Family; Intimidation (Voice); Reckless Endangerment",
+        "released": true
+      },
+      {
+        "case": "Bkg #254980",
+        "defendant": "Daniel Daxon Owens, 43",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-25",
+        "arrest": "10/24/2026 19:13",
+        "charges": "Appears in Public Place Under Influence",
+        "released": true
+      },
+      {
+        "case": "Bkg #254985",
+        "defendant": "Austun Rae Woerner, 29",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-25",
+        "arrest": "10/24/2026 13:50",
+        "charges": "Bench Warrant (2 counts)",
+        "released": false
+      },
+      {
+        "case": "Bkg #254988",
+        "defendant": "Ralph Evans Agee, 31",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-25",
+        "arrest": "10/24/2026 13:20",
+        "charges": "Bench Warrant",
+        "released": true
+      },
+      {
+        "case": "Bkg #254987",
+        "defendant": "Hannah Lee Lammon, 26",
+        "agency": "Baldwin County Sheriff",
+        "date": "2026-10-25",
+        "arrest": "10/24/2026 13:13",
+        "charges": "THEFT OF PROPERTY 2ND",
+        "released": true
+      }
+    ],
+    "list_note": "Every booking at the Baldwin County jail with an admit date of Oct. 25–27, newest first, as booked by the arresting agency. 11 immigration detainers in the same days are not listed. Seven U.S. Marshals prisoners were booked Oct. 26 as \"Federal Inmate\" with no charge shown. Last week's count is 133, one more than reported Oct. 26: a full re-read found a booking missed in the first transcription."
+  },
+  "city_arrests": [
+    {
+      "agency": "Daphne Police",
+      "window": "Oct. 24–27",
+      "rows": [
+        {
+          "name": "Kenneth Edward Dailey",
+          "when": "10/26 03:46",
+          "offense": "Alias writ of arrest",
+          "where": "2000 block of US 98 (Fastime)"
+        },
+        {
+          "name": "Kobi Lynn Lapri Johnson",
+          "when": "10/25 06:10",
+          "offense": "DUI (alcohol)",
+          "where": "20000 block of AL 181 (Chevron)"
+        },
+        {
+          "name": "Eduardo Nieves",
+          "when": "10/25 01:31",
+          "offense": "DUI (alcohol)",
+          "where": "US highway intersection (numbers masked)"
+        },
+        {
+          "name": "Candace Mareesa Tarpley",
+          "when": "10/24 21:26",
+          "offense": "Alias writ of arrest",
+          "where": "Daphne City Jail"
+        },
+        {
+          "name": "Keith Lee Allen Haynes",
+          "when": "10/24 17:17",
+          "offense": "Alias writ of arrest",
+          "where": "Daphne City Jail"
+        },
+        {
+          "name": "Monte Eugene Meyers",
+          "when": "10/24 16:28",
+          "offense": "DUI (alcohol)",
+          "where": "Lake Forest Golf Club"
+        },
+        {
+          "name": "Shaun Michael Groh",
+          "when": "10/24 16:22",
+          "offense": "Public intoxication",
+          "where": "N. Main St. at Eisenhower Way"
+        }
+      ]
+    },
+    {
+      "agency": "Fairhope Police",
+      "window": "Oct. 24–27",
+      "rows": [
+        {
+          "name": "Tamara Latrice Thompson",
+          "when": "10/26 23:16",
+          "offense": "Failure to appear (speeding)",
+          "where": "100 block of N. Section St."
+        },
+        {
+          "name": "Amy Leigh Moore Stack",
+          "when": "10/26 17:25",
+          "offense": "Possession of a controlled substance (amphetamine)",
+          "where": "Morphy Ave. at Bishop Rd."
+        },
+        {
+          "name": "Lito Aquiriano Romero",
+          "when": "10/26 02:04",
+          "offense": "Domestic violence, third degree (assault)",
+          "where": "8000 block of Nichols Ave. Ext."
+        },
+        {
+          "name": "Shawn Faky Wasp",
+          "when": "10/25 22:09",
+          "offense": "Obstructing governmental operations",
+          "where": "9000 block of Twin Beech Rd."
+        },
+        {
+          "name": "John Noel Penn",
+          "when": "10/25 18:50",
+          "offense": "Possession of drug paraphernalia",
+          "where": "Greeno Rd. at Morphy Ave."
+        },
+        {
+          "name": "Jason Stephen Nelson",
+          "when": "10/25 13:49",
+          "offense": "Failure to appear (no driver's license)",
+          "where": "100 block of N. Section St."
+        },
+        {
+          "name": "Greenly Marie Culbreth",
+          "when": "10/25 00:55",
+          "offense": "Drug paraphernalia (THC pen)",
+          "where": "Plantation Pointe shopping center"
+        },
+        {
+          "name": "Lindsay Conley Burress",
+          "when": "10/25 00:33",
+          "offense": "Public intoxication",
+          "where": "Gayfer Rd. at Jubilee Trail"
+        },
+        {
+          "name": "Byricus Quintel Johnson",
+          "when": "10/24 20:36",
+          "offense": "Failure to appear (driving while suspended)",
+          "where": "10000 block of AL 104, Silverhill"
+        },
+        {
+          "name": "Dylan Mark Hallford",
+          "when": "10/24 11:59",
+          "offense": "Failure to appear (drug paraphernalia)",
+          "where": "100 block of N. Section St."
+        },
+        {
+          "name": "Kevin Davon Smith",
+          "when": "10/24 09:32",
+          "offense": "Failure to appear (no driver's license)",
+          "where": "100 block of N. Section St."
+        }
+      ]
+    }
+  ],
+  "open_cases": [
+    {
+      "case": "Bkg #255006",
+      "defendant": "Robert Gordon McDuffie",
+      "level": "Booked",
+      "charges": "Failure to register as a sex offender; drug paraphernalia. In custody.",
+      "next": "Not set",
+      "agency": "Baldwin County Sheriff",
+      "last_docket": "2026-10-27"
+    },
+    {
+      "case": "Bkg #254824",
+      "defendant": "Timothy Eyres",
+      "level": "Sheriff's office charges",
+      "charges": "Four counts, possession of child sexual abuse material. In custody on $100,000 cash bond.",
+      "next": "Not set",
+      "agency": "Baldwin County Sheriff",
+      "last_docket": "2026-10-27"
+    },
+    {
+      "case": "Bkg #254887",
+      "defendant": "Collin James Nelson",
+      "level": "Booked",
+      "charges": "Sexual abuse of a child under 12. In custody.",
+      "next": "Not set",
+      "agency": "Foley Police",
+      "last_docket": "2026-10-27"
+    },
+    {
+      "case": "Bkg #254874",
+      "defendant": "Gregory McDonald · Jamarcus Grayson",
+      "level": "Booked",
+      "charges": "Bowling alley shooting, Oct. 3. McDonald released. Grayson's bond revoked Oct. 26 by a Mobile County judge; held until an April trial in a 2024 Mobile shooting case.",
+      "next": "Not set",
+      "agency": "Spanish Fort Police",
+      "last_docket": "2026-10-27"
+    },
+    {
+      "case": "Unsolved",
+      "defendant": "Good Time Charley's shooting, Foley",
+      "level": "",
+      "charges": "Man shot Oct. 18; no suspect identified. Sheriff's office asking for tips.",
+      "next": "—",
+      "agency": "Baldwin County Sheriff",
+      "last_docket": "2026-10-27"
+    },
+    {
+      "case": "Circuit Court",
+      "defendant": "Joseph Kaynen Gurley",
+      "level": "Convicted",
+      "charges": "Convicted Aug. 20 of murder and attempted murder at the Audubon Apartments, Daphne. Sentencing was set for Oct. 13; no outcome found yet.",
+      "next": "Sentencing outcome",
+      "agency": "Baldwin County District Attorney",
+      "last_docket": "2026-10-27"
+    },
+    {
+      "case": "U.S. District Court",
+      "defendant": "Felix Albino Lopez-Acahua",
+      "level": "Pleaded guilty",
+      "charges": "Interstate prostitution ring and a federal firearm charge.",
+      "next": "Sentencing, January 2027",
+      "agency": "U.S. Attorney",
+      "last_docket": "2026-10-27"
+    }
+  ],
+  "sources": [
+    {
+      "name": "BCSO jail roster",
+      "url": "https://cc.southernsoftware.com/bookingsearch/index.php?AgencyID=BaldwinCoSOAL",
+      "status": "read",
+      "note": "1 admit in last 24 hours (read 8:20 a.m.); 167 in last 7 days, all 167 transcribed (28 immigration detainers counted, not listed)"
+    },
+    {
+      "name": "Daphne PD arrest log",
+      "url": "https://cc.southernsoftware.com/arrestsearch/index.php?AgencyID=DaphnePDAL",
+      "status": "read",
+      "note": "7 arrests Oct. 24–27; none posted after Oct. 26 3:46 a.m."
+    },
+    {
+      "name": "Fairhope PD arrest log",
+      "url": "https://cc.southernsoftware.com/arrestsearch/index.php?AgencyID=FairhopePDAL",
+      "status": "read",
+      "note": "11 arrests Oct. 24–26, including the Oct. 26 2:04 a.m. arrest missing yesterday"
+    },
+    {
+      "name": "BCSO Facebook",
+      "url": "https://www.facebook.com/SheriffOfBaldwin/",
+      "status": "read",
+      "note": "No new releases since Oct. 20; community posts only"
+    },
+    {
+      "name": "Baldwin County DA Facebook",
+      "url": "https://www.facebook.com/baldwincountydaoffice",
+      "status": "read",
+      "note": "No new verdicts since Sept. 25"
+    },
+    {
+      "name": "U.S. Attorney, S.D. Alabama",
+      "url": "https://www.justice.gov/usao-sdal/pr",
+      "status": "read",
+      "note": "1 new release (Oct. 26, Clarke County, out of area); 3 Baldwin releases in 30 days"
+    },
+    {
+      "name": "ALEA press releases",
+      "url": "https://www.alea.gov/press-releases",
+      "status": "read",
+      "note": "No Baldwin items; newest Oct. 21"
+    },
+    {
+      "name": "Alabama Attorney General",
+      "url": "https://www.alabamaag.gov/news/",
+      "status": "read",
+      "note": "No Baldwin items; newest Oct. 20"
+    },
+    {
+      "name": "FOX10 Baldwin County",
+      "url": "https://www.fox10tv.com/news/baldwin-county/",
+      "status": "read",
+      "note": "2 crime-related items Oct. 24–26"
+    },
+    {
+      "name": "WKRG Baldwin County",
+      "url": "https://www.wkrg.com/baldwin-county/",
+      "status": "not reached",
+      "note": "Access-denied page in the browser"
+    },
+    {
+      "name": "Alacourt free docket, Baldwin",
+      "url": "https://pa.alacourt.com/frmDocketListsearch.aspx?LOC=05",
+      "status": "read",
+      "note": "Oct. 27 docket now loads as a 4-page PDF list; not transcribed this edition"
+    },
+    {
+      "name": "Daphne PD Facebook",
+      "url": "https://www.facebook.com/DaphnePoliceDept",
+      "status": "not reached",
+      "note": "Not checked this edition"
+    },
+    {
+      "name": "Foley, Gulf Shores, Orange Beach, Spanish Fort, Bay Minette PD Facebook",
+      "url": null,
+      "status": "not reached",
+      "note": "Pages not yet located"
+    },
+    {
+      "name": "Gulf Coast Media",
+      "url": "https://www.gulfcoastmedia.com/",
+      "status": "not reached",
+      "note": "Subscription wall"
+    },
+    {
+      "name": "Alacourt case search",
+      "url": "https://pa.alacourt.com/",
+      "status": "paid",
+      "note": "$9.99 per search; not used"
+    }
+  ]
+}
