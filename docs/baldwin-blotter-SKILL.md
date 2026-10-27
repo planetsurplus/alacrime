@@ -1,6 +1,6 @@
 ---
 name: "baldwin-blotter"
-description: "Run the daily Baldwin County, Alabama crime report: read the primary Baldwin records directly (jail admits, federal and state releases, agency posts), verify every date, and update the published Baldwin County Crime Record artifact in place."
+description: "Run the daily Baldwin County, Alabama crime report for www.alacrime.com: read the primary Baldwin records directly (jail roster, city arrest logs, federal, state and DA releases), verify every date, upload the edition JSON to the alacrime feed Drive folder, and update the working artifact in place."
 ---
 
 # Baldwin County Crime Record
@@ -220,21 +220,21 @@ A roster record is a name, an agency and a charge line. Before an entry goes out
 
 **Always add:** what the charge means in plain words, twelve words or fewer, from the roster's own text ("Simple Assault-Family — an assault charge against a family or household member"). Do not quote sentence ranges for a booked charge — the class is unknown until the DA files. When an official source states the class, you may add what Alabama law allows (Code of Alabama §§13A-5-6 and 13A-5-7): Class A felony 10 to 99 years or life, Class B 2 to 20 years, Class C 1 to 10 years; Class A misdemeanour up to 1 year, Class B up to 6 months, Class C up to 3 months — written as what the law allows, never what this person faces.
 
-**Shape of an entry (fairbankscrime.com format):** headline in the form "Category: Name" ("Armed robbery arrest: [full name]", "Federal sentence, felon with a firearm: [full name]"; for roundups "Gulf Shores weekend: 6 booked, mostly DUI"); first paragraph is what police say, attributed; second is the booked charges with the plain-words meaning; optional third is the next court date if the free docket shows one. Leave docket and roster mechanics out of public entries — they belong in the Sources checked notes. (The public site is still to be named; see "The public website".)
+**Shape of an entry (fairbankscrime.com format):** headline in the form "Category: Name" ("Armed robbery arrest: [full name]", "Federal sentence, felon with a firearm: [full name]"; for roundups "Gulf Shores weekend: 6 booked, mostly DUI"); first paragraph is what police say, attributed; second is the booked charges with the plain-words meaning; optional third is the next court date if the free docket shows one. Leave docket and roster mechanics out of public entries — they belong in the Sources checked notes.
 
 **Limits:** police narratives are allegations, attributed every time. No stitching two records together without name **and** date **and** place or charge matching. Domestic violence, sexual offences and child victims: only what an official source states; never a victim's name, relationship, age or address. Misdemeanours: context from police posts and the roster only, no news or social-media name searches. Budget: felonies first.
 
 ## The page
 
-Single self-contained HTML file at `/home/claude/baldwin-crime-record.html`, republished to the canonical URL.
+**The public site is generated, not hand-written:** `build.py` in the alacrime repo turns each edition JSON into the pages, so the JSON is what matters for www.alacrime.com. The layout below describes what that builder produces, and the working artifact mirrors it.
 
-**Template: the sample edition at `https://claude.ai/artifact/6Ej7uN4PrXiZuVooPdwgVg`** (Version 2), which copies fairbankscrime.com's format as of 2026-10-26. Read it with `Artifact` action `read` and build from its HTML and CSS rather than from memory. Strip the purple SAMPLE banner and the invented entries.
+The working artifact is a single self-contained HTML file at `/home/claude/baldwin-crime-record.html`, republished to the working-page URL above. Build each day's version from the previous one (read it first), not from memory. The Motive Wheel lives only on the public site (`/wheel/`); its motives are in `wheel/index.html` in the repo.
 
 **Tokens (same as fairbankscrime.com):** light `--paper #F6F7F9 --surface #ECEEF2 --ink #14181E --ink-soft #39414C --muted #646E7B --rule #DCE0E6 --rule-hard #BCC4CE --accent #0E5A58 --felony #A02B23 --caution #8A5A00 --ok #2E6647 --stamp #2F4A7A`; dark `--paper #0F1217 --surface #171C23 --ink #E7EBF1 --accent #63BFB8 --felony #E08A82 --caution #D6A44F --ok #7FC2A0 --stamp #8FB0E6`. Fonts: **Spectral 600** for the brand line only, **Public Sans** for everything else, **IBM Plex Mono** for the org line, nav, dateline, gutter, chips, table headers and source lines. Tokens on `:root`, redefined under `@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {...} }` and `:root[data-theme="dark"]`; explicit `body` background; a working Light / dark toggle in the footer.
 
 **Structure, top to bottom:**
 1. `header.site-head` — `.org` mono kicker "Baldwin County, Alabama · Compiled daily from primary records", `.brand` Spectral tagline.
-2. `nav.top` sticky — Latest, Archive, Open cases, Search, Corrections, About, Contact (no Motive Wheel unless the user asks for a Baldwin one).
+2. `nav.top` sticky — Latest, Archive, Open cases, Search, Corrections, Motive Wheel, About, Contact.
 3. `.layout` grid: `main` 692px + `aside.side` 340px, stacking under ~980px.
 4. In `main`: `.ed-stamp` (rotated rubber-stamp "Morning Edition" / "Evening Edition") → `.dateline` (full date · Compiled HH:MM CDT · Covers date range) → `h1.page` "Today in Baldwin County" → `ul.highlights` anchor list of every entry headline → `.presumption` "Everyone named is arrested or charged, not convicted." → `.share` row.
 5. **Charge-O-Meter** (`section.charge`, fixed dark instrument in both themes, gold numerals): last week's final count Mon–Sun of **new jail bookings**, a split line (city police · sheriff · troopers & others · flagged family/domestic), a proportional bar, eight tiles — Assault & threats, Drugs, Drunk driving, Theft burglary & damage, Broke a court order, Driving & licence, Everything else, **Warrants & holds** (replaces Fairbanks's "Charge not filed yet") — and a note naming the top category and saying booked charges are not filed charges. Each booking counts once, by its most serious-sounding booked charge.
@@ -247,5 +247,3 @@ Single self-contained HTML file at `/home/claude/baldwin-crime-record.html`, rep
 12. `footer.site-foot` — presumption-of-innocence paragraph adapted to Baldwin, including that jail charges are booked charges; corrections, contact, RSS and the theme toggle.
 
 **Corrections stay published** as dated blocks on the corrections page, never silent edits. Before publishing, check tag balance (`<section>`, `<article class="entry">`, `<table>`, `<tbody>`, `<footer>`).
-
-**Corrections stay published** as dated blocks. Before publishing, check tag balance (`<section>`, `<article class="entry">`, `<table class="grid">`, `<tbody>`, `<footer>`).
