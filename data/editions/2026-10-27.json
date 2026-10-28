@@ -1,8 +1,8 @@
 {
   "date": "2026-10-27",
-  "compiled": "2026-10-27T08:35:00-05:00",
+  "compiled": "2026-10-27T21:55:00-05:00",
   "window": "Oct. 25–27, 2026",
-  "summary": "A sex offender registration arrest and a child endangerment arrest by sheriff's deputies Monday evening, and a judge kept the second man in the Spanish Fort bowling alley shooting jailed. Gulf Shores police warned of scams after a resident lost $4,000.",
+  "summary": "A sex offender registration arrest and a child endangerment arrest by sheriff's deputies Monday evening, and a judge kept the second man in the Spanish Fort bowling alley shooting jailed. Gulf Shores police warned of scams after a resident lost $4,000. In the evening, FOX10 reported a Pensacola man pleaded guilty in federal court to targeting a Baldwin County witness in a meth case. The evening pass could not re-read the jail roster or city logs; booking counts are from the morning read.",
   "commentary": null,
   "entries": [
     {
@@ -67,6 +67,28 @@
         {
           "label": "FOX10, Oct. 26",
           "url": "https://www.fox10tv.com/2026/10/26/judge-revokes-bond-prichard-man-who-faces-charges-related-2-shootings/"
+        }
+      ]
+    },
+    {
+      "id": "fed-mathurin-plea",
+      "date": "2026-10-26",
+      "place": "Baldwin County",
+      "agency": "U.S. District Court, Mobile",
+      "category": "court",
+      "severity": "other",
+      "title": "Federal guilty pleas, meth conspiracy and witness tampering: John Michael Mathurin",
+      "body": [
+        "John Michael Mathurin, 33, of Pensacola, pleaded guilty Monday in federal court in Mobile to conspiracy to tamper with a witness, FOX10 reported. Prosecutors say he directed co-defendants to target a Baldwin County woman who was a witness against him, including driving to her home and photographing it.",
+        "Mathurin had pleaded guilty in the middle of his trial to conspiracy to possess methamphetamine with intent to distribute and to distributing meth. Prosecutors say he led a conspiracy that sold kilograms of meth, along with fentanyl, cocaine and other drugs, in Baldwin County and Pensacola over two years. Sentencing in the drug case is set for Nov. 12 and in the tampering case for January, according to FOX10."
+      ],
+      "tags": [
+        "Pleaded guilty"
+      ],
+      "sources": [
+        {
+          "label": "FOX10, Oct. 27",
+          "url": "https://www.fox10tv.com/2026/10/27/handle-girl-drug-dealer-admits-directing-co-defendants-target-witness/"
         }
       ]
     },
@@ -1927,7 +1949,7 @@
         "released": true
       }
     ],
-    "list_note": "Every booking at the Baldwin County jail with an admit date of Oct. 25–27, newest first, as booked by the arresting agency. 11 immigration detainers in the same days are not listed. Seven U.S. Marshals prisoners were booked Oct. 26 as \"Federal Inmate\" with no charge shown. Last week's count is 133, one more than reported Oct. 26: a full re-read found a booking missed in the first transcription."
+    "list_note": "Every booking at the Baldwin County jail with an admit date of Oct. 25–27, newest first, as booked by the arresting agency. 11 immigration detainers in the same days are not listed. Seven U.S. Marshals prisoners were booked Oct. 26 as \"Federal Inmate\" with no charge shown. Last week's count is 133, one more than reported Oct. 26: a full re-read found a booking missed in the first transcription. Evening pass: the roster could not be re-read (browser not connected); bookings after the 8:20 a.m. read are not shown."
   },
   "city_arrests": [
     {
@@ -2114,62 +2136,71 @@
       "next": "Sentencing, January 2027",
       "agency": "U.S. Attorney",
       "last_docket": "2026-10-27"
+    },
+    {
+      "case": "Federal, S.D. Alabama (Mobile)",
+      "defendant": "John Michael Mathurin",
+      "level": "Pleaded guilty (federal)",
+      "charges": "Conspiracy to possess meth with intent to distribute; meth distribution; conspiracy to tamper with a witness.",
+      "next": "Sentencing Nov. 12 (drug case); January (tampering)",
+      "agency": "U.S. Attorney, S.D. Alabama",
+      "last_docket": "2026-10-27"
     }
   ],
   "sources": [
     {
       "name": "BCSO jail roster",
       "url": "https://cc.southernsoftware.com/bookingsearch/index.php?AgencyID=BaldwinCoSOAL",
-      "status": "read",
-      "note": "1 admit in last 24 hours (read 8:20 a.m.); 167 in last 7 days, all 167 transcribed (28 immigration detainers counted, not listed)"
+      "status": "not reached",
+      "note": "Morning read: 1 admit in last 24 hours (read 8:20 a.m.); 167 in last 7 days, all 167 transcribed (28 immigration detainers counted, not listed). Evening re-read not reached: browser not connected."
     },
     {
       "name": "Daphne PD arrest log",
       "url": "https://cc.southernsoftware.com/arrestsearch/index.php?AgencyID=DaphnePDAL",
-      "status": "read",
-      "note": "7 arrests Oct. 24–27; none posted after Oct. 26 3:46 a.m."
+      "status": "not reached",
+      "note": "Morning read: 7 arrests Oct. 24–27; none posted after Oct. 26 3:46 a.m. Evening re-read not reached: browser not connected."
     },
     {
       "name": "Fairhope PD arrest log",
       "url": "https://cc.southernsoftware.com/arrestsearch/index.php?AgencyID=FairhopePDAL",
-      "status": "read",
-      "note": "11 arrests Oct. 24–26, including the Oct. 26 2:04 a.m. arrest missing yesterday"
+      "status": "not reached",
+      "note": "Morning read: 11 arrests Oct. 24–26, including the Oct. 26 2:04 a.m. arrest missing yesterday. Evening re-read not reached: browser not connected."
     },
     {
       "name": "BCSO Facebook",
       "url": "https://www.facebook.com/SheriffOfBaldwin/",
-      "status": "read",
-      "note": "No new releases since Oct. 20; community posts only"
+      "status": "not reached",
+      "note": "Morning read: No new releases since Oct. 20; community posts only. Evening re-read not reached: browser not connected."
     },
     {
       "name": "Baldwin County DA Facebook",
       "url": "https://www.facebook.com/baldwincountydaoffice",
-      "status": "read",
-      "note": "No new verdicts since Sept. 25"
+      "status": "not reached",
+      "note": "Morning read: No new verdicts since Sept. 25. Evening re-read not reached: browser not connected."
     },
     {
       "name": "U.S. Attorney, S.D. Alabama",
       "url": "https://www.justice.gov/usao-sdal/pr",
-      "status": "read",
-      "note": "1 new release (Oct. 26, Clarke County, out of area); 3 Baldwin releases in 30 days"
+      "status": "not reached",
+      "note": "Morning read: 1 new release (Oct. 26, Clarke County, out of area); 3 Baldwin releases in 30 days. Evening re-read not reached: browser not connected."
     },
     {
       "name": "ALEA press releases",
       "url": "https://www.alea.gov/press-releases",
-      "status": "read",
-      "note": "No Baldwin items; newest Oct. 21"
+      "status": "not reached",
+      "note": "Morning read: No Baldwin items; newest Oct. 21. Evening re-read not reached: browser not connected."
     },
     {
       "name": "Alabama Attorney General",
       "url": "https://www.alabamaag.gov/news/",
-      "status": "read",
-      "note": "No Baldwin items; newest Oct. 20"
+      "status": "not reached",
+      "note": "Morning read: No Baldwin items; newest Oct. 20. Evening re-read not reached: browser not connected."
     },
     {
       "name": "FOX10 Baldwin County",
       "url": "https://www.fox10tv.com/news/baldwin-county/",
-      "status": "read",
-      "note": "2 crime-related items Oct. 24–26"
+      "status": "not reached",
+      "note": "Morning read: 2 crime-related items Oct. 24–26. Evening: index not reached (browser not connected); 1 new Baldwin-related item found by search (Oct. 27, Mathurin plea)."
     },
     {
       "name": "WKRG Baldwin County",
@@ -2180,8 +2211,8 @@
     {
       "name": "Alacourt free docket, Baldwin",
       "url": "https://pa.alacourt.com/frmDocketListsearch.aspx?LOC=05",
-      "status": "read",
-      "note": "Oct. 27 docket now loads as a 4-page PDF list; not transcribed this edition"
+      "status": "not reached",
+      "note": "Morning read: Oct. 27 docket now loads as a 4-page PDF list; not transcribed this edition. Evening re-read not reached: browser not connected."
     },
     {
       "name": "Daphne PD Facebook",
