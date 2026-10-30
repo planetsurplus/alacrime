@@ -1,8 +1,8 @@
 {
   "date": "2026-10-29",
-  "compiled": "2026-10-29T05:05:00-05:00",
+  "compiled": "2026-10-29T21:15:00-05:00",
   "window": "Oct. 27–29, 2026",
-  "summary": "Sheriff's deputies booked a Baldwin County man on drug-trafficking, drug-distribution and firearm charges, and arrested a man on stolen-property and drug charges. The jail roster shows 49 admits dated Oct. 28; the sheriff's office says a missing 18-year-old it sought this week has been located.",
+  "summary": "Sheriff's deputies booked a Baldwin County man on drug-trafficking, drug-distribution and firearm charges, and arrested a man on stolen-property and drug charges. The jail roster shows 49 admits dated Oct. 28; the sheriff's office says a missing 18-year-old it sought this week has been located. Foley police said Thursday evening they arrested a Foley High School student who claimed to have a firearm on campus; no gun was found.",
   "commentary": null,
   "entries": [
     {
@@ -50,6 +50,27 @@
         {
           "label": "BCSO jail roster",
           "url": "https://cc.southernsoftware.com/bookingsearch/index.php?AgencyID=BaldwinCoSOAL"
+        }
+      ]
+    },
+    {
+      "id": "foley-hs-firearm-claim",
+      "date": "2026-10-29",
+      "place": "Foley",
+      "agency": "Foley Police",
+      "category": "other",
+      "severity": "other",
+      "cases": [],
+      "title": "School threat arrest: Foley High School student",
+      "body": [
+        "Foley police said a Foley High School student was arrested Thursday, Oct. 29, after claiming to have a firearm on campus. Police and school resource officers searched several areas of the school and did not find a firearm, according to the department's account reported by NBC 15.",
+        "Police did not name the student or state the charge. The case is being handled by the Juvenile Court of Baldwin County."
+      ],
+      "tags": [],
+      "sources": [
+        {
+          "label": "NBC 15 (Oct. 29)",
+          "url": "https://mynbc15.com/news/local/police-foley-high-school-student-arrested-after-claiming-to-possess-firearm-on-campus"
         }
       ]
     },
@@ -2463,7 +2484,7 @@
       "charges": "Four counts, possession of child sexual abuse material. In custody on $100,000 cash bond.",
       "next": "Not set",
       "agency": "Baldwin County Sheriff",
-      "last_docket": "2026-10-27"
+      "last_docket": "2026-10-29"
     },
     {
       "case": "Bkg #254887",
@@ -2481,7 +2502,7 @@
       "charges": "Bowling alley shooting, Oct. 3. McDonald released. Grayson's bond revoked Oct. 26 by a Mobile County judge; held until an April trial in a 2024 Mobile shooting case.",
       "next": "Not set",
       "agency": "Spanish Fort Police",
-      "last_docket": "2026-10-28"
+      "last_docket": "2026-10-29"
     },
     {
       "case": "Unsolved",
@@ -2490,7 +2511,7 @@
       "charges": "Man shot Oct. 18; no suspect identified. Sheriff's office asking for tips.",
       "next": "—",
       "agency": "Baldwin County Sheriff",
-      "last_docket": "2026-10-27"
+      "last_docket": "2026-10-29"
     },
     {
       "case": "Circuit Court",
@@ -2525,61 +2546,67 @@
       "name": "BCSO jail roster",
       "url": "https://cc.southernsoftware.com/bookingsearch/index.php?AgencyID=BaldwinCoSOAL",
       "status": "read",
-      "note": "Read 4:45 a.m. Thursday. Last 24 Hour Admits: 0 shown. Last 7 Days Admits: 209, all 209 transcribed (11 pages): 48 immigration detainers counted, not listed; 6 records with no agency or charges (1 listed from an earlier edition); 24 new criminal bookings, all dated Oct. 28. The roster now shows 49 admits dated Oct. 28 and 33 dated Oct. 27, against 2 and 24 seen Wednesday morning."
+      "note": "Read 4:45 a.m. Thursday. Last 24 Hour Admits: 0 shown. Last 7 Days Admits: 209, all 209 transcribed (11 pages): 48 immigration detainers counted, not listed; 6 records with no agency or charges (1 listed from an earlier edition); 24 new criminal bookings, all dated Oct. 28. The roster now shows 49 admits dated Oct. 28 and 33 dated Oct. 27, against 2 and 24 seen Wednesday morning. Evening re-read not reached: Claude in Chrome not connected; morning reading stands."
     },
     {
       "name": "Daphne PD arrest log",
       "url": "https://cc.southernsoftware.com/arrestsearch/index.php?AgencyID=DaphnePDAL",
       "status": "read",
-      "note": "7 arrests Oct. 25–29; 4 new since Wednesday (Oct. 27 11:55 p.m. to Oct. 29 1:14 a.m.)"
+      "note": "7 arrests Oct. 25–29; 4 new since Wednesday (Oct. 27 11:55 p.m. to Oct. 29 1:14 a.m.). Evening re-read not reached: Claude in Chrome not connected; morning reading stands."
     },
     {
       "name": "Fairhope PD arrest log",
       "url": "https://cc.southernsoftware.com/arrestsearch/index.php?AgencyID=FairhopePDAL",
       "status": "read",
-      "note": "10 arrests Oct. 25–29; 1 new (Oct. 28 1:51 p.m.)"
+      "note": "10 arrests Oct. 25–29; 1 new (Oct. 28 1:51 p.m.). Evening re-read not reached: Claude in Chrome not connected; morning reading stands."
     },
     {
       "name": "BCSO Facebook",
       "url": "https://www.facebook.com/SheriffOfBaldwin/",
       "status": "read",
-      "note": "Oct. 27 missing-person post updated to \"located\"; no new crime releases since Oct. 20"
+      "note": "Oct. 27 missing-person post updated to \"located\"; no new crime releases since Oct. 20. Evening re-read not reached: Claude in Chrome not connected; morning reading stands."
     },
     {
       "name": "Baldwin County DA Facebook",
       "url": "https://www.facebook.com/baldwincountydaoffice",
       "status": "read",
-      "note": "No new verdicts or sentences; newest post a pumpkin-decorating contest. No Gurley sentencing post found"
+      "note": "No new verdicts or sentences; newest post a pumpkin-decorating contest. No Gurley sentencing post found. Evening re-read not reached: Claude in Chrome not connected; morning reading stands."
     },
     {
       "name": "U.S. Attorney, S.D. Alabama",
       "url": "https://www.justice.gov/usao-sdal/pr",
       "status": "read",
-      "note": "1 new release (Oct. 28, Mobile tax-preparer indictment); no Baldwin place named"
+      "note": "1 new release (Oct. 28, Mobile tax-preparer indictment); no Baldwin place named. Evening re-read not reached: Claude in Chrome not connected; morning reading stands."
     },
     {
       "name": "ALEA press releases",
       "url": "https://www.alea.gov/press-releases",
       "status": "read",
-      "note": "1 new release (Oct. 28, trooper graduation); no Baldwin items"
+      "note": "1 new release (Oct. 28, trooper graduation); no Baldwin items. Evening re-read not reached: Claude in Chrome not connected; morning reading stands."
     },
     {
       "name": "Alabama Attorney General",
       "url": "https://www.alabamaag.gov/news/",
       "status": "read",
-      "note": "Index read in browser. 1 new release (Oct. 28, consumer warning, statewide); no Baldwin items"
+      "note": "Index read in browser. 1 new release (Oct. 28, consumer warning, statewide); no Baldwin items. Evening re-read not reached: Claude in Chrome not connected; morning reading stands."
     },
     {
       "name": "FOX10 Baldwin County",
       "url": "https://www.fox10tv.com/news/baldwin-county/",
       "status": "read",
-      "note": "3 new items Oct. 28; 1 crime-related (Daphne Flock cameras cut down by vandals, no dates or arrests given); not used as an entry"
+      "note": "3 new items Oct. 28; 1 crime-related (Daphne Flock cameras cut down by vandals, no dates or arrests given); not used as an entry. Evening (9 p.m.): index re-read in the cloud; 3 items Oct. 29, none crime-related."
     },
     {
       "name": "WKRG Baldwin County",
       "url": "https://www.wkrg.com/baldwin-county/",
       "status": "read",
-      "note": "Index loaded; no Baldwin crime items Oct. 27–28"
+      "note": "Index loaded; no Baldwin crime items Oct. 27–28. Evening re-read not reached: Claude in Chrome not connected; morning reading stands."
+    },
+    {
+      "name": "NBC 15 / WPMI",
+      "url": "https://mynbc15.com/news/local/",
+      "status": "read",
+      "note": "Evening search: 1 Baldwin crime item Oct. 29 (Foley High School arrest, juvenile, not named)"
     },
     {
       "name": "Alacourt free docket, Baldwin",
