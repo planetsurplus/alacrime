@@ -1,29 +1,38 @@
 {
   "date": "2026-11-03",
-  "compiled": "2026-11-03T05:30:00-06:00",
+  "compiled": "2026-11-03T17:55:00-06:00",
   "window": "Nov. 1–3, 2026",
-  "summary": "Sheriff's deputies arrested a man Monday on a charge of shooting into an occupied building, and Loxley police booked a woman on a family-assault charge. The jail roster shows 17 criminal bookings dated Nov. 2 and four so far on Nov. 3, including three drunk-driving arrests.",
+  "summary": "Deputies say a Bay Minette man arrested Monday admitted firing a handgun at an 18-wheeler on Highway 59 north of Bay Minette on Oct. 29, and Loxley police booked a woman on a family-assault charge. The jail roster showed 17 criminal bookings dated Nov. 2 and four on Nov. 3 as of the morning read; the roster could not be re-read this evening.",
   "commentary": null,
   "entries": [
     {
       "id": "chandler-shooting-occupied",
       "date": "2026-11-02",
       "time": "07:31",
-      "place": "Baldwin County",
+      "place": "Bay Minette",
       "agency": "Baldwin County Sheriff",
       "category": "violent",
       "cases": [
         "Bkg #255186"
       ],
-      "title": "Shooting into occupied building arrest: Jason Cameron Chandler",
+      "title": "Shooting at 18-wheeler arrest: Jason Cameron Chandler",
       "body": [
-        "Jason Cameron Chandler, 23, was arrested by sheriff's deputies at 7:31 a.m. Monday, Nov. 2, according to the jail roster.",
-        "He was booked on a charge of shooting into an occupied building — firing a gun into a building with people inside. The roster shows him released Tuesday, Nov. 3. The sheriff's office has not posted details of the arrest."
+        "Jason Cameron Chandler, 23, of Bay Minette was arrested by Baldwin County sheriff's deputies at 7:31 a.m. Monday, Nov. 2, according to the jail roster.",
+        "Deputies say a southbound pickup passed an 18-wheeler on Highway 59 north of Bay Minette on Thursday, Oct. 29, and the truck's driver later found a large-caliber bullet on the cab floor and a bullet mark on the driver's side of the cab, according to news reports citing the sheriff's office. No injuries were reported. Investigators say the trucking company's video showed a dark Chevrolet Avalanche with two white rear-window decals; a deputy later found a matching vehicle at a Bay Minette home with a large handgun on the front seat, and the owner, Chandler, admitted firing at the truck and called it a random act, according to those reports.",
+        "He was booked on a charge of shooting into an occupied building or vehicle — firing a gun into an occupied structure or vehicle. News reports describe the charge as discharging a firearm into an occupied vehicle. The roster showed him released Tuesday, Nov. 3."
       ],
       "sources": [
         {
           "label": "BCSO jail roster",
           "url": "https://cc.southernsoftware.com/bookingsearch/index.php?AgencyID=BaldwinCoSOAL"
+        },
+        {
+          "label": "FOX10, Nov. 3",
+          "url": "https://www.fox10tv.com/2026/11/03/bcso-bay-minette-man-arrested-after-allegedly-shooting-18-wheeler-highway-59/"
+        },
+        {
+          "label": "Blue Ram Media, Nov. 3",
+          "url": "https://bluerammedia.com/bay-minette-man-arrested-for-shooting-at-18-wheeler-on-highway-59/"
         }
       ],
       "severity": "other"
@@ -1759,7 +1768,7 @@
         "released": true
       }
     ],
-    "list_note": "Every booking at the Baldwin County jail with an admit date of Nov. 1–3, newest first, as booked by the arresting agency. 7 immigration detainers in the same days are not listed, and one Nov. 1 booking that shows no agency or charge is not listed. Counts for Nov. 3 cover the early morning only."
+    "list_note": "Every booking at the Baldwin County jail with an admit date of Nov. 1–3, newest first, as booked by the arresting agency. 7 immigration detainers in the same days are not listed, and one Nov. 1 booking that shows no agency or charge is not listed. Counts for Nov. 3 cover the early morning only. The roster could not be re-read in the evening pass; these lists are as of the morning read."
   },
   "city_arrests": [
     {
@@ -2099,68 +2108,68 @@
     {
       "name": "BCSO jail roster",
       "url": "https://cc.southernsoftware.com/bookingsearch/index.php?AgencyID=BaldwinCoSOAL",
-      "status": "read",
-      "note": "Read 4:45–5:05 a.m. Tuesday. Last 24 Hour Admits: 4 (all criminal, all transcribed). Last 7 Days Admits: 188, all 188 transcribed (10 pages): 127 criminal bookings, 61 immigration detainers or immigration-flagged bookings, 1 Nov. 1 booking with no agency or charge. 9 criminal bookings dated Nov. 1 (re-read, unchanged), 17 dated Nov. 2, 4 dated Nov. 3 so far. The Nov. 2 Crenshaw booking now shows burglary of a residence with force instead of failure to appear on a felony. Release status updated for earlier bookings."
+      "status": "not reached",
+      "note": "Not re-read in the evening pass: browser not connected. Morning read: Read 4:45–5:05 a.m. Tuesday. Last 24 Hour Admits: 4 (all criminal, all transcribed). Last 7 Days Admits: 188, all 188 transcribed (10 pages): 127 criminal bookings, 61 immigration detainers or immigration-flagged bookings, 1 Nov. 1 booking with no agency or charge. 9 criminal bookings dated Nov. 1 (re-read, unchanged), 17 dated Nov. 2, 4 dated Nov. 3 so far. The Nov. 2 Crenshaw booking now shows burglary of a residence with force instead of failure to appear on a felony. Release status updated for earlier bookings."
     },
     {
       "name": "Daphne PD arrest log",
       "url": "https://cc.southernsoftware.com/arrestsearch/index.php?AgencyID=DaphnePDAL",
-      "status": "read",
-      "note": "Nov. 1–3 searched: 14 rows, 6 new since Monday (Nov. 1: one public-intoxication arrest and two more fourth-degree theft rows in the same case; Nov. 2: one DUI, one criminal trespass, one writ). Nothing posted for Nov. 3 yet. The roster books Everett Terry Clayton's fugitive arrest under the sheriff's office on Nov. 2; Daphne's log shows a Daphne fugitive arrest Nov. 1."
+      "status": "not reached",
+      "note": "Not re-read in the evening pass: browser not connected. Morning read: Nov. 1–3 searched: 14 rows, 6 new since Monday (Nov. 1: one public-intoxication arrest and two more fourth-degree theft rows in the same case; Nov. 2: one DUI, one criminal trespass, one writ). Nothing posted for Nov. 3 yet. The roster books Everett Terry Clayton's fugitive arrest under the sheriff's office on Nov. 2; Daphne's log shows a Daphne fugitive arrest Nov. 1."
     },
     {
       "name": "Fairhope PD arrest log",
       "url": "https://cc.southernsoftware.com/arrestsearch/index.php?AgencyID=FairhopePDAL",
-      "status": "read",
-      "note": "Oct. 30–Nov. 3 search returned no rows; Nov. 1–3 search returned 3 arrests, 1 new (Nov. 2, a failure-to-appear in a youthful-offender matter, not listed because youthful-offender records are confidential under Alabama law). Nothing posted for Nov. 3 yet."
+      "status": "not reached",
+      "note": "Not re-read in the evening pass: browser not connected. Morning read: Oct. 30–Nov. 3 search returned no rows; Nov. 1–3 search returned 3 arrests, 1 new (Nov. 2, a failure-to-appear in a youthful-offender matter, not listed because youthful-offender records are confidential under Alabama law). Nothing posted for Nov. 3 yet."
     },
     {
       "name": "BCSO Facebook",
       "url": "https://www.facebook.com/SheriffOfBaldwin/",
-      "status": "read",
-      "note": "No crime releases; newest posts are the I.G.N.I.T.E. inmate-education launch (Nov. 2) and an Election Day reminder."
+      "status": "not reached",
+      "note": "Not re-read in the evening pass: browser not connected. Morning read: No crime releases; newest posts are the I.G.N.I.T.E. inmate-education launch (Nov. 2) and an Election Day reminder."
     },
     {
       "name": "Baldwin County DA Facebook",
       "url": "https://www.facebook.com/baldwincountydaoffice",
-      "status": "read",
-      "note": "No new verdicts or sentences; newest post still the pumpkin-decorating contest. No Gurley sentencing post found."
+      "status": "not reached",
+      "note": "Not re-read in the evening pass: browser not connected. Morning read: No new verdicts or sentences; newest post still the pumpkin-decorating contest. No Gurley sentencing post found."
     },
     {
       "name": "U.S. Attorney, S.D. Alabama",
       "url": "https://www.justice.gov/usao-sdal/pr",
-      "status": "read",
-      "note": "No releases since Oct. 30; none of the recent releases names a Baldwin place."
+      "status": "not reached",
+      "note": "Not re-read in the evening pass: browser not connected. Morning read: No releases since Oct. 30; none of the recent releases names a Baldwin place."
     },
     {
       "name": "ALEA press releases",
       "url": "https://www.alea.gov/press-releases",
-      "status": "read",
-      "note": "Newest releases still Oct. 30. No Baldwin items."
+      "status": "not reached",
+      "note": "Not re-read in the evening pass: browser not connected. Morning read: Newest releases still Oct. 30. No Baldwin items."
     },
     {
       "name": "Alabama Attorney General",
       "url": "https://www.alabamaag.gov/news/",
-      "status": "read",
-      "note": "Newest release Oct. 28; nothing new, no Baldwin items."
+      "status": "not reached",
+      "note": "Not re-read in the evening pass: browser not connected. Morning read: Newest release Oct. 28; nothing new, no Baldwin items."
     },
     {
       "name": "FOX10 Baldwin County",
       "url": "https://www.fox10tv.com/news/baldwin-county/",
       "status": "read",
-      "note": "Index read; Nov. 2 items are an Orange Beach encroachment dispute, the Sand in My Boots lineup and a Gulf Shores council agenda. No new Baldwin crime items."
+      "note": "Evening: index read from the cloud at 5:40 p.m.; one new Baldwin crime item (the Chandler arrest details, added to that entry). One item withheld pending review. Morning: Index read; Nov. 2 items are an Orange Beach encroachment dispute, the Sand in My Boots lineup and a Gulf Shores council agenda. No new Baldwin crime items."
     },
     {
       "name": "WKRG Baldwin County",
       "url": "https://www.wkrg.com/baldwin-county/",
-      "status": "read",
-      "note": "Index read; only crime item is the Oct. 29 Foley High School weapon report, already reported. No new Baldwin crime items."
+      "status": "not reached",
+      "note": "Not re-read in the evening pass: browser not connected. Morning read: Index read; only crime item is the Oct. 29 Foley High School weapon report, already reported. No new Baldwin crime items."
     },
     {
       "name": "NBC 15 / WPMI",
       "url": "https://mynbc15.com/news/local/",
       "status": "not reached",
-      "note": "Not checked this edition."
+      "note": "Not checked directly this edition; cloud web searches for Baldwin arrests, federal outcomes, ALEA crashes and DA verdicts this evening turned up nothing new dated Nov. 2–3 beyond the Chandler item."
     },
     {
       "name": "Alacourt free docket, Baldwin",
