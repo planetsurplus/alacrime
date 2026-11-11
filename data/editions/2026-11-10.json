@@ -1,10 +1,36 @@
 {
   "date": "2026-11-10",
-  "compiled": "2026-11-10T05:15:00-06:00",
+  "compiled": "2026-11-10T17:29:00-06:00",
   "window": "Nov. 8–10, 2026",
-  "summary": "Orange Beach police booked two women on organized retail theft charges, sheriff's deputies booked a 57-year-old woman on a first-degree elder financial exploitation charge, and a judge set a $114,500 bond for Foley drug trafficking suspect Arvia Lloyd Allen. The jail roster shows 18 criminal bookings dated Nov. 9 and one so far on Nov. 10.",
+  "summary": "Foley police arrested a 59-year-old man on menacing and first-degree terrorist-threat charges after a report of a man with a gun near two schools Tuesday morning. Orange Beach police booked two women on organized retail theft charges, and a judge set a $114,500 bond for Foley drug trafficking suspect Arvia Lloyd Allen. The jail roster could not be re-read this evening; booking counts are from the 5 a.m. read (18 criminal bookings dated Nov. 9, one on Nov. 10).",
   "commentary": null,
   "entries": [
+    {
+      "id": "mcgowen-foley-schools-nov10",
+      "date": "2026-11-10",
+      "time": "07:40",
+      "place": "Foley",
+      "agency": "Foley Police",
+      "category": "violent",
+      "severity": "felony",
+      "cases": [],
+      "tags": [],
+      "title": "Terrorist-threat arrest near Foley schools: Gregory McGowen",
+      "body": [
+        "Foley police said officers responded at about 7:40 a.m. Tuesday, Nov. 10, to reports of a man with a gun near 9th Avenue and South Oak Street, close to two Foley schools, which secured their buildings. Police said Gregory McGowen, 59, of Foley, was detained without incident and had no weapon on him when officers first made contact; a replica firearm or BB gun was later found nearby, according to police.",
+        "Police said eyewitness and victim statements gave probable cause to arrest him for menacing, which police described as a Class B misdemeanor, and that he was also charged with making a terrorist threat in the first degree, which police described as a Class B felony, citing his overall actions and the disruption at the schools. Alabama law allows 2 to 20 years for a Class B felony. Detectives said more charges are possible. Bond and custody status were not reported."
+      ],
+      "sources": [
+        {
+          "label": "FOX10",
+          "url": "https://fox10tv.com/2026/11/10/foley-pd-man-charged-with-menacing"
+        },
+        {
+          "label": "NBC 15",
+          "url": "https://mynbc15.com/news/local/foley-pd-man-with-gun-arrested-near-two-schools"
+        }
+      ]
+    },
     {
       "id": "allen-bond-nov9",
       "date": "2026-11-09",
@@ -2320,7 +2346,7 @@
         "released": false
       }
     ],
-    "list_note": "Every booking at the Baldwin County jail with an admit date of Nov. 8–10, newest first, as booked by the arresting agency. Immigration detainers in the same days are not listed."
+    "list_note": "Every booking at the Baldwin County jail with an admit date of Nov. 8–10, newest first, as booked by the arresting agency. Immigration detainers in the same days are not listed. Roster as read at 5 a.m. Tuesday; not re-read this evening."
   },
   "city_arrests": [
     {
@@ -2879,68 +2905,68 @@
     {
       "name": "BCSO jail roster",
       "url": "https://cc.southernsoftware.com/bookingsearch/index.php?AgencyID=BaldwinCoSOAL",
-      "status": "read",
-      "note": "Read 4:45–5:00 a.m. Tuesday. Last 24 Hour Admits: 1 record. Last 7 Days Admits: 214, all transcribed (11 pages): 164 criminal bookings, 50 immigration detainers. Criminal bookings by admit date: Nov. 3: 28, Nov. 4: 22, Nov. 5: 34, Nov. 6: 26, Nov. 7: 17, Nov. 8: 18, Nov. 9: 18, Nov. 10: 1. All 18 Nov. 9 bookings and the Nov. 10 booking are new since the last read; the Nov. 7 and Nov. 8 counts are unchanged. Thirteen earlier bookings now show a Nov. 9 release."
+      "status": "not reached",
+      "note": "Evening re-read not possible: the browser was not connected for the 5:30 p.m. run. Morning read: Read 4:45–5:00 a.m. Tuesday. Last 24 Hour Admits: 1 record. Last 7 Days Admits: 214, all transcribed (11 pages): 164 criminal bookings, 50 immigration detainers. Criminal bookings by admit date: Nov. 3: 28, Nov. 4: 22, Nov. 5: 34, Nov. 6: 26, Nov. 7: 17, Nov. 8: 18, Nov. 9: 18, Nov. 10: 1. All 18 Nov. 9 bookings and the Nov. 10 booking are new since the last read; the Nov. 7 and Nov. 8 counts are unchanged. Thirteen earlier bookings now show a Nov. 9 release."
     },
     {
       "name": "Daphne PD arrest log",
       "url": "https://cc.southernsoftware.com/arrestsearch/index.php?AgencyID=DaphnePDAL",
-      "status": "read",
-      "note": "Nov. 8–10 searched: 7 rows, 3 new (a Nov. 8 ignition-interlock arrest, a Nov. 9 release revocation and a Nov. 10 domestic-violence harassment arrest)."
+      "status": "not reached",
+      "note": "Evening re-read not possible: the browser was not connected for the 5:30 p.m. run. Morning read: Nov. 8–10 searched: 7 rows, 3 new (a Nov. 8 ignition-interlock arrest, a Nov. 9 release revocation and a Nov. 10 domestic-violence harassment arrest)."
     },
     {
       "name": "Fairhope PD arrest log",
       "url": "https://cc.southernsoftware.com/arrestsearch/index.php?AgencyID=FairhopePDAL",
-      "status": "read",
-      "note": "Nov. 7–10 searched: 7 rows, 1 new (a Nov. 9 methamphetamine possession arrest). Nothing posted for Nov. 10 yet."
+      "status": "not reached",
+      "note": "Evening re-read not possible: the browser was not connected for the 5:30 p.m. run. Morning read: Nov. 7–10 searched: 7 rows, 1 new (a Nov. 9 methamphetamine possession arrest). Nothing posted for Nov. 10 yet."
     },
     {
       "name": "BCSO Facebook",
       "url": "https://www.facebook.com/SheriffOfBaldwin",
-      "status": "read",
-      "note": "No new crime releases; newest post is still the Nov. 6 hiring notice."
+      "status": "not reached",
+      "note": "Evening re-read not possible: the browser was not connected for the 5:30 p.m. run. Morning read: No new crime releases; newest post is still the Nov. 6 hiring notice."
     },
     {
       "name": "Baldwin County DA Facebook",
       "url": "https://www.facebook.com/baldwincountydaoffice",
-      "status": "read",
-      "note": "No new verdicts or sentences; newest post still the Oct. 28 pumpkin-decorating contest."
+      "status": "not reached",
+      "note": "Evening re-read not possible: the browser was not connected for the 5:30 p.m. run. Morning read: No new verdicts or sentences; newest post still the Oct. 28 pumpkin-decorating contest."
     },
     {
       "name": "U.S. Attorney, S.D. Alabama",
       "url": "https://www.justice.gov/usao-sdal/pr",
-      "status": "read",
-      "note": "No new releases since Nov. 6 (bank fraud sentences)."
+      "status": "not reached",
+      "note": "Evening re-read not possible: the browser was not connected for the 5:30 p.m. run. Morning read: No new releases since Nov. 6 (bank fraud sentences)."
     },
     {
       "name": "ALEA press releases",
       "url": "https://www.alea.gov/press-releases",
-      "status": "read",
-      "note": "Newest release still Nov. 4 (officer awards). No Baldwin crime items."
+      "status": "not reached",
+      "note": "Evening re-read not possible: the browser was not connected for the 5:30 p.m. run. Morning read: Newest release still Nov. 4 (officer awards). No Baldwin crime items."
     },
     {
       "name": "Alabama Attorney General",
       "url": "https://www.alabamaag.gov/news/",
-      "status": "read",
-      "note": "No new releases since Nov. 5. No Baldwin items."
+      "status": "not reached",
+      "note": "Evening re-read not possible: the browser was not connected for the 5:30 p.m. run. Morning read: No new releases since Nov. 5. No Baldwin items."
     },
     {
       "name": "FOX10 Baldwin County",
       "url": "https://www.fox10tv.com/news/baldwin-county/",
       "status": "read",
-      "note": "Index read; one crime item, Nov. 9 (Daphne solicitation operation follow-up). One item withheld pending review."
+      "note": "Evening: index not reachable from the cloud; one new crime item found by search, Nov. 10 (Foley school-area threat arrest). Morning: Index read; one crime item, Nov. 9 (Daphne solicitation operation follow-up). One item withheld pending review."
     },
     {
       "name": "WKRG Baldwin County",
       "url": "https://www.wkrg.com/baldwin-county/",
-      "status": "read",
-      "note": "Index read; one new crime item, Nov. 9 (Foley drug trafficking arrest, bond set). Also a Daphne solicitation story already covered."
+      "status": "not reached",
+      "note": "Evening re-read not possible: the browser was not connected for the 5:30 p.m. run. Morning read: Index read; one new crime item, Nov. 9 (Foley drug trafficking arrest, bond set). Also a Daphne solicitation story already covered."
     },
     {
       "name": "NBC 15 / WPMI",
       "url": "https://mynbc15.com/news/local/",
-      "status": "not reached",
-      "note": "Not checked this edition."
+      "status": "read",
+      "note": "Evening: two articles read by search, Nov. 9 (Daphne solicitation operation) and Nov. 10 (Foley school-area threat arrest). Index not read."
     },
     {
       "name": "Alacourt free docket, Baldwin",
@@ -2952,7 +2978,7 @@
       "name": "Daphne PD Facebook",
       "url": "https://www.facebook.com/DaphnePoliceDept",
       "status": "not reached",
-      "note": "Not checked this edition."
+      "note": "Evening re-read not possible: the browser was not connected for the 5:30 p.m. run. Morning read: Not checked this edition."
     },
     {
       "name": "Foley, Gulf Shores, Orange Beach, Spanish Fort, Bay Minette PD Facebook",
