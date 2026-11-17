@@ -1,10 +1,60 @@
 {
   "date": "2026-11-16",
-  "compiled": "2026-11-16T05:10:00-06:00",
+  "compiled": "2026-11-16T17:28:00-06:00",
   "window": "Nov. 14–16, 2026",
-  "summary": "The county jail booked nine more people on criminal charges dated Sunday, Nov. 15, and one early Monday, among them a child-endangerment arrest, a Daphne eluding and DUI arrest and a family-harassment arrest. Foley police and sheriff's deputies were at a County Road 12 home Sunday night in what an officer called an ongoing investigation, WKRG reported.",
+  "summary": "Foley police and sheriff's deputies arrested seven people, ages 13 to 19, on charges including attempted kidnapping after a Sunday-morning incident on Highway 59, NBC 15 reported, and an Elberta man held on a state terrorist-threat charge now faces a federal threat charge, FOX10 reported. The jail roster could not be re-read Monday evening; the bookings below are from the early-Monday read.",
   "commentary": null,
   "entries": [
+    {
+      "id": "foley-attempted-kidnapping-nov15",
+      "date": "2026-11-15",
+      "time": "03:50",
+      "place": "Foley",
+      "agency": "Foley Police / Baldwin County Sheriff",
+      "category": "violent",
+      "severity": "other",
+      "cases": [],
+      "tags": [],
+      "title": "Attempted kidnapping arrests: seven people, ages 13 to 19, in Foley",
+      "body": [
+        "Foley police, working with the Baldwin County Sheriff's Office, arrested seven people after an incident at about 3:50 a.m. Sunday, Nov. 15, in the 8000 block of Highway 59, NBC 15 reported Monday. Police said those involved range in age from 13 to 19 and that they would not release more information because of the ages of the suspects and the victims, according to the station. Police said they did not believe there was a threat to the public and called it an ongoing investigation.",
+        "The charges reported were attempted first-degree kidnapping — trying to abduct someone to harm, terrorize or hold them; burglary — unlawfully entering a building to commit a crime; certain persons forbidden to possess a firearm; and menacing — putting someone in fear of serious injury. The report did not say which charges each person faces. No matching booking was on the county jail roster when it was read early Monday."
+      ],
+      "sources": [
+        {
+          "label": "NBC 15 (WPMI)",
+          "url": "https://utv44.com/news/local/foley-pd-seven-teens-arrested-face-kidnapping-burglary-charges"
+        }
+      ]
+    },
+    {
+      "id": "wade-federal-threat-nov12",
+      "date": "2026-11-12",
+      "place": "Elberta",
+      "agency": "FBI / U.S. Attorney, S.D. Alabama",
+      "category": "court",
+      "severity": "other",
+      "cases": [
+        "Bkg #255356"
+      ],
+      "tags": [],
+      "title": "Federal threat charge: Gorden Ellis Wade",
+      "body": [
+        "Gorden Ellis Wade of Elberta, arrested by Baldwin County sheriff's deputies Nov. 6 on a state charge of making a terrorist threat in the first degree, now also faces a federal charge of making threats in interstate communications, FOX10 reported Monday. According to the station, the federal complaint was filed Nov. 10, Wade was arrested on it Nov. 12 and is being held in the Escambia County, Alabama, jail, and he waived a preliminary hearing.",
+        "An FBI affidavit cited by FOX10 says Facebook posts made around Nov. 6 threatened to shoot and bomb private schools and to kill police officers, firefighters, religious leaders and other first responders. Deputies found a loaded handgun in his waistband and an AK-47-style rifle with a round chambered in his truck during a traffic stop near U.S. 98 and Virginia Road, the station reported, citing the affidavit, which says he acknowledged the account was his and admitted making the posts. His attorney told FOX10 he had no comment.",
+        "He was released from the Baldwin County jail Nov. 7 on a $7,500 bond, according to FOX10 and the jail roster. A federal complaint is an accusation, not a conviction."
+      ],
+      "sources": [
+        {
+          "label": "FOX10",
+          "url": "https://www.fox10tv.com/2026/11/16/fox10-investigates-guns-ammunition-found-after-elberta-man-accused-threatening-schools-first-responders/"
+        },
+        {
+          "label": "BCSO jail roster",
+          "url": "https://cc.southernsoftware.com/bookingsearch/index.php?AgencyID=BaldwinCoSOAL"
+        }
+      ]
+    },
     {
       "id": "cr12-investigation-nov15",
       "date": "2026-11-15",
@@ -18,12 +68,17 @@
       "title": "Investigation: Foley police and deputies at County Road 12 home",
       "body": [
         "Foley police officers and Baldwin County sheriff's deputies responded to a home on County Road 12 at about 10 p.m. Sunday, Nov. 15, WKRG reported. An officer at the scene called it an ongoing investigation and said there was no threat to the public, according to the station.",
-        "WKRG reported that at least one person appeared to be in custody and that a dark sedan was towed from the property. Neither agency had released details, and it was not clear whether anyone was arrested or charged. No matching booking was on the jail roster when it was read early Monday."
+        "WKRG reported that at least one person appeared to be in custody and that a dark sedan was towed from the property. Neither agency had released details, and it was not clear whether anyone was arrested or charged. No matching booking was on the jail roster when it was read early Monday.",
+        "Blue RAM Media reported Monday that officers first responded to a possible domestic incident or disturbance at the home and during the investigation found indications that a person may have been held against their will. Neither agency had released further information, according to that report."
       ],
       "sources": [
         {
           "label": "WKRG",
           "url": "https://www.wkrg.com/news/foley-police-and-bcso-conduct-ongoing-investigation-sunday-night/"
+        },
+        {
+          "label": "Blue RAM Media",
+          "url": "https://bluerammedia.com/multiple-law-enforcement-agencies-respond-to-foley-incident/"
         }
       ]
     },
@@ -1479,7 +1534,7 @@
         "released": true
       }
     ],
-    "list_note": "Every booking at the Baldwin County jail with an admit date of Nov. 14–16, newest first, as booked by the arresting agency. Immigration detainers in the same days are not listed. Roster read at about 4:50 a.m. Monday."
+    "list_note": "Every booking at the Baldwin County jail with an admit date of Nov. 14–16, newest first, as booked by the arresting agency. Immigration detainers in the same days are not listed. Roster read at about 4:50 a.m. Monday. Not re-read Monday evening: the browser was not available."
   },
   "city_arrests": [
     {
@@ -1910,11 +1965,11 @@
     {
       "case": "Bkg #255356",
       "defendant": "Gorden Ellis Wade",
-      "level": "Booked",
-      "charges": "Making a terrorist threat, first degree. Released Nov. 7, per the roster. Worth a paid court look-up.",
-      "next": "Not set",
-      "agency": "Baldwin County Sheriff",
-      "last_docket": "2026-11-13"
+      "level": "Booked (state); federal complaint",
+      "charges": "Terrorist threat, first degree (state, filed Nov. 9 per FOX10); threatening interstate communications (federal complaint, Nov. 10). Released on state bond Nov. 7; held on the federal charge in the Escambia County, Alabama, jail since Nov. 12, per FOX10. Worth a paid court look-up.",
+      "next": "Not set (preliminary hearing waived, per FOX10)",
+      "agency": "Baldwin County Sheriff; FBI / U.S. Attorney, S.D. Alabama",
+      "last_docket": "2026-11-16"
     },
     {
       "case": "Bkg #255335",
@@ -2083,74 +2138,74 @@
     {
       "name": "BCSO jail roster",
       "url": "https://cc.southernsoftware.com/bookingsearch/index.php?AgencyID=BaldwinCoSOAL",
-      "status": "read",
-      "note": "Read about 4:45–5:05 a.m. Monday in Chrome. Last 24 Hour Admits: 1. Last 7 Days Admits: 143 (admits Nov. 9–16), all transcribed (8 pages). Criminal bookings dated Nov. 15: 10 (one of them, Bkg #255528, reported yesterday); dated Nov. 16: 1. Immigration detainers dated Nov. 15: 4, counted and not listed; 39 for the week of Nov. 9–15. Nov. 14 re-read: 16 admits, unchanged. One earlier booking (Bkg #255506) now shows a release dated Nov. 15. Booking numbers 255529 and 255532 do not appear in the list."
+      "status": "not reached",
+      "note": "Evening re-read not reached: Claude in Chrome was not connected for the Monday-evening run. Morning read: Read about 4:45–5:05 a.m. Monday in Chrome. Last 24 Hour Admits: 1. Last 7 Days Admits: 143 (admits Nov. 9–16), all transcribed (8 pages). Criminal bookings dated Nov. 15: 10 (one of them, Bkg #255528, reported yesterday); dated Nov. 16: 1. Immigration detainers dated Nov. 15: 4, counted and not listed; 39 for the week of Nov. 9–15. Nov. 14 re-read: 16 admits, unchanged. One earlier booking (Bkg #255506) now shows a release dated Nov. 15. Booking numbers 255529 and 255532 do not appear in the list."
     },
     {
       "name": "Daphne PD arrest log",
       "url": "https://cc.southernsoftware.com/arrestsearch/index.php?AgencyID=DaphnePDAL",
-      "status": "read",
-      "note": "Nov. 14–16 searched: 6 rows, 1 new (Nov. 15 eluding arrest). Nothing yet dated Nov. 16."
+      "status": "not reached",
+      "note": "Evening re-read not reached: Claude in Chrome was not connected for the Monday-evening run. Morning read: Nov. 14–16 searched: 6 rows, 1 new (Nov. 15 eluding arrest). Nothing yet dated Nov. 16."
     },
     {
       "name": "Fairhope PD arrest log",
       "url": "https://cc.southernsoftware.com/arrestsearch/index.php?AgencyID=FairhopePDAL",
-      "status": "read",
-      "note": "Nov. 14–16 searched: 8 rows, 3 new (Nov. 15: methamphetamine possession, obstructing government operations, failure to appear). Nothing yet dated Nov. 16."
+      "status": "not reached",
+      "note": "Evening re-read not reached: Claude in Chrome was not connected for the Monday-evening run. Morning read: Nov. 14–16 searched: 8 rows, 3 new (Nov. 15: methamphetamine possession, obstructing government operations, failure to appear). Nothing yet dated Nov. 16."
     },
     {
       "name": "BCSO Facebook",
       "url": "https://www.facebook.com/SheriffOfBaldwin",
-      "status": "read",
-      "note": "Read signed in. Newest post Nov. 13 (FBI message shared by the Felony Crimes Unit); no crime releases since."
+      "status": "not reached",
+      "note": "Evening re-read not reached: Claude in Chrome was not connected for the Monday-evening run. Morning read: Read signed in. Newest post Nov. 13 (FBI message shared by the Felony Crimes Unit); no crime releases since."
     },
     {
       "name": "Baldwin County DA Facebook",
       "url": "https://www.facebook.com/baldwincountydaoffice",
-      "status": "read",
-      "note": "Read signed in. Newest post Nov. 13 (recruiting); no verdicts or sentences since Sept. 25."
+      "status": "not reached",
+      "note": "Evening re-read not reached: Claude in Chrome was not connected for the Monday-evening run. Morning read: Read signed in. Newest post Nov. 13 (recruiting); no verdicts or sentences since Sept. 25."
     },
     {
       "name": "Daphne PD Facebook",
       "url": "https://www.facebook.com/DaphnePoliceDept",
-      "status": "read",
-      "note": "Newest post Nov. 15 (community event); no crime posts."
+      "status": "not reached",
+      "note": "Evening re-read not reached: Claude in Chrome was not connected for the Monday-evening run. Morning read: Newest post Nov. 15 (community event); no crime posts."
     },
     {
       "name": "U.S. Attorney, S.D. Alabama",
       "url": "https://www.justice.gov/usao-sdal/pr",
-      "status": "read",
-      "note": "No new releases since Nov. 6. No Baldwin items."
+      "status": "not reached",
+      "note": "Evening re-read not reached: Claude in Chrome was not connected for the Monday-evening run. Morning read: No new releases since Nov. 6. No Baldwin items."
     },
     {
       "name": "ALEA press releases",
       "url": "https://www.alea.gov/press-releases",
-      "status": "read",
-      "note": "Newest release still Nov. 4. No Baldwin items."
+      "status": "not reached",
+      "note": "Evening re-read not reached: Claude in Chrome was not connected for the Monday-evening run. Morning read: Newest release still Nov. 4. No Baldwin items."
     },
     {
       "name": "Alabama Attorney General",
       "url": "https://www.alabamaag.gov/news/",
-      "status": "read",
-      "note": "Newest release Nov. 10. No Baldwin items."
+      "status": "not reached",
+      "note": "Evening re-read not reached: Claude in Chrome was not connected for the Monday-evening run. Morning read: Newest release Nov. 10. No Baldwin items."
     },
     {
       "name": "FOX10 Baldwin County",
       "url": "https://www.fox10tv.com/news/baldwin-county/",
       "status": "read",
-      "note": "Index read: no police or court items dated Nov. 13–16 (Nov. 15 items are schools, festival and council news)."
+      "note": "Index read: no police or court items dated Nov. 13–16 (Nov. 15 items are schools, festival and council news). Evening: index not read (no browser); a cloud search found 1 new Baldwin item, the federal charge against Gorden Ellis Wade (posted 5:10 p.m. Nov. 16)."
     },
     {
       "name": "WKRG Baldwin County",
       "url": "https://www.wkrg.com/baldwin-county/",
-      "status": "read",
-      "note": "Index read: 1 new Baldwin item, the Foley–sheriff's office investigation on County Road 12 (posted 3:04 a.m. Nov. 16)."
+      "status": "not reached",
+      "note": "Evening re-read not reached: Claude in Chrome was not connected for the Monday-evening run. Morning read: Index read: 1 new Baldwin item, the Foley–sheriff's office investigation on County Road 12 (posted 3:04 a.m. Nov. 16)."
     },
     {
       "name": "NBC 15 / WPMI",
       "url": "https://mynbc15.com/",
-      "status": "not reached",
-      "note": "Not read this run."
+      "status": "read",
+      "note": "Evening, via search: 1 new Baldwin item, the Foley attempted-kidnapping arrests (posted 1:05 p.m. Nov. 16)."
     },
     {
       "name": "Alacourt free docket, Baldwin",
@@ -2175,6 +2230,12 @@
       "url": "https://pa.alacourt.com/",
       "status": "paid",
       "note": "$9.99 per search; not used"
+    },
+    {
+      "name": "Blue RAM Media (Gulf Coast News)",
+      "url": "https://bluerammedia.com/multiple-law-enforcement-agencies-respond-to-foley-incident/",
+      "status": "read",
+      "note": "Evening, via search: 1 Baldwin item, an update on the County Road 12 investigation in Foley (Nov. 16)."
     }
   ]
 }
