@@ -1,8 +1,8 @@
 {
   "date": "2026-11-18",
-  "compiled": "2026-11-18T05:30:00-06:00",
+  "compiled": "2026-11-18T17:45:00-06:00",
   "window": "Nov. 16–18, 2026",
-  "summary": "Daphne police say a man is charged with a felony drug count after officers investigating gunfire in the Lake Forest subdivision seized cocaine and a pistol, and the county jail roster shows the 19-year-old charged in Sunday's Foley attempted kidnapping booked on a first-degree kidnapping charge. Forty-four people were admitted to the jail Monday through early Wednesday, 11 of them on immigration detainers.",
+  "summary": "Evening update: the jail roster and city arrest logs could not be re-read this evening, so booking counts are as of about 5 a.m. The sheriff's office says Tuesday's first-degree sodomy arrest near Foley followed an assault call; Daphne police say a man is charged with a felony drug count after gunfire calls in Lake Forest, and the 19-year-old charged in Sunday's Foley attempted kidnapping is booked on a first-degree kidnapping charge.",
   "commentary": null,
   "entries": [
     {
@@ -96,7 +96,7 @@
       "id": "douglas-nov17",
       "date": "2026-11-17",
       "time": "09:30",
-      "place": "Baldwin County",
+      "place": "Foley area",
       "agency": "Baldwin County Sheriff",
       "category": "violent",
       "severity": "other",
@@ -106,13 +106,21 @@
       "tags": [],
       "title": "Sodomy arrest: Clyde Earnest Douglas",
       "body": [
-        "Clyde Earnest Douglas, 58, was arrested by the Baldwin County Sheriff's Office at 9:30 a.m. Tuesday, Nov. 17, according to the jail roster. No sheriff's office statement or news report was found.",
-        "He was booked on a charge of first-degree sodomy — a forcible or non-consensual sexual act. He was in custody when the roster was read early Wednesday."
+        "Clyde Earnest Douglas, 58, was arrested by the Baldwin County Sheriff's Office on Tuesday, Nov. 17, after deputies answered an assault call at a residence in an unincorporated area near Foley at about 9 a.m., the sheriff's office said, as reported by FOX10 and NBC 15 on Wednesday. Deputies detained him at the scene; the sheriff's office said investigators conducted interviews, including one with Douglas, and determined a sexual assault had occurred in addition to the reported physical assault.",
+        "He was booked on a charge of first-degree sodomy — a forcible or non-consensual sexual act. The jail roster gives an arrest time of 9:30 a.m. He was in custody when the roster was read early Wednesday."
       ],
       "sources": [
         {
           "label": "BCSO jail roster",
           "url": "https://cc.southernsoftware.com/bookingsearch/index.php?AgencyID=BaldwinCoSOAL"
+        },
+        {
+          "label": "FOX10",
+          "url": "https://www.fox10tv.com/2026/11/18/baldwin-county-deputies-arrest-man-first-degree-sodomy-charge/"
+        },
+        {
+          "label": "NBC 15",
+          "url": "https://mynbc15.com/news/local/baldwin-county-deputies-arrest-man-after-reported-foley-area-sexual-assault"
         }
       ]
     },
@@ -1511,7 +1519,7 @@
         "released": true
       }
     ],
-    "list_note": "Every booking at the Baldwin County jail with an admit date of Nov. 16–18, newest first, as booked by the arresting agency. Immigration detainers in the same days (11) are not listed. Roster read at about 5 a.m. Wednesday, Nov. 18."
+    "list_note": "Every booking at the Baldwin County jail with an admit date of Nov. 16–18, newest first, as booked by the arresting agency. Immigration detainers in the same days (11) are not listed. Roster read at about 5 a.m. Wednesday, Nov. 18. Not re-read in the evening update (browser not connected)."
   },
   "city_arrests": [
     {
@@ -2118,74 +2126,74 @@
     {
       "name": "BCSO jail roster",
       "url": "https://cc.southernsoftware.com/bookingsearch/index.php?AgencyID=BaldwinCoSOAL",
-      "status": "read",
-      "note": "Read about 4:45–5:15 a.m. Wednesday, Nov. 18, in Chrome. Last 24 Hour Admits: 2. Last 7 Days Admits: 141 (admits Nov. 11–18), all transcribed (8 pages). Admits by date: Nov. 18: 2; Nov. 17: 14 (3 immigration); Nov. 16: 28 (8 immigration); Nov. 15 re-read: 14, unchanged. Booking numbers 255545, 255546, 255549, 255556 and 255571 do not appear in the list. One earlier booking (Bkg #255530) now carries an immigration hold; its name is withheld from the booking list."
+      "status": "not reached",
+      "note": "Evening re-read not possible: Claude in Chrome was not connected. Morning read: Read about 4:45–5:15 a.m. Wednesday, Nov. 18, in Chrome. Last 24 Hour Admits: 2. Last 7 Days Admits: 141 (admits Nov. 11–18), all transcribed (8 pages). Admits by date: Nov. 18: 2; Nov. 17: 14 (3 immigration); Nov. 16: 28 (8 immigration); Nov. 15 re-read: 14, unchanged. Booking numbers 255545, 255546, 255549, 255556 and 255571 do not appear in the list. One earlier booking (Bkg #255530) now carries an immigration hold; its name is withheld from the booking list."
     },
     {
       "name": "Daphne PD arrest log",
       "url": "https://cc.southernsoftware.com/arrestsearch/index.php?AgencyID=DaphnePDAL",
-      "status": "read",
-      "note": "Nov. 15–18 searched: 6 rows, 5 new (Nov. 16–17). Nothing yet dated Nov. 18."
+      "status": "not reached",
+      "note": "Evening re-read not possible: Claude in Chrome was not connected. Morning read: Nov. 15–18 searched: 6 rows, 5 new (Nov. 16–17). Nothing yet dated Nov. 18."
     },
     {
       "name": "Fairhope PD arrest log",
       "url": "https://cc.southernsoftware.com/arrestsearch/index.php?AgencyID=FairhopePDAL",
-      "status": "read",
-      "note": "Nov. 15–18 searched: 9 rows, 6 new (Nov. 16–17). Nothing yet dated Nov. 18."
+      "status": "not reached",
+      "note": "Evening re-read not possible: Claude in Chrome was not connected. Morning read: Nov. 15–18 searched: 9 rows, 6 new (Nov. 16–17). Nothing yet dated Nov. 18."
     },
     {
       "name": "BCSO Facebook",
       "url": "https://www.facebook.com/SheriffOfBaldwin",
-      "status": "read",
-      "note": "Read signed in. Newest post Nov. 17 (sheriff video series); no crime releases since Nov. 13."
+      "status": "not reached",
+      "note": "Evening re-read not possible: Claude in Chrome was not connected. Morning read: Read signed in. Newest post Nov. 17 (sheriff video series); no crime releases since Nov. 13."
     },
     {
       "name": "Baldwin County DA Facebook",
       "url": "https://www.facebook.com/baldwincountydaoffice",
-      "status": "read",
-      "note": "Read signed in. Newest post Nov. 13 (recruiting); no verdicts or sentences."
+      "status": "not reached",
+      "note": "Evening re-read not possible: Claude in Chrome was not connected. Morning read: Read signed in. Newest post Nov. 13 (recruiting); no verdicts or sentences."
     },
     {
       "name": "Daphne PD Facebook",
       "url": "https://www.facebook.com/DaphnePoliceDept",
-      "status": "read",
-      "note": "Newest post Nov. 17 (community thank-you); no crime posts."
+      "status": "not reached",
+      "note": "Evening re-read not possible: Claude in Chrome was not connected. Morning read: Newest post Nov. 17 (community thank-you); no crime posts."
     },
     {
       "name": "U.S. Attorney, S.D. Alabama",
       "url": "https://www.justice.gov/usao-sdal/pr",
-      "status": "read",
-      "note": "1 new release (Nov. 17, a Mobile bank-fraud plea). No Baldwin items."
+      "status": "not reached",
+      "note": "Evening re-read not possible: Claude in Chrome was not connected. Morning read: 1 new release (Nov. 17, a Mobile bank-fraud plea). No Baldwin items."
     },
     {
       "name": "ALEA press releases",
       "url": "https://www.alea.gov/press-releases",
-      "status": "read",
-      "note": "Newest release still Nov. 4. No Baldwin items."
+      "status": "not reached",
+      "note": "Evening re-read not possible: Claude in Chrome was not connected. Morning read: Newest release still Nov. 4. No Baldwin items."
     },
     {
       "name": "Alabama Attorney General",
       "url": "https://www.alabamaag.gov/news/",
-      "status": "read",
-      "note": "Newest release Nov. 16 (consumer settlement). No Baldwin items."
+      "status": "not reached",
+      "note": "Evening re-read not possible: Claude in Chrome was not connected. Morning read: Newest release Nov. 16 (consumer settlement). No Baldwin items."
     },
     {
       "name": "FOX10 Baldwin County",
       "url": "https://www.fox10tv.com/news/baldwin-county/",
       "status": "read",
-      "note": "Index read: 1 new Baldwin crime item (Nov. 17, Daphne Lake Forest drug arrest). Nothing dated Nov. 18 yet."
+      "note": "Evening, cloud: index and search read about 5:30 p.m.; 1 new Baldwin crime item (Nov. 18, sheriff's office account of the Nov. 17 sodomy arrest, added to that entry). Morning: Index read: 1 new Baldwin crime item (Nov. 17, Daphne Lake Forest drug arrest). Nothing dated Nov. 18 yet."
     },
     {
       "name": "WKRG Baldwin County",
       "url": "https://www.wkrg.com/baldwin-county/",
-      "status": "read",
-      "note": "Index read: 1 new Baldwin crime item (Nov. 17, Lake Forest shots fired), same as FOX10."
+      "status": "not reached",
+      "note": "Evening re-read not possible: Claude in Chrome was not connected. Morning read: Index read: 1 new Baldwin crime item (Nov. 17, Lake Forest shots fired), same as FOX10."
     },
     {
       "name": "NBC 15 / WPMI",
       "url": "https://mynbc15.com/",
       "status": "read",
-      "note": "Via search: no new Baldwin crime items for the roster names checked."
+      "note": "Evening, via search: 1 new Baldwin item (Nov. 18, same sodomy arrest as FOX10). Morning: Via search: no new Baldwin crime items for the roster names checked."
     },
     {
       "name": "Alacourt free docket, Baldwin",
