@@ -48,7 +48,9 @@ Search (client-side, all editions) · Corrections · About · RSS `/feed.xml` ·
     "title": "Plain factual headline",
     "body": ["Paragraph.", "Paragraph."],
     "tags": [],                      // optional extra chips
-    "sources": [{"label": "BCSO jail roster", "url": "https://..."}]
+    "sources": [{"label": "BCSO jail roster", "url": "https://..."}],
+    "photo": {"url": "https://ssmugshots.blob.core.windows.net/images/...-Mugshot-1.jpg",
+              "booking": "Bkg #254993"}   // optional, see "Booking photos"
   }],
   "filings": {"window": "Oct. 19–25",                    // JAIL BOOKINGS (not court filings)
               "courts": [{"court": "Baldwin County Sheriff", "count": 93}],   // by arresting agency, last week
@@ -65,9 +67,21 @@ Search (client-side, all editions) · Corrections · About · RSS `/feed.xml` ·
 }
 ```
 
+## Booking photos
+- Only on single-person entries for felony-grade bookings (one booking number in `cases`). Never on roundups,
+  city-log rows, the bookings table, prostitution arrests, juveniles or immigration holds. `build.py` refuses
+  the photo if any of those apply, whatever the JSON says.
+- `photo.url` is the image URL on the BCSO roster card (host `ssmugshots.blob.core.windows.net` only). Skip
+  cards showing `NoMugshot.jpg`.
+- The sync workflow runs `scripts/fetch_photos.py`, which saves each image once to `data/photos/<booking>.jpg`
+  and commits it; the site serves its own copy. Editions added straight to the repo get their photos on the
+  next sync run (≤10 min).
+- Take-down after dismissal or acquittal: delete `data/photos/<booking>.jpg` **and** remove the entry's
+  `photo` field, then push.
+
 ## Public-site rules (straight tone)
 - Plain factual language. No jokes or opinion in entries — opinion goes only in `commentary`.
-- No dates of birth, no race. No victim names. DV/sex/child entries: only what an official record states.
+- No dates of birth, no race. No victim names. Booking photos only as set out under "Booking photos". DV/sex/child entries: only what an official record states.
 - Immigration detainers are counted, never listed by name.
 - Never publish Baldwin content to dickwheel.com / fairbankscrime.com, or Fairbanks content here.
 - Everyone is "arrested" or "charged", never implied guilty.

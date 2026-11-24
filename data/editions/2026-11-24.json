@@ -51,7 +51,11 @@
           "label": "BCSO jail roster",
           "url": "https://cc.southernsoftware.com/bookingsearch/index.php?AgencyID=BaldwinCoSOAL"
         }
-      ]
+      ],
+      "photo": {
+        "url": "https://ssmugshots.blob.core.windows.net/images/AL0050000-553488-226270-194746-Mugshot-1.jpg",
+        "booking": "Bkg #255702"
+      }
     },
     {
       "id": "lee-registration-nov23",

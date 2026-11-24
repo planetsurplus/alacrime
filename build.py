@@ -189,6 +189,38 @@ def page(path, title, body, description="", active=""):
 </html>"""
 
 
+# ---------- booking photos ----------
+# Booking photos appear only on single-person entries for serious (felony-grade) bookings; the daily run
+# decides which entries get a "photo" field. These checks are the hard floor the builder enforces anyway.
+PHOTO_DIR = DATA / "photos"
+PHOTO_HOST_RE = re.compile(r"^https://ssmugshots\.blob\.core\.windows\.net/images/[\w.-]+\.jpe?g$", re.I)
+# Alabama law (the 2016 Human Trafficking Safe Harbor Act) bars publishing
+# prostitution-arrest photos. Juvenile and immigration items never carry a face either.
+PHOTO_BLOCK_RE = re.compile(r"prostitut|solicit|juvenile|minor in possession|immigration|\bice\b detain", re.I)
+
+
+def photo_key(en):
+    ph = en.get("photo") or {}
+    m = re.search(r"(\d{5,})", ph.get("booking") or "")
+    return m.group(1) if m else None
+
+
+def photo_allowed(en):
+    if not en.get("photo") or len(en.get("cases") or []) != 1:     # one person per entry, never roundups
+        return False
+    text = " ".join([en.get("title", "")] + en.get("body", []) + en.get("tags", []))
+    return not PHOTO_BLOCK_RE.search(text)
+
+
+def render_photo(en):
+    key = photo_key(en)
+    if not (key and photo_allowed(en) and (PHOTO_DIR / f"{key}.jpg").exists()):
+        return ""
+    who = en["title"].split(":", 1)[-1].strip()
+    return (f'<figure class="mug"><img src="{BASE}photos/{key}.jpg" alt="Booking photo: {e(who)}" loading="lazy" width="96" height="120">'
+            f'<figcaption>Booking photo, Baldwin County jail</figcaption></figure>')
+
+
 # ---------- components ----------
 def render_entry(en, edition_date):
     chips = []
@@ -212,7 +244,7 @@ def render_entry(en, edition_date):
         src_html = f'<p class="src">Source: {links}</p>'
     return f"""<article class="entry" id="{e(en['id'])}" data-cat="{e(en.get('category', 'other'))}">
 <div class="gutter">{''.join(gutter)}</div>
-<div><h3><a href="{BASE}{ed_url(edition_date)}#{e(en['id'])}" style="color:inherit;text-decoration:none">{e(en['title'])}</a></h3>
+<div>{render_photo(en)}<h3><a href="{BASE}{ed_url(edition_date)}#{e(en['id'])}" style="color:inherit;text-decoration:none">{e(en['title'])}</a></h3>
 <div class="chips">{''.join(chips)}</div>{paras}{src_html}</div></article>"""
 
 
@@ -519,6 +551,8 @@ def build():
         shutil.rmtree(OUT)
     OUT.mkdir()
     shutil.copytree(ROOT / "static", OUT / "static")
+    if PHOTO_DIR.exists():
+        shutil.copytree(PHOTO_DIR, OUT / "photos")
     if (ROOT / "wheel").exists():
         shutil.copytree(ROOT / "wheel", OUT / "wheel")
     if (ROOT / "favicon.ico").exists():
@@ -587,8 +621,8 @@ def build():
 <li>U.S. Attorney, Southern District of Alabama, Alabama Attorney General and ALEA press releases</li><li>Local newsrooms</li></ul>
 <h2>How to read it</h2>
 <p>Alabama&rsquo;s court records are behind a paid system, so most charges here are booked charges: what the arresting officer listed when the person was jailed. Prosecutors may file different charges or none. Court outcomes come only from prosecutors&rsquo; announcements. Feeds add records to past dates; a count for any day is what had been posted at the time of reading, not a final total.</p>
-<p>An arrest or charge is an accusation. Everyone named is presumed innocent unless and until proven guilty. Dates of birth and race are not published. Victims are not named. Domestic violence, sex-offence and child-related entries carry only what an official record states. Immigration detainers are not crimes and are not listed by name.</p>
-<h2>Corrections and removal requests</h2><p>Errors are logged on the <a href="{BASE}corrections/">corrections page</a>. If a case was dismissed or you were acquitted, <a href="{BASE}contact/">contact us</a> and the entry will be updated to reflect the outcome.</p>
+<p>An arrest or charge is an accusation. Everyone named is presumed innocent unless and until proven guilty. Dates of birth and race are not published. Booking photos from the county jail appear only with individual entries on serious charges; they are never shown for prostitution arrests, juveniles or immigration holds. Victims are not named. Domestic violence, sex-offence and child-related entries carry only what an official record states. Immigration detainers are not crimes and are not listed by name.</p>
+<h2>Corrections and removal requests</h2><p>Errors are logged on the <a href="{BASE}corrections/">corrections page</a>. If a case was dismissed or you were acquitted, <a href="{BASE}contact/">contact us</a> and the entry will be updated to reflect the outcome and the booking photo taken down.</p>
 </main>"""
     write("about/index.html", page("about/", "About", about, active="about/"))
 

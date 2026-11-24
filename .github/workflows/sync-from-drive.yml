@@ -24,6 +24,8 @@ jobs:
         env:
           DRIVE_FOLDER_ID: ${{ vars.DRIVE_FOLDER_ID || '1YNOJzRqyTrgPNJewOEwBwIe2IyJzT0Co' }}
         run: python3 scripts/import_drive.py
+      - name: Save booking photos
+        run: python3 scripts/fetch_photos.py
       - name: Check the site still builds
         run: python3 build.py
       - id: commit

@@ -82,11 +82,15 @@ def main(html=None):
             if {"date", "edition", "text"} <= c.keys() and (c["date"], c["text"]) not in seen:
                 corrections.append(c); seen.add((c["date"], c["text"])); changed.append(f"correction {c['date']}")
         path = ED_DIR / f"{date}.json"
-        if not ed.get("highlights") and path.exists():   # keep highlights added by hand in the repo
+        if path.exists():   # keep highlights and booking photos added by hand in the repo
             try:
-                kept = json.loads(path.read_text()).get("highlights")
-                if kept:
-                    ed["highlights"] = kept
+                old = json.loads(path.read_text())
+                if not ed.get("highlights") and old.get("highlights"):
+                    ed["highlights"] = old["highlights"]
+                old_photos = {x.get("id"): x["photo"] for x in old.get("entries", []) if x.get("photo")}
+                for x in ed["entries"]:
+                    if "photo" not in x and x.get("id") in old_photos:
+                        x["photo"] = old_photos[x["id"]]
             except Exception:
                 pass
         new = json.dumps(ed, ensure_ascii=False, indent=2) + "\n"

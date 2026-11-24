@@ -84,7 +84,11 @@
           "label": "BCSO jail roster",
           "url": "https://cc.southernsoftware.com/bookingsearch/index.php?AgencyID=BaldwinCoSOAL"
         }
-      ]
+      ],
+      "photo": {
+        "url": "https://ssmugshots.blob.core.windows.net/images/AL0050000-403069-180833-149850-Mugshot-1.jpg",
+        "booking": "Bkg #255671"
+      }
     },
     {
       "id": "mashburn-loxley-nov21",
@@ -108,7 +112,11 @@
           "label": "BCSO jail roster",
           "url": "https://cc.southernsoftware.com/bookingsearch/index.php?AgencyID=BaldwinCoSOAL"
         }
-      ]
+      ],
+      "photo": {
+        "url": "https://ssmugshots.blob.core.windows.net/images/AL0050000-381815-252531-238052-Mugshot-1.jpg",
+        "booking": "Bkg #255686"
+      }
     },
     {
       "id": "sawyer-spanish-fort-nov21",

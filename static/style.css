@@ -251,3 +251,9 @@ details.fold>summary{cursor:pointer;font:600 11px/1 var(--f-mono);letter-spacing
 table.bk{min-width:640px;font-size:13px}
 table.bk td.who{font-weight:600;color:var(--ink);white-space:nowrap}
 table.bk td.who .chip{margin-left:6px;display:inline-block;vertical-align:1px}
+/* booking photo beside an entry */
+.entry .mug{float:right;margin:2px 0 10px 18px;width:96px}
+.entry .mug img{display:block;width:96px;height:120px;object-fit:cover;object-position:50% 20%;border:1px solid var(--rule-hard);border-radius:3px;background:var(--surface)}
+.entry .mug figcaption{font-family:var(--f-mono);font-size:9.5px;line-height:1.3;color:var(--muted);margin-top:4px}
+.entry > div:last-child{display:flow-root}
+@media (max-width:640px){.entry .mug{width:80px;margin-left:12px}.entry .mug img{width:80px;height:100px}}
