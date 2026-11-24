@@ -59,9 +59,10 @@ Run `TZ=America/Chicago date`. Baldwin County is on **Central time**; the user i
 1. `TZ=America/Chicago date`. Load the Claude in Chrome tools in one ToolSearch call.
 2. Read every source below, in the order of the Summary table. Record the count seen for each.
 3. Re-read the two preceding days on the roster and the city logs.
-4. Write the edition JSON (format above), check it parses, and upload it to the "alacrime feed" Drive folder.
-5. Update the working artifact with the same edition.
-6. About 15 minutes later, load www.alacrime.com and confirm the new date is on the home page.
+4. Add booking photos to qualifying entries (see "Booking photos"), collected while the roster is open in step 2.
+5. Write the edition JSON (format above), check it parses, and upload it to the "alacrime feed" Drive folder.
+6. Update the working artifact with the same edition.
+7. About 15 minutes later, load www.alacrime.com and confirm the new date is on the home page.
 
 If Chrome is not connected, follow "When the browser is down" and still publish what the cloud can reach, with every browser source marked *Not reached*. A scheduled run has nobody to ask: never spend money on Alacourt, never publish anything the handling rules forbid, and leave anything uncertain out with a note in the sources table.
 
