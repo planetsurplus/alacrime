@@ -32,9 +32,23 @@ The public site is **www.alacrime.com**, built by GitHub Pages from the repo **p
 
 Validate the JSON (it must parse, ids unique, every entry has title/date/body) before uploading. A malformed file turns the sync run red and the day never appears.
 
-**Never publish to the site:** dates of birth, race, booking photos, victims' names, immigration-detainee names, juveniles' names. The public site uses the straight news voice described below.
+**Never publish to the site:** dates of birth, race, victims' names, immigration-detainee names, juveniles' names. Booking photos only under the rules in "Booking photos" below. The public site uses the straight news voice described below.
 
 The cloud workspace is wiped between runs. Recover the page with `Artifact` action `read` on the canonical URL, copy the saved file to `/home/claude/baldwin-crime-record.html`, and **Read every line** before republishing — a republish is refused otherwise.
+
+## Booking photos (owner's decision, Nov. 24, 2026)
+
+The owner lifted the no-photo rule for **felony entries only**. A photo goes beside an entry when all of these hold:
+- the entry is about **one person** (exactly one booking number in `cases`) — never a roundup ("Other arrests…", "Methamphetamine arrests…" covering two people), never the bookings table or city-arrest rows;
+- the booked charge is **felony-grade on its face** (homicide, rape/sodomy/sex abuse, robbery, burglary, assault on an officer, aggravated or 1st/2nd-degree assault, drug trafficking or distribution, child abuse, kidnapping, escape, firearm by a prohibited person) or an official source states a felony, conviction or sentence;
+- it is **not** a prostitution or solicitation arrest (Alabama law bars publishing those photos), a juvenile, or an immigration hold;
+- the roster card shows a real photo — cards showing `NoMugshot.jpg` get none.
+
+**How to get it:** on the roster results, each card's `<img>` sits inside a `div.card-body` whose text carries the booking number (`#255702`). The image URL is on `ssmugshots.blob.core.windows.net/images/…-Mugshot-1.jpg`; its numbers are **not** the booking number, so match by the card's `#NNNNNN`. Paging («, », page numbers) reloads the page, so scan one page per call (store results in `localStorage`, wait ~3 s between pages; « goes back one page, not to page 1). Clear the `localStorage` key afterwards.
+
+Add to the entry: `"photo": {"url": "<image URL>", "booking": "Bkg #255702"}`. The sync workflow downloads it to `data/photos/<booking>.jpg` in the repo, and `build.py` shows it only if its own checks pass. The working artifact does not carry photos.
+
+**Take-downs:** if a dismissal, acquittal or a request through the contact form arrives, delete `data/photos/<booking>.jpg` and the entry's `photo` field in the repo, and log a correction.
 
 ## Before anything else
 
@@ -203,7 +217,7 @@ When caught: do not publish it anywhere — not the artifact, not the Drive JSON
 - Everyone is **arrested or charged, not convicted**, unless an official source says convicted or sentenced.
 - Charges are **booked charges** from the jail. Never call one an indictment or give a felony class unless an official source does.
 - **Never publish date of birth, race or the age/race/sex line** from the roster. Age may be given as stated in a news item, not computed from the DOB.
-- Do not reproduce booking photographs.
+- Booking photos only as set out in "Booking photos" — never in the bookings table, city-arrest rows or roundups.
 - Do not list immigration holds (ICE, "INS Service" detainers) as crimes; an immigration detainer is not a criminal charge.
 - **Do not compile non-crime biographical profiles of the people named here.** Private people, mostly misdemeanours, many dismissed. Answer bigger-picture questions in aggregate.
 - Note coincidences without asserting connections the records don't support.
