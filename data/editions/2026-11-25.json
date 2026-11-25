@@ -1,10 +1,35 @@
 {
   "date": "2026-11-25",
-  "compiled": "2026-11-25T05:10:00-06:00",
+  "compiled": "2026-11-25T17:50:00-06:00",
   "window": "Nov. 23–25, 2026",
-  "summary": "Foley police booked a man on a domestic-violence strangulation charge and the sheriff's office booked a man on two domestic-violence counts and resisting arrest, the jail roster shows. Federal prosecutors said two men have admitted or moved to admit fraud charges in a scam that cost a Fairhope couple about $295,000 in gold bars.",
+  "summary": "Foley police booked a man on a domestic-violence strangulation charge and the sheriff's office booked a man on two domestic-violence counts and resisting arrest, the jail roster shows. Federal prosecutors said two men have admitted or moved to admit fraud charges in a scam that cost a Fairhope couple about $295,000 in gold bars. Evening update: Atmore police charged a man with murder after a woman he had reported missing was found shot to death near Perdido in Baldwin County. The jail roster and city arrest logs could not be re-read this evening; booking counts are from the 4:45 a.m. read.",
   "commentary": null,
   "entries": [
+    {
+      "id": "smoots-perdido-nov25",
+      "date": "2026-11-25",
+      "place": "Perdido",
+      "agency": "Atmore Police",
+      "category": "violent",
+      "severity": "other",
+      "cases": [],
+      "tags": [],
+      "title": "Murder charge, body found near Perdido: Arthur Lee Smoots Jr.",
+      "body": [
+        "Atmore police said Wednesday, Nov. 25, that they charged Arthur Lee Smoots Jr. of Atmore with murder after a woman he had reported missing Tuesday was found dead in a concealed location near the Perdido community in Baldwin County. Police said she appeared to have died from at least one gunshot wound, according to the department's release as reported by FOX10 and 1819 News. Police had cited suspicious circumstances when they issued a missing-person alert.",
+        "Smoots is also charged with being a certain person forbidden to possess a firearm — having a gun while barred from owning one, such as after a felony conviction. 1819 News reported he was booked into the Escambia County jail with no bond. Police have not said where the shooting took place, and no Baldwin County agency has issued a statement."
+      ],
+      "sources": [
+        {
+          "label": "FOX10 News, Nov. 25",
+          "url": "https://www.fox10tv.com/2026/11/25/atmore-man-charged-with-murder-after-missing-wife-found-dead-baldwin-county/"
+        },
+        {
+          "label": "1819 News, Nov. 25",
+          "url": "https://1819news.com/news/item/atmore-police-arrest-husband-of-woman-found-dead-in-baldwin-county"
+        }
+      ]
+    },
     {
       "id": "federal-gold-bar-scam-fairhope",
       "date": "2026-11-24",
@@ -1676,7 +1701,7 @@
         "released": true
       }
     ],
-    "list_note": "Every booking at the Baldwin County jail with an admit date of Nov. 23–25, newest first, as booked by the arresting agency. Immigration detainers in the same days (15) are not listed. Read at about 4:45 a.m. Wednesday, Nov. 25."
+    "list_note": "Every booking at the Baldwin County jail with an admit date of Nov. 23–25, newest first, as booked by the arresting agency. Immigration detainers in the same days (15) are not listed. Read at about 4:45 a.m. Wednesday, Nov. 25. The jail roster could not be re-read Wednesday evening."
   },
   "city_arrests": [
     {
@@ -2198,6 +2223,15 @@
   ],
   "open_cases": [
     {
+      "case": "Atmore Police",
+      "defendant": "Arthur Lee Smoots Jr.",
+      "level": "Charged",
+      "charges": "Murder; certain person forbidden to possess a firearm. Woman's body found near Perdido, Baldwin County. Held in Escambia County jail without bond, per 1819 News.",
+      "next": "Not set",
+      "agency": "Atmore Police",
+      "last_docket": "2026-11-25"
+    },
+    {
       "case": "U.S. District Court, Mobile",
       "defendant": "Pradeep Patel · Saurav Sharma",
       "level": "Pleaded guilty (Patel); notice of intent to plead (Sharma)",
@@ -2330,7 +2364,7 @@
       "charges": "Booked on first-degree kidnapping; complaint charges attempted first-degree kidnapping (Foley, Nov. 15). In custody (roster read Nov. 23). Worth a paid court look-up.",
       "next": "Not set",
       "agency": "Baldwin County Sheriff / Foley Police",
-      "last_docket": "2026-11-23"
+      "last_docket": "2026-11-25"
     },
     {
       "case": "Bkg #255586",
@@ -2339,7 +2373,7 @@
       "charges": "Sexual abuse of a child under 12; sodomy by force. In custody (roster read Nov. 24). Worth a paid court look-up.",
       "next": "Not set",
       "agency": "Baldwin County Sheriff",
-      "last_docket": "2026-11-24"
+      "last_docket": "2026-11-25"
     },
     {
       "case": "Bkg #255584",
@@ -2348,7 +2382,7 @@
       "charges": "Sodomy, first degree; probation violation (added in custody). In custody (roster read Nov. 24). Worth a paid court look-up.",
       "next": "Not set",
       "agency": "Baldwin County Sheriff; roster now lists Pardons & Paroles",
-      "last_docket": "2026-11-24"
+      "last_docket": "2026-11-25"
     },
     {
       "case": "Bkg #255577",
@@ -2357,7 +2391,7 @@
       "charges": "Shooting into an occupied building. Released Nov. 18, per the roster. Worth a paid court look-up.",
       "next": "Not set",
       "agency": "Loxley Police",
-      "last_docket": "2026-11-21"
+      "last_docket": "2026-11-25"
     },
     {
       "case": "Bkg #255547",
@@ -2366,7 +2400,7 @@
       "charges": "Unlawful distribution of a controlled substance. Released Nov. 17, per the roster. Worth a paid court look-up.",
       "next": "Not set",
       "agency": "Daphne Police",
-      "last_docket": "2026-11-21"
+      "last_docket": "2026-11-25"
     },
     {
       "case": "Bkg #255528",
@@ -2375,7 +2409,7 @@
       "charges": "Domestic violence by strangulation; felony failure to appear. In custody (roster read Nov. 21). Worth a paid court look-up.",
       "next": "Not set",
       "agency": "Baldwin County Sheriff",
-      "last_docket": "2026-11-21"
+      "last_docket": "2026-11-25"
     },
     {
       "case": "Bkg #255513",
@@ -2384,7 +2418,7 @@
       "charges": "Felon in possession of a firearm. Released Nov. 16, per the roster. Worth a paid court look-up.",
       "next": "Not set",
       "agency": "Foley Police",
-      "last_docket": "2026-11-21"
+      "last_docket": "2026-11-25"
     },
     {
       "case": "Bkg #255466",
@@ -2393,7 +2427,7 @@
       "charges": "Organized retail theft. In custody (roster read Nov. 19). Worth a paid court look-up.",
       "next": "Not set",
       "agency": "Baldwin County Sheriff",
-      "last_docket": "2026-11-19"
+      "last_docket": "2026-11-25"
     },
     {
       "case": "Bkg #255439",
@@ -2402,7 +2436,7 @@
       "charges": "Making a terrorist threat, first degree; menacing. In custody (roster read Nov. 16). Worth a paid court look-up.",
       "next": "Not set",
       "agency": "Foley Police",
-      "last_docket": "2026-11-16"
+      "last_docket": "2026-11-25"
     },
     {
       "case": "Bkg #255431",
@@ -2411,7 +2445,7 @@
       "charges": "Torture or willful abuse of a child. In custody (roster read Nov. 16). Worth a paid court look-up.",
       "next": "Not set",
       "agency": "Robertsdale Police",
-      "last_docket": "2026-11-16"
+      "last_docket": "2026-11-25"
     },
     {
       "case": "Bkg #255393",
@@ -2420,7 +2454,7 @@
       "charges": "Grand jury indictment reported by FOX10 Nov. 12: financial exploitation of the elderly (eight counts combined); first-degree theft (John McNider two counts, Angel McNider one); electronic stalking. Both released. Bond conditions modified to allow out-of-state work travel (John McNider Nov. 13, Angel McNider this week), FOX10 reported Nov. 19. FOX10 reported Nov. 24 that the couple also faces civil judgments in Baldwin County, Florida and New York.",
       "next": "Arraignment Jan. 20, per FOX10",
       "agency": "Baldwin County Sheriff",
-      "last_docket": "2026-11-24"
+      "last_docket": "2026-11-25"
     },
     {
       "case": "Bkg #255420",
@@ -2429,7 +2463,7 @@
       "charges": "Financial exploitation of an elderly person, first degree. In custody (roster read Nov. 16; listed as Moorere-Crook). Worth a paid court look-up.",
       "next": "Not set",
       "agency": "Baldwin County Sheriff",
-      "last_docket": "2026-11-16"
+      "last_docket": "2026-11-25"
     },
     {
       "case": "Bkg #255356",
@@ -2438,7 +2472,7 @@
       "charges": "Terrorist threat, first degree (state, per FOX10); transmitting a threatening communication in interstate commerce (federal indictment filed Nov. 18, per FOX10). Released on state bond Nov. 7; held on the federal charge in the Escambia County, Alabama, jail since Nov. 12, per FOX10.",
       "next": "Federal arraignment Dec. 2, per FOX10",
       "agency": "Baldwin County Sheriff; FBI / U.S. Attorney, S.D. Alabama",
-      "last_docket": "2026-11-20"
+      "last_docket": "2026-11-25"
     },
     {
       "case": "Bkg #255335",
@@ -2447,7 +2481,7 @@
       "charges": "Drug trafficking; drunk or addict in possession of a firearm; other drug charges. Bond set at $114,500 on Nov. 9 by District Judge Grant Blackburn, WKRG reported. Released Nov. 10, per the roster. Worth a paid court look-up.",
       "next": "Not set",
       "agency": "Baldwin County Sheriff",
-      "last_docket": "2026-11-13"
+      "last_docket": "2026-11-25"
     },
     {
       "case": "Bkg #255324",
@@ -2456,7 +2490,7 @@
       "charges": "Rape (strong-arm); sexual contact without consent or with a child 12 to 16. Released Nov. 9, per the roster. Worth a paid court look-up.",
       "next": "Not set",
       "agency": "Baldwin County Sheriff",
-      "last_docket": "2026-11-13"
+      "last_docket": "2026-11-25"
     },
     {
       "case": "Bkg #255277",
@@ -2465,7 +2499,7 @@
       "charges": "Street robbery with a gun. In custody (roster read Nov. 10). Worth a paid court look-up.",
       "next": "Not set",
       "agency": "Baldwin County Sheriff",
-      "last_docket": "2026-11-13"
+      "last_docket": "2026-11-25"
     },
     {
       "case": "Bkg #255274",
@@ -2474,7 +2508,7 @@
       "charges": "Sexual abuse of a child under 12; sodomy by force. In custody (roster read Nov. 10). Worth a paid court look-up.",
       "next": "Not set",
       "agency": "Baldwin County Sheriff",
-      "last_docket": "2026-11-13"
+      "last_docket": "2026-11-25"
     },
     {
       "case": "Bkg #255284",
@@ -2483,7 +2517,7 @@
       "charges": "Aggravated assault on a family member with a gun; public lewdness. Released Nov. 9, per the roster.",
       "next": "Not set",
       "agency": "Baldwin County Sheriff",
-      "last_docket": "2026-11-13"
+      "last_docket": "2026-11-25"
     },
     {
       "case": "Bkg #255186",
@@ -2492,7 +2526,7 @@
       "charges": "Shooting into an occupied building. Released Nov. 3, per the roster. Worth a paid court look-up.",
       "next": "Not set",
       "agency": "Baldwin County Sheriff",
-      "last_docket": "2026-11-13"
+      "last_docket": "2026-11-25"
     },
     {
       "case": "Bkg #255226",
@@ -2501,7 +2535,7 @@
       "charges": "Aggravated assault on a police officer (strong-arm). Released, per the roster read Nov. 5. Worth a paid court look-up.",
       "next": "Not set",
       "agency": "Baldwin County Sheriff",
-      "last_docket": "2026-11-13"
+      "last_docket": "2026-11-25"
     },
     {
       "case": "Bkg #255163",
@@ -2510,7 +2544,7 @@
       "charges": "Drug trafficking; possession of dangerous drugs; drug paraphernalia. Released Nov. 3, per the roster. Worth a paid court look-up.",
       "next": "Not set",
       "agency": "Baldwin County Sheriff",
-      "last_docket": "2026-11-13"
+      "last_docket": "2026-11-25"
     },
     {
       "case": "Bkg #255119",
@@ -2519,7 +2553,7 @@
       "charges": "Robbery (street, other weapon); possession of dangerous drugs. Released Nov. 1, per the roster. Worth a paid court look-up.",
       "next": "Not set",
       "agency": "Baldwin County Sheriff",
-      "last_docket": "2026-11-13"
+      "last_docket": "2026-11-25"
     },
     {
       "case": "Bkg #255055",
@@ -2528,7 +2562,7 @@
       "charges": "Drug trafficking; sale/distribution of dangerous drugs (2); drunk or addict in possession of a firearm; tampering with physical evidence. Released Oct. 29, per the roster. Worth a paid court look-up.",
       "next": "Not set",
       "agency": "Baldwin County Sheriff",
-      "last_docket": "2026-11-13"
+      "last_docket": "2026-11-25"
     },
     {
       "case": "Bkg #255006",
@@ -2537,7 +2571,7 @@
       "charges": "Failure to register as a sex offender; drug paraphernalia. In custody.",
       "next": "Not set",
       "agency": "Baldwin County Sheriff",
-      "last_docket": "2026-11-13"
+      "last_docket": "2026-11-25"
     },
     {
       "case": "Bkg #254824",
@@ -2546,7 +2580,7 @@
       "charges": "Four counts, possession of child sexual abuse material. In custody on $100,000 cash bond.",
       "next": "Not set",
       "agency": "Baldwin County Sheriff",
-      "last_docket": "2026-11-13"
+      "last_docket": "2026-11-25"
     },
     {
       "case": "Bkg #254887",
@@ -2555,7 +2589,7 @@
       "charges": "Sexual abuse of a child under 12. In custody.",
       "next": "Not set",
       "agency": "Foley Police",
-      "last_docket": "2026-11-13"
+      "last_docket": "2026-11-25"
     },
     {
       "case": "Bkg #254874",
@@ -2564,7 +2598,7 @@
       "charges": "Bowling alley shooting, Oct. 3. McDonald released. Grayson's bond revoked Oct. 26 by a Mobile County judge; held until an April trial in a 2024 Mobile shooting case.",
       "next": "Not set",
       "agency": "Spanish Fort Police",
-      "last_docket": "2026-11-13"
+      "last_docket": "2026-11-25"
     },
     {
       "case": "Unsolved",
@@ -2573,7 +2607,7 @@
       "charges": "Man shot Oct. 18; no suspect identified. Sheriff's office asking for tips.",
       "next": "—",
       "agency": "Baldwin County Sheriff",
-      "last_docket": "2026-11-13"
+      "last_docket": "2026-11-25"
     },
     {
       "case": "Circuit Court",
@@ -2582,7 +2616,7 @@
       "charges": "Convicted Aug. 20 of murder and attempted murder at an apartment complex in Daphne. Sentenced Nov. 10 to life without parole, WKRG and the District Attorney's office reported.",
       "next": "None reported",
       "agency": "Baldwin County District Attorney",
-      "last_docket": "2026-11-13"
+      "last_docket": "2026-11-25"
     },
     {
       "case": "U.S. District Court",
@@ -2591,7 +2625,7 @@
       "charges": "Interstate prostitution ring and a federal firearm charge.",
       "next": "Sentencing, January 2027",
       "agency": "U.S. Attorney",
-      "last_docket": "2026-11-13"
+      "last_docket": "2026-11-25"
     },
     {
       "case": "U.S. District Court, Mobile",
@@ -2600,81 +2634,81 @@
       "charges": "Conspiracy to tamper with a witness; methamphetamine distribution. No U.S. Attorney release on the Nov. 12 sentencing as of Nov. 13.",
       "next": "Sentencing Nov. 12 (drug case); January (witness tampering)",
       "agency": "U.S. Attorney, S.D. Alabama",
-      "last_docket": "2026-11-13"
+      "last_docket": "2026-11-25"
     }
   ],
   "sources": [
     {
       "name": "BCSO jail roster",
       "url": "https://cc.southernsoftware.com/bookingsearch/index.php?AgencyID=BaldwinCoSOAL",
-      "status": "read",
-      "note": "Read in Claude in Chrome about 4:45 a.m. Wednesday, Nov. 25. Last 24 Hour Admits: 2. Last 7 Days Admits: 151, all eight pages read and de-duplicated by booking number (104 non-immigration, 47 immigration). Nov. 23: 20 (5 immigration) — three Foley and Fairhope bookings posted after the Nov. 24 read. Nov. 24: 22 (10 immigration); the ten Nov. 24 records that showed no agency or charges Tuesday evening are now complete. Nov. 25: 2. Released since the last read include Leyva-Castaneda, Baten, Gamble, Anderson and Kristi Dawn Phillips (Nov. 24). No booking-photo entries today: no new single-person booking with a felony-grade charge from the photo list showed a photo."
+      "status": "not reached",
+      "note": "Morning read: Read in Claude in Chrome about 4:45 a.m. Wednesday, Nov. 25. Last 24 Hour Admits: 2. Last 7 Days Admits: 151, all eight pages read and de-duplicated by booking number (104 non-immigration, 47 immigration). Nov. 23: 20 (5 immigration) — three Foley and Fairhope bookings posted after the Nov. 24 read. Nov. 24: 22 (10 immigration); the ten Nov. 24 records that showed no agency or charges Tuesday evening are now complete. Nov. 25: 2. Released since the last read include Leyva-Castaneda, Baten, Gamble, Anderson and Kristi Dawn Phillips (Nov. 24). No booking-photo entries today: no new single-person booking with a felony-grade charge from the photo list showed a photo. Evening re-read not reached: Claude in Chrome was not connected for the 5:30 p.m. run, so nothing here was updated after the morning read."
     },
     {
       "name": "Daphne PD arrest log",
       "url": "https://cc.southernsoftware.com/arrestsearch/index.php?AgencyID=DaphnePDAL",
-      "status": "read",
-      "note": "Nov. 22–25 searched: 15 rows, 1 new (Nov. 23 Daphne City Jail arrest with no offence listed). Nothing posted for Nov. 24–25 at the time of reading. A Nov. 24 receiving-stolen-property row seen Tuesday evening no longer appears on the log; the roster's booking for the same person is in the bookings list."
+      "status": "not reached",
+      "note": "Morning read: Nov. 22–25 searched: 15 rows, 1 new (Nov. 23 Daphne City Jail arrest with no offence listed). Nothing posted for Nov. 24–25 at the time of reading. A Nov. 24 receiving-stolen-property row seen Tuesday evening no longer appears on the log; the roster's booking for the same person is in the bookings list. Evening re-read not reached: Claude in Chrome was not connected for the 5:30 p.m. run, so nothing here was updated after the morning read."
     },
     {
       "name": "Fairhope PD arrest log",
       "url": "https://cc.southernsoftware.com/arrestsearch/index.php?AgencyID=FairhopePDAL",
-      "status": "read",
-      "note": "Nov. 22–25 searched: 6 rows, none new. Nothing posted for Nov. 24–25 at the time of reading."
+      "status": "not reached",
+      "note": "Morning read: Nov. 22–25 searched: 6 rows, none new. Nothing posted for Nov. 24–25 at the time of reading. Evening re-read not reached: Claude in Chrome was not connected for the 5:30 p.m. run, so nothing here was updated after the morning read."
     },
     {
       "name": "BCSO Facebook",
       "url": "https://www.facebook.com/SheriffOfBaldwin",
-      "status": "read",
-      "note": "Read in Claude in Chrome; newest post Nov. 24 (60-second Q&A video with Sheriff Lowery). No crime releases."
+      "status": "not reached",
+      "note": "Morning read: Read in Claude in Chrome; newest post Nov. 24 (60-second Q&A video with Sheriff Lowery). No crime releases. Evening re-read not reached: Claude in Chrome was not connected for the 5:30 p.m. run, so nothing here was updated after the morning read."
     },
     {
       "name": "Baldwin County DA Facebook",
       "url": "https://www.facebook.com/baldwincountydaoffice",
-      "status": "read",
-      "note": "Read in Claude in Chrome; newest visible post still Nov. 13. No verdicts or sentences seen."
+      "status": "not reached",
+      "note": "Morning read: Read in Claude in Chrome; newest visible post still Nov. 13. No verdicts or sentences seen. Evening re-read not reached: Claude in Chrome was not connected for the 5:30 p.m. run, so nothing here was updated after the morning read."
     },
     {
       "name": "Daphne PD Facebook",
       "url": "https://www.facebook.com/DaphnePoliceDept",
-      "status": "read",
-      "note": "Read in Claude in Chrome; newest post Nov. 20 (retirement). No crime posts."
+      "status": "not reached",
+      "note": "Morning read: Read in Claude in Chrome; newest post Nov. 20 (retirement). No crime posts. Evening re-read not reached: Claude in Chrome was not connected for the 5:30 p.m. run, so nothing here was updated after the morning read."
     },
     {
       "name": "U.S. Attorney, S.D. Alabama",
       "url": "https://www.justice.gov/usao-sdal/pr",
-      "status": "read",
-      "note": "Index read: one new release, Nov. 24 (national scam crackdown), which includes a Fairhope gold-bar scam case — entry added."
+      "status": "not reached",
+      "note": "Morning read: Index read: one new release, Nov. 24 (national scam crackdown), which includes a Fairhope gold-bar scam case — entry added. Evening re-read not reached: Claude in Chrome was not connected for the 5:30 p.m. run, so nothing here was updated after the morning read."
     },
     {
       "name": "ALEA press releases",
       "url": "https://www.alea.gov/press-releases",
-      "status": "read",
-      "note": "Newest release still Nov. 19 (holiday travel). No Baldwin items."
+      "status": "not reached",
+      "note": "Morning read: Newest release still Nov. 19 (holiday travel). No Baldwin items. Evening re-read not reached: Claude in Chrome was not connected for the 5:30 p.m. run, so nothing here was updated after the morning read."
     },
     {
       "name": "Alabama Attorney General",
       "url": "https://www.alabamaag.gov/news/",
       "status": "read",
-      "note": "Newest release still Nov. 19. No Baldwin items."
+      "note": "Newest release still Nov. 19. No Baldwin items. Evening: index re-read from the cloud; newest release still Nov. 19. No Baldwin items."
     },
     {
       "name": "FOX10 Baldwin County",
       "url": "https://www.fox10tv.com/news/baldwin-county/",
       "status": "read",
-      "note": "Index read: newest items Nov. 24 (McNider follow-up, carried; Robertsdale tree lighting). No new crime items."
+      "note": "Index read: newest items Nov. 24 (McNider follow-up, carried; Robertsdale tree lighting). No new crime items. Evening: read from the cloud via search; one new Baldwin-connected item Nov. 25 (Atmore murder charge, body found near Perdido) — entry added. 'Ask the Sheriff' segment Nov. 25 is not a crime item."
     },
     {
       "name": "WKRG Baldwin County",
       "url": "https://www.wkrg.com/baldwin-county/",
-      "status": "read",
-      "note": "Index read: newest Baldwin items Nov. 23–24 (community events, holiday notices). No crime items."
+      "status": "not reached",
+      "note": "Morning read: Index read: newest Baldwin items Nov. 23–24 (community events, holiday notices). No crime items. Evening re-read not reached: Claude in Chrome was not connected for the 5:30 p.m. run, so nothing here was updated after the morning read."
     },
     {
       "name": "NBC 15 / WPMI",
       "url": "https://mynbc15.com/",
       "status": "not reached",
-      "note": "Not read directly; a web search for Nov. 24 Baldwin arrests and the Foley strangulation booking found no new items."
+      "note": "Not read directly; a web search for Nov. 24 Baldwin arrests and the Foley strangulation booking found no new items. Evening: homepage read from the cloud; no Baldwin crime items dated Nov. 24–25."
     },
     {
       "name": "Alacourt free docket, Baldwin",
@@ -2699,6 +2733,12 @@
       "url": "https://pa.alacourt.com/",
       "status": "paid",
       "note": "$9.99 per search; not used"
+    },
+    {
+      "name": "1819 News",
+      "url": "https://1819news.com/tag/baldwin-county",
+      "status": "read",
+      "note": "Evening: read from the cloud; Nov. 25 Atmore murder-charge item (body found near Perdido) — entry added."
     }
   ]
 }
