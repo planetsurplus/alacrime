@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "compiled": "2026-11-25T17:50:00-06:00",
+  "compiled": "2026-11-25T21:45:00-06:00",
   "window": "Nov. 23–25, 2026",
   "summary": "Foley police booked a man on a domestic-violence strangulation charge and the sheriff's office booked a man on two domestic-violence counts and resisting arrest, the jail roster shows. Federal prosecutors said two men have admitted or moved to admit fraud charges in a scam that cost a Fairhope couple about $295,000 in gold bars. Evening update: Atmore police charged a man with murder after a woman he had reported missing was found shot to death near Perdido in Baldwin County. The jail roster and city arrest logs could not be re-read this evening; booking counts are from the 4:45 a.m. read.",
   "commentary": null,
@@ -104,7 +104,11 @@
           "label": "BCSO jail roster",
           "url": "https://cc.southernsoftware.com/bookingsearch/index.php?AgencyID=BaldwinCoSOAL"
         }
-      ]
+      ],
+      "photo": {
+        "url": "https://ssmugshots.blob.core.windows.net/images/AL0050000-577572-255389-246253-Mugshot-1.jpg",
+        "booking": "Bkg #255740"
+      }
     },
     {
       "id": "fisher-auto-theft-nov24",
@@ -128,7 +132,11 @@
           "label": "BCSO jail roster",
           "url": "https://cc.southernsoftware.com/bookingsearch/index.php?AgencyID=BaldwinCoSOAL"
         }
-      ]
+      ],
+      "photo": {
+        "url": "https://ssmugshots.blob.core.windows.net/images/AL0050000-186332-246710-224397-Mugshot-1.jpg",
+        "booking": "Bkg #255741"
+      }
     },
     {
       "id": "eluding-nov25",
@@ -418,7 +426,11 @@
         "date": "2026-11-25",
         "arrest": "11/25/2026 00:51",
         "charges": "Fleeing or attempting to elude police; public intoxication",
-        "released": false
+        "released": false,
+        "photo": {
+          "url": "https://ssmugshots.blob.core.windows.net/images/AL0050000-572101-254822-244890-Mugshot-1.jpg",
+          "booking": "Bkg #255745"
+        }
       },
       {
         "case": "Bkg #255744",
@@ -427,7 +439,11 @@
         "date": "2026-11-24",
         "arrest": "11/24/2026 20:00",
         "charges": "Drug paraphernalia, first offense",
-        "released": true
+        "released": true,
+        "photo": {
+          "url": "https://ssmugshots.blob.core.windows.net/images/AL0050000-572079-241833-216497-Mugshot-1.jpg",
+          "booking": "Bkg #255744"
+        }
       },
       {
         "case": "Bkg #255743",
@@ -436,7 +452,11 @@
         "date": "2026-11-24",
         "arrest": "11/24/2026 20:05",
         "charges": "Failure to appear",
-        "released": false
+        "released": false,
+        "photo": {
+          "url": "https://ssmugshots.blob.core.windows.net/images/AL0050000-298946-250714-234818-Mugshot-1.jpg",
+          "booking": "Bkg #255743"
+        }
       },
       {
         "case": "Bkg #255742",
@@ -445,7 +465,11 @@
         "date": "2026-11-24",
         "arrest": "11/24/2026 14:50",
         "charges": "Failure to appear/comply/pay (4)",
-        "released": false
+        "released": false,
+        "photo": {
+          "url": "https://ssmugshots.blob.core.windows.net/images/AL0050000-305967-248955-230416-Mugshot-1.jpg",
+          "booking": "Bkg #255742"
+        }
       },
       {
         "case": "Bkg #255741",
@@ -454,7 +478,11 @@
         "date": "2026-11-24",
         "arrest": "11/24/2026 18:54",
         "charges": "Auto theft",
-        "released": false
+        "released": false,
+        "photo": {
+          "url": "https://ssmugshots.blob.core.windows.net/images/AL0050000-186332-246710-224397-Mugshot-1.jpg",
+          "booking": "Bkg #255741"
+        }
       },
       {
         "case": "Bkg #255740",
@@ -463,7 +491,11 @@
         "date": "2026-11-24",
         "arrest": "11/24/2026",
         "charges": "Criminal mischief (damage to business property); resisting arrest; domestic violence, third degree (2); criminal trespass",
-        "released": false
+        "released": false,
+        "photo": {
+          "url": "https://ssmugshots.blob.core.windows.net/images/AL0050000-577572-255389-246253-Mugshot-1.jpg",
+          "booking": "Bkg #255740"
+        }
       },
       {
         "case": "Bkg #255729",
@@ -472,7 +504,11 @@
         "date": "2026-11-24",
         "arrest": "11/24/2026 12:43",
         "charges": "Possession of marijuana, second degree; tampering with physical evidence; possession of imitation drugs",
-        "released": true
+        "released": true,
+        "photo": {
+          "url": "https://ssmugshots.blob.core.windows.net/images/AL0050000-573729-246323-222341-Mugshot-1.jpg",
+          "booking": "Bkg #255729"
+        }
       },
       {
         "case": "Bkg #255728",
@@ -481,7 +517,11 @@
         "date": "2026-11-24",
         "arrest": "11/24/2026 11:10",
         "charges": "Public intoxication; drug paraphernalia, first offense",
-        "released": false
+        "released": false,
+        "photo": {
+          "url": "https://ssmugshots.blob.core.windows.net/images/AL0050000-293081-253434-240456-Mugshot-1.jpg",
+          "booking": "Bkg #255728"
+        }
       },
       {
         "case": "Bkg #255727",
@@ -508,7 +548,11 @@
         "date": "2026-11-24",
         "arrest": "11/24/2026 09:48",
         "charges": "Parole violation",
-        "released": false
+        "released": false,
+        "photo": {
+          "url": "https://ssmugshots.blob.core.windows.net/images/AL0050000-210282-127174-96639-Mugshot-1.jpg",
+          "booking": "Bkg #255725"
+        }
       },
       {
         "case": "Bkg #255724",
@@ -517,7 +561,11 @@
         "date": "2026-11-24",
         "arrest": "11/24/2026 02:40",
         "charges": "Probation revocation",
-        "released": false
+        "released": false,
+        "photo": {
+          "url": "https://ssmugshots.blob.core.windows.net/images/AL0050000-365921-255264-245946-Mugshot-1.jpg",
+          "booking": "Bkg #255724"
+        }
       },
       {
         "case": "Bkg #255723",
@@ -526,7 +574,11 @@
         "date": "2026-11-24",
         "arrest": "11/24/2026 00:15",
         "charges": "Failure to appear, traffic (2)",
-        "released": true
+        "released": true,
+        "photo": {
+          "url": "https://ssmugshots.blob.core.windows.net/images/AL0050000-317412-254106-243104-Mugshot-1.jpg",
+          "booking": "Bkg #255723"
+        }
       },
       {
         "case": "Bkg #255722",
@@ -544,7 +596,11 @@
         "date": "2026-11-23",
         "arrest": "11/23/2026",
         "charges": "Synthetic narcotic possession",
-        "released": true
+        "released": true,
+        "photo": {
+          "url": "https://ssmugshots.blob.core.windows.net/images/AL0050000-367901-209729-178623-Mugshot-1.jpg",
+          "booking": "Bkg #255721"
+        }
       },
       {
         "case": "Bkg #255720",
@@ -553,7 +609,11 @@
         "date": "2026-11-23",
         "arrest": "11/23/2026 18:35",
         "charges": "Public intoxication",
-        "released": true
+        "released": true,
+        "photo": {
+          "url": "https://ssmugshots.blob.core.windows.net/images/AL0050000-316798-203676-172594-Mugshot-1.jpg",
+          "booking": "Bkg #255720"
+        }
       },
       {
         "case": "Bkg #255719",
@@ -562,7 +622,11 @@
         "date": "2026-11-23",
         "arrest": "11/23/2026 18:11",
         "charges": "Federal inmate hold",
-        "released": false
+        "released": false,
+        "photo": {
+          "url": "https://ssmugshots.blob.core.windows.net/images/AL0050000-577091-254297-243603-Mugshot-1.jpg",
+          "booking": "Bkg #255719"
+        }
       },
       {
         "case": "Bkg #255718",
@@ -580,7 +644,11 @@
         "date": "2026-11-23",
         "arrest": "11/23/2026 13:38",
         "charges": "Methamphetamine possession",
-        "released": false
+        "released": false,
+        "photo": {
+          "url": "https://ssmugshots.blob.core.windows.net/images/AL0050000-437188-254117-243120-Mugshot-1.jpg",
+          "booking": "Bkg #255717"
+        }
       },
       {
         "case": "Bkg #255716",
@@ -589,7 +657,11 @@
         "date": "2026-11-23",
         "arrest": "11/23/2026 20:35",
         "charges": "Failure to appear, traffic (2)",
-        "released": true
+        "released": true,
+        "photo": {
+          "url": "https://ssmugshots.blob.core.windows.net/images/AL0050000-183205-220838-189669-Mugshot-1.jpg",
+          "booking": "Bkg #255716"
+        }
       },
       {
         "case": "Bkg #255715",
@@ -598,7 +670,11 @@
         "date": "2026-11-23",
         "arrest": "11/23/2026 13:47",
         "charges": "U.S. Marshals hold",
-        "released": false
+        "released": false,
+        "photo": {
+          "url": "https://ssmugshots.blob.core.windows.net/images/AL0050000-445796-189217-158195-Mugshot-1.jpg",
+          "booking": "Bkg #255715"
+        }
       },
       {
         "case": "Bkg #255714",
@@ -625,7 +701,11 @@
         "date": "2026-11-23",
         "arrest": "11/23/2026 11:00",
         "charges": "Failure to appear/comply/pay (3)",
-        "released": true
+        "released": true,
+        "photo": {
+          "url": "https://ssmugshots.blob.core.windows.net/images/AL0050000-499194-251274-236311-Mugshot-1.jpg",
+          "booking": "Bkg #255707"
+        }
       },
       {
         "case": "Bkg #255706",
@@ -652,7 +732,11 @@
         "date": "2026-11-23",
         "arrest": "11/22/2026 19:53",
         "charges": "Theft of property, third degree",
-        "released": true
+        "released": true,
+        "photo": {
+          "url": "https://ssmugshots.blob.core.windows.net/images/AL0050000-305893-124573-94039-Mugshot-1.jpg",
+          "booking": "Bkg #255703"
+        }
       },
       {
         "case": "Bkg #255702",
@@ -661,7 +745,11 @@
         "date": "2026-11-23",
         "arrest": "11/23/2026 03:48",
         "charges": "Rape (strong-arm)",
-        "released": true
+        "released": true,
+        "photo": {
+          "url": "https://ssmugshots.blob.core.windows.net/images/AL0050000-553488-226270-194746-Mugshot-1.jpg",
+          "booking": "Bkg #255702"
+        }
       },
       {
         "case": "Bkg #255701",
@@ -1455,7 +1543,11 @@
         "date": "2026-11-25",
         "arrest": "11/25/2026 00:51",
         "charges": "Fleeing or attempting to elude police; public intoxication",
-        "released": false
+        "released": false,
+        "photo": {
+          "url": "https://ssmugshots.blob.core.windows.net/images/AL0050000-572101-254822-244890-Mugshot-1.jpg",
+          "booking": "Bkg #255745"
+        }
       },
       {
         "case": "Bkg #255744",
@@ -1464,7 +1556,11 @@
         "date": "2026-11-24",
         "arrest": "11/24/2026 20:00",
         "charges": "Drug paraphernalia, first offense",
-        "released": true
+        "released": true,
+        "photo": {
+          "url": "https://ssmugshots.blob.core.windows.net/images/AL0050000-572079-241833-216497-Mugshot-1.jpg",
+          "booking": "Bkg #255744"
+        }
       },
       {
         "case": "Bkg #255743",
@@ -1473,7 +1569,11 @@
         "date": "2026-11-24",
         "arrest": "11/24/2026 20:05",
         "charges": "Failure to appear",
-        "released": false
+        "released": false,
+        "photo": {
+          "url": "https://ssmugshots.blob.core.windows.net/images/AL0050000-298946-250714-234818-Mugshot-1.jpg",
+          "booking": "Bkg #255743"
+        }
       },
       {
         "case": "Bkg #255742",
@@ -1482,7 +1582,11 @@
         "date": "2026-11-24",
         "arrest": "11/24/2026 14:50",
         "charges": "Failure to appear/comply/pay (4)",
-        "released": false
+        "released": false,
+        "photo": {
+          "url": "https://ssmugshots.blob.core.windows.net/images/AL0050000-305967-248955-230416-Mugshot-1.jpg",
+          "booking": "Bkg #255742"
+        }
       },
       {
         "case": "Bkg #255741",
@@ -1491,7 +1595,11 @@
         "date": "2026-11-24",
         "arrest": "11/24/2026 18:54",
         "charges": "Auto theft",
-        "released": false
+        "released": false,
+        "photo": {
+          "url": "https://ssmugshots.blob.core.windows.net/images/AL0050000-186332-246710-224397-Mugshot-1.jpg",
+          "booking": "Bkg #255741"
+        }
       },
       {
         "case": "Bkg #255740",
@@ -1500,7 +1608,11 @@
         "date": "2026-11-24",
         "arrest": "11/24/2026",
         "charges": "Criminal mischief (damage to business property); resisting arrest; domestic violence, third degree (2); criminal trespass",
-        "released": false
+        "released": false,
+        "photo": {
+          "url": "https://ssmugshots.blob.core.windows.net/images/AL0050000-577572-255389-246253-Mugshot-1.jpg",
+          "booking": "Bkg #255740"
+        }
       },
       {
         "case": "Bkg #255729",
@@ -1509,7 +1621,11 @@
         "date": "2026-11-24",
         "arrest": "11/24/2026 12:43",
         "charges": "Possession of marijuana, second degree; tampering with physical evidence; possession of imitation drugs",
-        "released": true
+        "released": true,
+        "photo": {
+          "url": "https://ssmugshots.blob.core.windows.net/images/AL0050000-573729-246323-222341-Mugshot-1.jpg",
+          "booking": "Bkg #255729"
+        }
       },
       {
         "case": "Bkg #255728",
@@ -1518,7 +1634,11 @@
         "date": "2026-11-24",
         "arrest": "11/24/2026 11:10",
         "charges": "Public intoxication; drug paraphernalia, first offense",
-        "released": false
+        "released": false,
+        "photo": {
+          "url": "https://ssmugshots.blob.core.windows.net/images/AL0050000-293081-253434-240456-Mugshot-1.jpg",
+          "booking": "Bkg #255728"
+        }
       },
       {
         "case": "Bkg #255727",
@@ -1545,7 +1665,11 @@
         "date": "2026-11-24",
         "arrest": "11/24/2026 09:48",
         "charges": "Parole violation",
-        "released": false
+        "released": false,
+        "photo": {
+          "url": "https://ssmugshots.blob.core.windows.net/images/AL0050000-210282-127174-96639-Mugshot-1.jpg",
+          "booking": "Bkg #255725"
+        }
       },
       {
         "case": "Bkg #255724",
@@ -1554,7 +1678,11 @@
         "date": "2026-11-24",
         "arrest": "11/24/2026 02:40",
         "charges": "Probation revocation",
-        "released": false
+        "released": false,
+        "photo": {
+          "url": "https://ssmugshots.blob.core.windows.net/images/AL0050000-365921-255264-245946-Mugshot-1.jpg",
+          "booking": "Bkg #255724"
+        }
       },
       {
         "case": "Bkg #255723",
@@ -1563,7 +1691,11 @@
         "date": "2026-11-24",
         "arrest": "11/24/2026 00:15",
         "charges": "Failure to appear, traffic (2)",
-        "released": true
+        "released": true,
+        "photo": {
+          "url": "https://ssmugshots.blob.core.windows.net/images/AL0050000-317412-254106-243104-Mugshot-1.jpg",
+          "booking": "Bkg #255723"
+        }
       },
       {
         "case": "Bkg #255722",
@@ -1581,7 +1713,11 @@
         "date": "2026-11-23",
         "arrest": "11/23/2026",
         "charges": "Synthetic narcotic possession",
-        "released": true
+        "released": true,
+        "photo": {
+          "url": "https://ssmugshots.blob.core.windows.net/images/AL0050000-367901-209729-178623-Mugshot-1.jpg",
+          "booking": "Bkg #255721"
+        }
       },
       {
         "case": "Bkg #255720",
@@ -1590,7 +1726,11 @@
         "date": "2026-11-23",
         "arrest": "11/23/2026 18:35",
         "charges": "Public intoxication",
-        "released": true
+        "released": true,
+        "photo": {
+          "url": "https://ssmugshots.blob.core.windows.net/images/AL0050000-316798-203676-172594-Mugshot-1.jpg",
+          "booking": "Bkg #255720"
+        }
       },
       {
         "case": "Bkg #255719",
@@ -1599,7 +1739,11 @@
         "date": "2026-11-23",
         "arrest": "11/23/2026 18:11",
         "charges": "Federal inmate hold",
-        "released": false
+        "released": false,
+        "photo": {
+          "url": "https://ssmugshots.blob.core.windows.net/images/AL0050000-577091-254297-243603-Mugshot-1.jpg",
+          "booking": "Bkg #255719"
+        }
       },
       {
         "case": "Bkg #255718",
@@ -1617,7 +1761,11 @@
         "date": "2026-11-23",
         "arrest": "11/23/2026 13:38",
         "charges": "Methamphetamine possession",
-        "released": false
+        "released": false,
+        "photo": {
+          "url": "https://ssmugshots.blob.core.windows.net/images/AL0050000-437188-254117-243120-Mugshot-1.jpg",
+          "booking": "Bkg #255717"
+        }
       },
       {
         "case": "Bkg #255716",
@@ -1626,7 +1774,11 @@
         "date": "2026-11-23",
         "arrest": "11/23/2026 20:35",
         "charges": "Failure to appear, traffic (2)",
-        "released": true
+        "released": true,
+        "photo": {
+          "url": "https://ssmugshots.blob.core.windows.net/images/AL0050000-183205-220838-189669-Mugshot-1.jpg",
+          "booking": "Bkg #255716"
+        }
       },
       {
         "case": "Bkg #255715",
@@ -1635,7 +1787,11 @@
         "date": "2026-11-23",
         "arrest": "11/23/2026 13:47",
         "charges": "U.S. Marshals hold",
-        "released": false
+        "released": false,
+        "photo": {
+          "url": "https://ssmugshots.blob.core.windows.net/images/AL0050000-445796-189217-158195-Mugshot-1.jpg",
+          "booking": "Bkg #255715"
+        }
       },
       {
         "case": "Bkg #255714",
@@ -1662,7 +1818,11 @@
         "date": "2026-11-23",
         "arrest": "11/23/2026 11:00",
         "charges": "Failure to appear/comply/pay (3)",
-        "released": true
+        "released": true,
+        "photo": {
+          "url": "https://ssmugshots.blob.core.windows.net/images/AL0050000-499194-251274-236311-Mugshot-1.jpg",
+          "booking": "Bkg #255707"
+        }
       },
       {
         "case": "Bkg #255706",
@@ -1689,7 +1849,11 @@
         "date": "2026-11-23",
         "arrest": "11/22/2026 19:53",
         "charges": "Theft of property, third degree",
-        "released": true
+        "released": true,
+        "photo": {
+          "url": "https://ssmugshots.blob.core.windows.net/images/AL0050000-305893-124573-94039-Mugshot-1.jpg",
+          "booking": "Bkg #255703"
+        }
       },
       {
         "case": "Bkg #255702",
@@ -1698,7 +1862,11 @@
         "date": "2026-11-23",
         "arrest": "11/23/2026 03:48",
         "charges": "Rape (strong-arm)",
-        "released": true
+        "released": true,
+        "photo": {
+          "url": "https://ssmugshots.blob.core.windows.net/images/AL0050000-553488-226270-194746-Mugshot-1.jpg",
+          "booking": "Bkg #255702"
+        }
       }
     ],
     "list_note": "Every booking at the Baldwin County jail with an admit date of Nov. 23–25, newest first, as booked by the arresting agency. Immigration detainers in the same days (15) are not listed. Read at about 4:45 a.m. Wednesday, Nov. 25. The jail roster could not be re-read Wednesday evening."
