@@ -68,16 +68,16 @@ Search (client-side, all editions) · Corrections · About · RSS `/feed.xml` ·
 ```
 
 ## Booking photos
-- Only on single-person entries for felony-grade bookings (one booking number in `cases`). Never on roundups,
-  city-log rows, the bookings table, prostitution arrests, juveniles or immigration holds. `build.py` refuses
-  the photo if any of those apply, whatever the JSON says.
+- Every photo the BCSO roster publishes may be shown (owner, Nov. 25, 2026): on single-person entries (one booking
+  number in `cases`) and on rows of `filings.new_list`, each as `"photo": {"url": "...", "booking": "Bkg #NNNNNN"}`.
+- Never for prostitution, soliciting/patronizing ("johns") or procuring arrests (Ala. Code 13A-6-183(b)), juveniles,
+  immigration holds, roundups or city-log rows. Promoting prostitution is allowed. `build.py` (`photo_text_ok`,
+  `photo_allowed`, `row_photo_key`) refuses the photo if any of those apply, whatever the JSON says.
 - `photo.url` is the image URL on the BCSO roster card (host `ssmugshots.blob.core.windows.net` only). Skip
   cards showing `NoMugshot.jpg`.
 - The sync workflow runs `scripts/fetch_photos.py`, which saves each image once to `data/photos/<booking>.jpg`
-  and commits it; the site serves its own copy. Editions added straight to the repo get their photos on the
-  next sync run (≤10 min).
-- Take-down after dismissal or acquittal: delete `data/photos/<booking>.jpg` **and** remove the entry's
-  `photo` field, then push.
+  and commits it; the site serves its own copy.
+- Take-down after dismissal or acquittal: delete `data/photos/<booking>.jpg` **and** remove the `photo` field, then push.
 
 ## Public-site rules (straight tone)
 - Plain factual language. No jokes or opinion in entries — opinion goes only in `commentary`.

@@ -190,13 +190,21 @@ def page(path, title, body, description="", active=""):
 
 
 # ---------- booking photos ----------
-# Booking photos appear only on single-person entries for serious (felony-grade) bookings; the daily run
-# decides which entries get a "photo" field. These checks are the hard floor the builder enforces anyway.
+# Booking photos (owner's decision, Nov. 25, 2026): every booking photo the sheriff's roster publishes may be shown,
+# on single-person entries and beside each row of the jail-bookings table. These checks are the hard floor.
 PHOTO_DIR = DATA / "photos"
 PHOTO_HOST_RE = re.compile(r"^https://ssmugshots\.blob\.core\.windows\.net/images/[\w.-]+\.jpe?g$", re.I)
-# Alabama law (the 2016 Human Trafficking Safe Harbor Act) bars publishing
-# prostitution-arrest photos. Juvenile and immigration items never carry a face either.
-PHOTO_BLOCK_RE = re.compile(r"prostitut|solicit|juvenile|minor in possession|immigration|\bice\b detain", re.I)
+# Alabama law (Ala. Code 13A-6-183(b), 2016 Safe Harbor Act) bars publishing photos of arrests for prostitution
+# under Division 2 of Art. 3, Ch. 12 (13A-12-120 to -125), which includes soliciting/patronizing ("johns") and
+# procuring patrons. Promoting prostitution (13A-12-111 to -113, Division 1) is outside that bar, so it is allowed.
+# Juvenile and immigration items never carry a face either.
+PHOTO_BLOCK_RE = re.compile(r"prostitut|solicit|procur|patroniz|juvenile|minor in possession|minor in consumption|immigration|\bice\b detain", re.I)
+PHOTO_ALLOW_RE = re.compile(r"promoting\s+prostitution(\s+(in\s+the\s+)?(1st|2nd|3rd|first|second|third)(\s+degree)?)?", re.I)
+
+
+def photo_text_ok(text):
+    """False if the text names an offence whose photo may not be published."""
+    return not PHOTO_BLOCK_RE.search(PHOTO_ALLOW_RE.sub(" ", text or ""))
 
 
 def photo_key(en):
@@ -209,7 +217,23 @@ def photo_allowed(en):
     if not en.get("photo") or len(en.get("cases") or []) != 1:     # one person per entry, never roundups
         return False
     text = " ".join([en.get("title", "")] + en.get("body", []) + en.get("tags", []))
-    return not PHOTO_BLOCK_RE.search(text)
+    return photo_text_ok(text)
+
+
+def row_photo_key(n):
+    """Photo key for a jail-bookings row ({"case", "charges", "photo": {"url", "booking"}}), or None if not allowed."""
+    ph = n.get("photo") or {}
+    m = re.search(r"(\d{5,})", ph.get("booking") or n.get("case") or "")
+    if not (ph.get("url") and m and photo_text_ok(n.get("charges", ""))):
+        return None
+    return m.group(1)
+
+
+def render_row_photo(n):
+    key = row_photo_key(n)
+    if not (key and (PHOTO_DIR / f"{key}.jpg").exists()):
+        return ""
+    return f'<img class="thumb" src="{BASE}photos/{key}.jpg" alt="Booking photo: {e(n.get("defendant", ""))}" loading="lazy" width="40" height="50">'
 
 
 def render_photo(en):
@@ -261,7 +285,7 @@ def render_filings(f):
     if f.get("new_list"):
         nl = f["new_list"]
         nrows = "".join(
-            f'<tr><td class="who">{e(n.get("defendant"))}{" <span class=chip>Released</span>" if n.get("released") else ""}</td>'
+            f'<tr><td class="who">{render_row_photo(n)}{e(n.get("defendant"))}{" <span class=chip>Released</span>" if n.get("released") else ""}</td>'
             f'<td>{e(n.get("agency"))}</td><td class="case">{e(n.get("arrest") or "—")}</td><td>{e(n.get("charges"))}</td></tr>'
             for n in nl)
         new = (f'<p class="presumption">{e(f.get("list_note", ""))}</p>'
@@ -621,7 +645,7 @@ def build():
 <li>U.S. Attorney, Southern District of Alabama, Alabama Attorney General and ALEA press releases</li><li>Local newsrooms</li></ul>
 <h2>How to read it</h2>
 <p>Alabama&rsquo;s court records are behind a paid system, so most charges here are booked charges: what the arresting officer listed when the person was jailed. Prosecutors may file different charges or none. Court outcomes come only from prosecutors&rsquo; announcements. Feeds add records to past dates; a count for any day is what had been posted at the time of reading, not a final total.</p>
-<p>An arrest or charge is an accusation. Everyone named is presumed innocent unless and until proven guilty. Dates of birth and race are not published. Booking photos from the county jail appear only with individual entries on serious charges; they are never shown for prostitution arrests, juveniles or immigration holds. Victims are not named. Domestic violence, sex-offence and child-related entries carry only what an official record states. Immigration detainers are not crimes and are not listed by name.</p>
+<p>An arrest or charge is an accusation. Everyone named is presumed innocent unless and until proven guilty. Dates of birth and race are not published. Booking photos are shown when the county jail publishes them, beside individual entries and in the jail-bookings list; they are never shown for prostitution or soliciting arrests, juveniles or immigration holds. Victims are not named. Domestic violence, sex-offence and child-related entries carry only what an official record states. Immigration detainers are not crimes and are not listed by name.</p>
 <h2>Corrections and removal requests</h2><p>Errors are logged on the <a href="{BASE}corrections/">corrections page</a>. If a case was dismissed or you were acquitted, <a href="{BASE}contact/">contact us</a> and the entry will be updated to reflect the outcome and the booking photo taken down.</p>
 </main>"""
     write("about/index.html", page("about/", "About", about, active="about/"))

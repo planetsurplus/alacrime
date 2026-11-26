@@ -36,13 +36,18 @@ Validate the JSON (it must parse, ids unique, every entry has title/date/body) b
 
 The cloud workspace is wiped between runs. Recover the page with `Artifact` action `read` on the canonical URL, copy the saved file to `/home/claude/baldwin-crime-record.html`, and **Read every line** before republishing — a republish is refused otherwise.
 
-## Booking photos (owner's decision, Nov. 24, 2026)
+## Booking photos (owner's decisions, Nov. 24 and Nov. 25, 2026)
 
-The owner lifted the no-photo rule for **felony entries only**. A photo goes beside an entry when all of these hold:
-- the entry is about **one person** (exactly one booking number in `cases`) — never a roundup ("Other arrests…", "Methamphetamine arrests…" covering two people), never the bookings table or city-arrest rows;
-- the booked charge is **felony-grade on its face** (homicide, rape/sodomy/sex abuse, robbery, burglary, assault on an officer, aggravated or 1st/2nd-degree assault, drug trafficking or distribution, child abuse, kidnapping, escape, firearm by a prohibited person) or an official source states a felony, conviction or sentence;
-- it is **not** a prostitution or solicitation arrest (Alabama law bars publishing those photos), a juvenile, or an immigration hold;
-- the roster card shows a real photo — cards showing `NoMugshot.jpg` get none.
+From Nov. 25 the owner wants **every booking photo the sheriff's roster publishes**, not only felonies. Add a photo:
+- to every **single-person entry** (exactly one booking number in `cases`) whose roster card shows a real photo, and
+- to **every row of `filings.new_list`** (the bookings table) whose roster card shows a real photo — `"photo": {"url": ..., "booking": "Bkg #NNNNNN"}` on the row.
+
+Never for:
+- **people arrested for prostitution or for soliciting/patronizing ("johns") or procuring patrons** — Ala. Code 13A-6-183(b) bars publishing photos of arrests for prostitution under Division 2 of Art. 3, Ch. 12 (13A-12-120 to -125), which is where the soliciting charge sits. The owner asked to include johns; this was declined on that legal ground on Nov. 25 and stays blocked unless the owner gets legal advice that it is allowed.
+- juveniles, immigration holds, city-log rows (the city logs have no photos), roundup entries (the people in a roundup get their photo in the bookings table instead);
+- cards showing `NoMugshot.jpg`.
+
+**Promoting prostitution (pimps) is allowed** — 13A-12-111 to -113 are in Division 1, outside the statutory bar. `build.py` (`photo_text_ok`) enforces all of this: it drops any photo whose entry text or row charges mention prostitution, soliciting, procuring or patronizing, except "promoting prostitution".
 
 **How to get it:** on the roster results, each card's `<img>` sits inside a `div.card-body` whose text carries the booking number (`#255702`). The image URL is on `ssmugshots.blob.core.windows.net/images/…-Mugshot-1.jpg`; its numbers are **not** the booking number, so match by the card's `#NNNNNN`. Paging («, », page numbers) reloads the page, so scan one page per call (store results in `localStorage`, wait ~3 s between pages; « goes back one page, not to page 1). Clear the `localStorage` key afterwards.
 
@@ -59,7 +64,7 @@ Run `TZ=America/Chicago date`. Baldwin County is on **Central time**; the user i
 1. `TZ=America/Chicago date`. Load the Claude in Chrome tools in one ToolSearch call.
 2. Read every source below, in the order of the Summary table. Record the count seen for each.
 3. Re-read the two preceding days on the roster and the city logs.
-4. Add booking photos to qualifying entries (see "Booking photos"), collected while the roster is open in step 2.
+4. Add booking photos to qualifying entries and to every bookings-table row (see "Booking photos"), collected while the roster is open in step 2.
 5. Write the edition JSON (format above), check it parses, and upload it to the "alacrime feed" Drive folder.
 6. Update the working artifact with the same edition.
 7. About 15 minutes later, load www.alacrime.com and confirm the new date is on the home page.
@@ -218,7 +223,7 @@ When caught: do not publish it anywhere — not the artifact, not the Drive JSON
 - Everyone is **arrested or charged, not convicted**, unless an official source says convicted or sentenced.
 - Charges are **booked charges** from the jail. Never call one an indictment or give a felony class unless an official source does.
 - **Never publish date of birth, race or the age/race/sex line** from the roster. Age may be given as stated in a news item, not computed from the DOB.
-- Booking photos only as set out in "Booking photos" — never in the bookings table, city-arrest rows or roundups.
+- Booking photos only as set out in "Booking photos" — on single-person entries and bookings-table rows, never on city-arrest rows, roundups, prostitution or soliciting arrests, juveniles or immigration holds.
 - Do not list immigration holds (ICE, "INS Service" detainers) as crimes; an immigration detainer is not a criminal charge.
 - **Do not compile non-crime biographical profiles of the people named here.** Private people, mostly misdemeanours, many dismissed. Answer bigger-picture questions in aggregate.
 - Note coincidences without asserting connections the records don't support.
